@@ -1,0 +1,3 @@
+./review_original/モバイルバッテリー.txt
+./review_original/GETIHU.txt
+./review_original/Anker.txt

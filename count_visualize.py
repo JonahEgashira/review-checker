@@ -40,7 +40,7 @@ def bar_chart(data_pct):
     index = [i + 1 for i in range(len(data_pct))]
 
     fig.canvas.set_window_title('Percentage First Digits')
-    ax.set_title('Data vs. Benford Values(adj)', fontsize = 15)
+    ax.set_title('Data vs. Benford Values', fontsize = 15)
     ax.set_ylabel('Frequency(%)', fontsize = 16)
     ax.set_xticks(index)
     ax.set_xticklabels(index, fontsize=14)

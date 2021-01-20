@@ -16,7 +16,9 @@ def separate(path, noun=True, verb=True, adj=True, adv=True):
     corpus_dir_path = Path('.')
 
     n = len(path)
-    title = path[:n-5]
+    prefix = "./review_original/"
+    pref_size = len(prefix)
+    title = path[pref_size:n-4]
     file_name = path
 
     with open(data_dir_path.joinpath(file_name), 'r', encoding='utf-8') as file:
@@ -65,15 +67,15 @@ def separate(path, noun=True, verb=True, adj=True, adv=True):
 
 
     #引数で指定した品詞のみフィルターする
-     filter_list = []
-     if noun:
-         filter_list.append('名詞')
-     if verb:
-         filter_list.append('名詞')
-     if adj:
-         filter_list.append('形容詞')
-     if adv:
-         filter_list.append('副詞')
+    filter_list = []
+    if noun:
+        filter_list.append('名詞')
+    if verb:
+        filter_list.append('名詞')
+    if adj:
+        filter_list.append('形容詞')
+    if adv:
+        filter_list.append('副詞')
 
     # 単語に対する処理のまとめ
     token_filters = [NumericReplaceFilter(),                         # 名詞中の漢数字を含む数字を0に置換

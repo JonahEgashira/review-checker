@@ -14,7 +14,7 @@ def get_page_from_amazon(url):
     options.add_argument('--headless')
      
     # ブラウザーを起動
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(options=options)
     driver.get(url)
     driver.implicitly_wait(10)  # 見つからないときは、10秒まで待つ
      
@@ -25,7 +25,22 @@ def get_page_from_amazon(url):
      
     return text
 
+def get_title(url):
+    text = get_page_from_amazon(url)
+    amazon_soup = BeautifulSoup(text, features='lxml')
+
+    title = amazon_soup.find("title").text
+    #タイトルの整形
+    title = title.split()
+    title = title[1]
+
+    return title
+
 def get_all_reviews(url):
+    '''
+    レビューを取得する
+    '''
+
     review_list = []
     title = ""
     i = 1
@@ -49,21 +64,22 @@ def get_all_reviews(url):
         else:
             break
     
-    #タイトルの整形
-    title = title.split()
-    title = title[1]
-    return review_list, title
+    return review_list
 
-if __name__ == '__main__':
-
-    
-
+def create_review_file(url):
+    '''
+    引数のurlからレビューを取得、新しくファイルに書き込む
+    新しく書かれたファイルのパスを返す
+    '''
     new_url = url.replace('dp', 'product-reviews')
-    review_list, title = get_all_reviews(new_url)
+    title = get_title(new_url)
+    review_list = get_all_reviews(new_url)
 
-    with open(f"{title}.txt", 'w') as f:
+    path = f"./review_original/{title}.txt"
+    with open(path, 'w') as f:
         for i in range(len(review_list)):
             review_text = textwrap.fill(review_list[i].text, 80)
             print(f"\nNo.{i+1}")
             print(review_text, file = f)
+    return path
 
