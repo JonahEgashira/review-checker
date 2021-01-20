@@ -2,6 +2,10 @@ import collections
 import matplotlib.pyplot as plt
 
 def count_words(path):
+    '''
+    単語の数をカウントしたリストを返す
+    '''
+
     with open(path) as f:
         words = [s.strip() for s in f.readlines()]
 
@@ -11,6 +15,9 @@ def count_words(path):
 
 
 def count_first_digits(data_list):
+    '''
+    それぞれのカウントの最上位桁の数字の割合を返す
+    '''
     digit_count = [0]*9
     for val in data_list:
         s = str(val)
@@ -21,9 +28,13 @@ def count_first_digits(data_list):
     data_pct = [(i / total) * 100 for i in digit_count]
     return data_pct
 
-BENFORD = [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
 
 def bar_chart(data_pct):
+    '''
+    最上位桁の割合をベンフォードの法則と比較してプロットする
+    '''
+    BENFORD = [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
+
     fig, ax = plt.subplots()
 
     index = [i + 1 for i in range(len(data_pct))]
@@ -50,6 +61,7 @@ def bar_chart(data_pct):
     plt.show()
 
 word_path = "./sentence/jagariko_word_list.txt"
+
 def main():
     data = count_words(word_path)
     data_pct = count_first_digits(data)
