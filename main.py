@@ -12,7 +12,9 @@ def get_reviews():
         urls = f.readlines()
         for url in urls:
             title = get_title(url)
+            print(title)
             path = f"./review_original/{title}.txt"
+            print(path)
             #もしすでにレビューを取得してたらcontinue
             if os.path.exists(path):
                 continue
@@ -43,5 +45,15 @@ def separate_and_count():
 
         
 if __name__ == "__main__":
-    #get_reviews()
-    separate_and_count()
+    
+    get_reviews()
+    counts = count_chars('./review_original/Anker.txt')
+    data_count, data_pct, data_total = count_first_digits(counts)
+    expected_counts = get_expected_counts(data_total)
+    
+    print(expected_counts)
+    print(data_count)
+    
+    bar_chart(data_pct)
+    print(chi_square_test(data_count, expected_counts))
+

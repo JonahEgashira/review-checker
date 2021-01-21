@@ -26,7 +26,8 @@ def get_page_from_amazon(url):
     return text
 
 def get_title(url):
-    text = get_page_from_amazon(url)
+    new_url = url.replace('dp', 'product-reviews')
+    text = get_page_from_amazon(new_url)
     amazon_soup = BeautifulSoup(text, features='lxml')
 
     title = amazon_soup.find("title").text
@@ -72,7 +73,6 @@ def create_review_file(url):
     新しく書かれたファイルのパスを返す
     '''
     new_url = url.replace('dp', 'product-reviews')
-    title = get_title(new_url)
     review_list = get_all_reviews(new_url)
 
     path = f"./review_original/{title}.txt"

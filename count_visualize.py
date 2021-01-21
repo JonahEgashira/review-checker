@@ -1,4 +1,5 @@
 import collections
+import math
 import matplotlib.pyplot as plt
 
 def count_words(path):
@@ -13,10 +14,23 @@ def count_words(path):
     counts = list(counter.values())
     return counts
 
+def count_chars(path):
+    '''
+    文章の１文字ずつのカウントしたリストを返す
+    '''
+
+    with open(path) as f:
+        words = f.read().replace('\n', '')
+
+    counter = collections.Counter(words)
+    counts = list(counter.values())
+    return counts
+
 
 def count_first_digits(data_list):
     '''
-    それぞれのカウントの最上位桁の数字の割合を返す
+    3つの値を返却する
+    カウントの最上位桁の数、割合、カウントの総数を返す
     '''
     digit_count = [0]*9
     for val in data_list:
@@ -26,7 +40,7 @@ def count_first_digits(data_list):
 
     total = sum(digit_count)
     data_pct = [(i / total) * 100 for i in digit_count]
-    return data_pct
+    return digit_count, data_pct, total
 
 
 def bar_chart(data_pct):
@@ -60,7 +74,25 @@ def bar_chart(data_pct):
 
     plt.show()
 
-word_path = "./sentence/jagariko_word_list.txt"
+def get_expected_counts(total_count):
+    '''
+    サンプルの総数に対してベンフォードの法則が期待する個数のリストを返す
+    '''
+    BENFORD = [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
+    return [round(p * total_count / 100) for p in BENFORD]
+
+
+def chi_square_test(data_count, expected_counts):
+    '''
+    カイ二乗検定(自由度 8, p値=0.05)をもとに真偽値を返す
+    '''
+    chi_square_stat = 0 #カイ二乗検定量
+    for data, expected in zip(data_count, expected_counts):
+        chi_square = math.pow(data - expected, 2)
+        chi_square_stat += chi_square / expected
+    
+    return chi_square_stat
+    
 
 def main():
     data = count_words(word_path)
