@@ -72,7 +72,10 @@ def create_review_file(url):
     引数のurlからレビューを取得、新しくファイルに書き込む
     新しく書かれたファイルのパスを返す
     '''
+    #普通のリンク用
     new_url = url.replace('dp', 'product-reviews')
+    #サクラチェッカーのリンク用
+    new_url = url.replace('gp', 'product-reviews')
     review_list = get_all_reviews(new_url)
 
     path = f"./review_original/{title}.txt"

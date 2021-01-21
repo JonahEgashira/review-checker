@@ -3,12 +3,12 @@ from separate_sentence import separate
 from count_visualize import *
 from scrape import *
 
-def get_reviews():
+def get_reviews(path):
     '''
     レビューを取得してファイルのパスをpath.txtに書き込む
     '''
     path_list = []
-    with open('./url.txt', 'r', encoding='utf-8') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         urls = f.readlines()
         for url in urls:
             title = get_title(url)
@@ -45,15 +45,4 @@ def separate_and_count():
 
         
 if __name__ == "__main__":
-    
-    get_reviews()
-    counts = count_chars('./review_original/Anker.txt')
-    data_count, data_pct, data_total = count_first_digits(counts)
-    expected_counts = get_expected_counts(data_total)
-    
-    print(expected_counts)
-    print(data_count)
-    
-    bar_chart(data_pct)
-    print(chi_square_test(data_count, expected_counts))
-
+    get_reviews('./bad_url.txt')
