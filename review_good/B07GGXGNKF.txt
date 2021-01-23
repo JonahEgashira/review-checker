@@ -1,0 +1,681 @@
+    PS4スリム初期タイプ付属コントローラのUSB端子修理のためJDS-040を購入。ボタンゴムの交換等幾度かの分解のせいか、ケーブルの端子部分が剝がれ始め
+ていたため、ケーブル付きのこちらを選びました。取り付けて動かしてみたところ、動作はしましたがいくつか問題があったため、参考の為にレビューします。1.ライトの色味
+が変わる他のメーカーの商品レビューでもありましたが、充電中を示すオレンジのライトがレモンイエローになります。動作に問題は無いと思われますが、気になる方は注意。2
+.ケーブルがやや長めケーブルが純正品よりやや長いため少し気を付けないと組み立て時にケーブルをケースで挟んでしまうかもしれません。下手をすると内部で断線する可能性
+もあるので注意が必要です。3.ケーブル接続端子が両面型これが一番の問題ですが、ケーブル接続端子が表裏両対応の別の形のものを使っています。ぱっと見て純正と逆向きに
+金具があるように見えるため、ひねって逆向きに取り付けるものと思えます。ですが、逆向きに取り付けると通電しないどころか、順序逆で通電してしまいます。最悪コントロー
+ラーの基盤どころかUSB接続でPS4本体にまで悪影響が出かねないので、気を付ける必要があります。正しい向きは青い押し込み用のプラ板が手前に見えるように差し込むこ
+とです。ちなみに同梱のカードに記載されたURLに、英語ですが手順の解説が画像付きでありましたが、最初期型で形が違うものしかなかったです。一応、ケーブルの向きはそ
+ちらの画像と同じなので判断がつかなければ一度見てみることをお勧めします。4.付属ドライバーに磁石機能がないドライバーに関してはおまけのようなものですし、さして問
+題ともいえないかもしれませんが、私のところに届いたドライバーには磁力は一切ありませんでした。デュアルショック4のネジは小さいためドライバーに磁石の機能がないとす
+ぐにぽろぽろとネジが落ちます。小さい分、なくすと探すのが大変なため利用しないほうがいいでしょう。私は自前のドライバーを使いました。以上、問題点を列挙してみました
+。正しく使えば動作はするため星は３とさせていただきますが、一見で間違えやすいく間違えると問題がある３については、もっと周知するべきだと思います。
+    問題なく交換できました。付属ケーブルがやや長めなので内部で引っかからないか気になりましたが、大丈夫みたいです。長いことでかえって扱いやすい（コントローラ
+を分解するときに引っ掛けにくくなる）かも。
+    くそったれが
+    I bought these as I was in the same position as everyone else & needed a new
+charging port. These fit and because they come with new ribbon cables it is a
+better kit than a lot of the single port kits.However.....I replaced this
+JDS-011 charging port in May 2020 and by September 2020 I had to replace the
+first replacement port because it had failed too. It is currently November 2020
+and the second port in the kit has failed, necessitating the purchase of another
+JDS-011 kit - this makes me unhappy.
+    Once selected the right component, this product is exactly what we needed.
+We managed to repair the controller, with no problem at all, and we made a huge
+savaing, and also we repaired rather than buying a new one so we reduced our
+impact on the planet. You just need to make sure you select the right component
+for the right controller.
+    This part managed to kill my controller in less than 60 seconds.To  start
+off i fix electronics on a daily basis - so am more than competant performing
+repairs. i fitted teh new charging pot (JDS-040) and and connected to my PS4 Pro
+and the charging light turned on, after about 30 Seconds the light flickered and
+went off. i picked up the controller and it was getting really Hot, and refused
+to power on. i then replaced the port with the second one in the pack  but still
+it wont turn on but the controller however it continues  get hot when ever
+connected to the power in a last ditch effort to check the controller was still
+working replaced with my original non-charging port and tried to turn on but  no
+power LED. these replacement parts are defective and have killed my controller,
+which wouldn't have me that mad except that a Genuine Dual shock 4 is £44, i
+have not doubt that with the speed my controller was heating up these are a Very
+Serious Fire Risk
+    Arrived on time and well packaged. Tool came in handy and the parts were
+easy to change. Worked well for my PS4 DualShock controller.
+    The USB ports are great and I was able to fit them in my DualShock 4s
+easily. I noticed that one of the ribbons in the pack were faulty as one of the
+controllers wasn’t turning on. I had to use an old ribbon to make the dual shock
+work. Other than that, my controllers are working again.
+    Great new item but unfortunately did not solve my proplem with my
+controller.Possibly somethibg elseBought new controller
+    Was a pretty easy fix, followed one of the many videos on YouTube.
+Controller is now charging fine, like new for a few quid. Better than forking
+out £50 for a new controller.
+    It works very well. The ribbon cable is longer then the original. Makes it
+easier to plug in. Very good
+    As I'd hoped, I replaced my existing charger with one of these, and saved
+splurging £50 on a new controller!Very easy to replace when you look at youtube
+videos... just clicks in and then screw everything back together.
+    Good stuff, easy repair
+    Solved the problem
+    DO NOT USE THIS PRODUCT , I bought this product a while ago and only just
+got around to fitting them to my pad and all I got was a pop and smoke coming
+from my pad . I am now the proud owner of a brokenmpad thanks to this product DO
+NOT BUY !!
+    Absolutely perfect. Had 2 dead controllers that no longer charged (heavy
+handed kids fumbling with the leads). Swapped over, dead simple to do & took
+about 10 minutes. Would 100% order again
+    Quality
+    too well there are no glitches and 1 spare comes in handy with this product
+    Great product, came with everything I needed and was at a great price.
+Managed to get my controller charging again!
+    Great item enabled me to fix both Ps4 pads for under a tenner..... Took
+minutes to do with clear instructions via link to guide. Thankyou
+    Replacement works a treat, happy lad here
+    I have only used the ribbons so far and they work well. But the other piece
+doesn’t look like it can be screwed on like the original piece
+    Fantastic product easy fix
+    Very easy to install and works like it should 👍🏻
+    It was really good and easy to put it on the controller I’m very happy with
+it
+    Worked perfectly easy to install great product
+    The two micro USB port I bought don’t work,wouldn’t bother buying this
+product
+    a bit expensive when compared to other sellers i found after ordering, but
+it worked and installation was quite easy and my charging issues with my DS4
+controller are now gone
+    To fix my ps4 pad! Works great
+    Unfortunately they don't work
+    10/10
+    Worked 100% plus you get 2 so have a spare just incase needed again
+    Tried both charge ports and ribbons and none worked.
+    Le pongo una estrella porque no funciona bien. El Conector donde se
+introduce la cinta del cableado no hace buen contacto y pierde su función.
+Aunque introduzcas bien la cinta y aprietes el microcierre, no conecta. Sería
+mejor que el sistema fuese solo introducir la cinta a presión, como el original.
+    La placa encaja perfectamente con la primera versión del mando de Ps4. En mi
+caso he podido utilizar los cables que se incluyen sin problema y funciona al
+100%. Lo bueno es que lleva dos unidades y ya la tengo por si se me rompe otro
+mando. Además lleva un destornillador y el producto se entrega en una bolsita
+antiestática. Muy contento.
+    Consiglio di non comperare il Kit completo ma solo il connettore singoli che
+non funziona, il cacciavite non serve, come non servono le bretelle di
+connessione, conviene lasciare le originali. E' possibile acquistare solo i
+connettori danneggiati risparmiando molto sul prezzo totale del Kit completo
+    Consegna arrivata in tempi rapidi, come sempre. Smontato il controller e
+sostituita la schedina microusb insieme al nastro in dotazione, non carica
+comunque tramite il cavo usb. Nessuno dei due controller. Ho risolto acquistando
+un caricatore esterno che ricarica i controller tramite la porta ext degli
+stessi. Molto meglio, si evita di smontare e rischiare di fare danni.
+    Die Steckverbindung zum Kabel ist echt ein Witz und viel schlechter als beim
+Original. Das hält null und rutscht ständig wieder raus. Selbst mit den eigens
+mitglierferten Kabeln. Kann die guten Bewertungen nicht verstehen, vielleicht
+passt es bei einem der anderen Modelle besser. Ich bin damit sehr unzufrieden.
+Laden lässt sich der Akku nach dem Austausch übrigens auch nicht. Geht auf jeden
+Fall zurück. Das für den Preis ist echt ärgerlich.
+    Ottimi pezzi di ricambio per controller PS4. In particolare è la porta usb
+per l'innesto del cavo per la ricarica della batteria.C'è anche il cacciavite in
+dotazione che è utile. Prestate attenzione alla fascia di collegamento, cercate
+di non sgualcirla troppo nell'inesto.
+    Ho acquistato questi Dock di ricarica per riparare il joystick della PS4 dei
+miei fratelli.L’ho ordinati sabato pomeriggio e lunedì mattina alle nove e mezza
+mi sono stati consegnati.Puntualissimi.Subito dopo la consegna ho effettuato la
+riparazione sul controller, e per il momento sembra funzionare
+perfettamente.Sono soddisfatto, almeno per ora.P.S. Il cacciavite in dotazione è
+abbastanza resistente.Consigliato.
+    La schedina è perfettamente compatibile con l'esistente i cui contatti si
+sono usurati e rovinati col passare del tempo e con l'uso a volte improprio da
+parte di mio figlio; semplice e immediata la sostituzione. Fate attenzione solo
+ad aprire il joypad ed a richiuderlo correttamente! Consiglio: una volta
+sostituita la schedina e richiuso il joypad, prima di rimettere e stringere le 4
+viti, assicurateri che tutti i tasti e i joystich ruotino e si muovano
+correntamente senza impuntamenti strani.
+    Ich habe mir diese Ersatz-Ladebuchsen vor einem Weile gekauft. Heute musste
+ich dann meine Ladebuchse austauschen und stellte fest, dass die Ersatzteile
+nicht vollständig bestückt sind und somit auch kein Ladevorgang möglich ist. Im
+Bild sieht man links das Original von Sony und rechts die beiden gekauften
+Ersatzteile.  Man kann erkennen, dass die SMD Pads unterhalb der USB Buchse
+nicht bestückt sind.
+    El conector funciona, el cable plano no sirve de nada porqué no funciona,
+solo funciona el original que viene con el mando de Sony.
+    Ottimi componenti per sostituire quelli difettosi o danneggiati dei
+controller PS4. Attenzione al pezzo da ordinare: non tutti i controller sono
+uguali ed ognuno richiede un pezzo diverso
+    Ich wusste zuerst nicht welche Platine / welches Modul ich auswählen sollte
+und schaute alle Artikel durch.Hier ist alles gut beschrieben gewesen!Ich
+zerlegte daraufhin meinen Controller und prüfte den Modell-Typ, welcher sich auf
+der Platine befindet.Zack - korrekter Artikel bestellt - eingebaut - geht!Bin
+sehr zufrieden!
+    Una vez cambiado el conector,el mando de la ps4 me funciona y carga bien, el
+cable lo cambié por gusto y no funcionaba y tuve que volver a poner el original
+q estaba bien, pero ya no se si es que no lo puse correctamente el nuevo .
+    Fallaba la carga del mando de la PS4 de mi sobrino, me informe y vi que esta
+pieza solía ser la causante de dicha avería, pedí el recambio del mando
+correspondiente y perfecto, encima trae 2 piezas.
+    Wie auf dem Bild zu sehen is die Steckverbindung einfach nur billig und
+fällt zumindest bei einer Lade Platine sofort auseinander! Die zweite wurde dann
+verbaut aber siehe da? Es funktioniert trotzdem nicht! Da die mitgelieferten
+Kabeln nicht die richtigen bzw. defekt waren hab ich die von meinem anderen
+Controller verwendet und erst jetzt hat alles funktioniert!Würd ich hier NIE
+WIEDER BESTELLEN!!!
+    Por ahora perfecto. Se nota más apretada la clavija que en el original, lo
+que me gusta mucho. A ver cuanto aguanta. Lo recomiendo. Llegó antes de lo
+indicado por Amazon
+    Acquistato per aggiustare un joystick ps4. Prima di acquistare ho
+controllato il modello del chip interno al joystick e questo acquisto mi ha reso
+possibile la riparazione
+    Articolo inutile, non funziona, non affidabileAssolutamente lontano dall’
+originaleHo intenzione di renderlo
+    Riparato il controller, led un po' spenti invece, non sembra per niente con
+quello originale ma a me poco importa, funziona
+    Anche se ha l'attacco per il cavo a SX invece che a DX come l'originale
+funziona benissimo.
+    Article reçu le surlendemain. Très bien emballé. J'ai commandé cette pièce
+pour remplacer celle de ma manette PS4 qui ne chargeait plus. En suivant un tuto
+sur YouTube, ca m'a demandé 10min. Ma manette charge de nouveau, c'est parfait.
+J'ai économisé 50€. Vérifiez bien la version de la pièce qu'il vous faut avant
+de commander, la pièce est différente en fonction de votre manette. Pour cela,
+démontez votre manette et regardez les numero sur la pièce afin. De commander la
+bonne.
+    Arrivato in netto anticipo, Buon prodotto uguale all'originale, la
+confezione come sempre ben imballata con all'interno un piccolo cacciavite per
+lo smontaggio e smontaggio. Ottimo prodotto consiglio. Ottima qualità
+    Me gusta su fácil instalación y no me gusta tener que pagar por dos cuando
+solo necesito uno.
+    identico all'originale  qualità ottima spedizione nella norma
+    Ottimo prodotto arrivato in poco tempo.
+    Pude solucionar uno de los dos mandos cambiando esta pieza, el otro debe
+tener algún problemilla más, sigo intentando recuperarlo.
+    articolo perfetto...con un po' di paziente si riesce a risparmiare 40
+euro....
+    Llevo un día con él por ahora va bien no tengo ningún problema todo funciona
+perfectamente y la calidad precio muy buena
+    Perfetti, 2 moduli all’apparenza originali, montati e nessun problema è
+risultato.Consigliato!
+    Súper  rápido y fácil de poner. Funciona a la perfección.
+    Si trova anche se non è identico all'originale ma molto simile. Buon
+prodotto. Ok
+    Prodotto ottimo.montato ed è perfetto meglio dell' originale.venditore più
+che puntuale.
+    La porta mi è sembrata migliore rispetto a quella originale... sostituzione
+semplice .. tutto ok
+    Funktioniert und schaut sehr gut verarbeitet aus
+    Con questo articolo ho riparato la ricarica wireless del mio joystick
+PS4.State attenti ai codici mi raccomando
+    Encaje perfecto y muy util el destornillador que incluye. Importante
+identificar el modelo de placa antes de pedir la referencia correspondiente.
+    Que nos hemos ahorrado un dinero en la reparación de. Un mando de la video
+cnsola
+    Ottimo prodotto consiglio🔝
+    Je l'ai acheté parce que ma manette ne se rechargeait plus, maintenant tout
+va mieux, pas besoin d'en acheter une nouvelle :).Merci aussi pour le tournevis
+qui facilite un peu les choses, même si la partie connexion du ruban de la
+partie inférieure vers supérieure est un peu difficile. Mais en prenant son
+temps tout va bien !Bought it because my countroller wasn't charging anymore,
+now it's all good, don't even have to buy a new one ! :)The included screwdriver
+is very helpful but the "ribbon part" where you have to connect the bottom and
+top parts is pretty hard. Just take your time and it'll flow like water.
+    Perfetto ho sistemato il mio controller
+    arrivato nei tempi giusti e imballo perfetto. monato e funzionante...
+    Conforme e facile da sostituire
+    semplicemente perfetto, facile da montare.
+    + Schnelle Lieferung+ sicher verpackt+ passt perfekt+ funktioniert
+einwandfreiBei der Bestellung nicht vergessen auf die verschiedenen
+Versionsnummern zu achten.
+    Me funciono perfectamente, bastante facil de cambiar si tienes un poco de
+cuidado y paciencia, yo solo cambie la placa, use la faja original por no
+complicarme.
+    Ottimo e veloce nella spedizione
+    Tutto perfetto grazie
+    Ben fatto molto buono
+    Perfetto!!! Arrivato nei tempi e riparazione effettuata !!! Senza il bisogno
+di cambiare il controller!!!
+    ottimo prodotto
+    Montato, ha funzionato da subito. Perfetto e identico all'originale, nessun
+problema di montaggio o fissaggio. Pratico il cacciavite in dotazione.
+    Viene uno nada más y en la foto como en las especificaciones dice claramente
+que suministran dos!!!!
+    Sin problemas
+    Die LEDs sind ein bisschen schwach aber die Buchse erfüllt ihren Job.
+    Uno está roto y casi quemado el mi mando
+    Schnelle Lieferung. Einfacher Austausch. Funktioniert wieder.
+    Problema risolto in 2 minuti
+    Bien
+    Top. Gibt nichts zu bemängeln. Controller auf, alte Buchse raus, neue rein.
+Fertig. Lädt und läuft.
+    Ottimo prodotto funzionano perfettamente
+    tutto perfetto installazione molto semplice
+    Perfetti e,funzionali
+    Ottimo prodotto, arrivato prima del tempo. Ho salvato 2 controller.
+Consigliato.!
+    Come da descrizione,  ottimo prodotto anche se un po caro ..
+    valido costa poco
+    arrivato puntuale moolto sodisfatto
+    Alles passt
+    Prodotto perfetto
+    Il prodotto era ottimo, il piccolo cacciavite molto comodo e la consegna
+precisa
+    Funciona bien pero falta una de las tiras de LED
+    Les pièces m'ont bien servis mais dommage qu'il n'y ait pas de vis avec ça
+j'ai abîmé 2 vis avec le tournevis qui doit être un poil trop gros. Satisfait
+une fois finit mais c'était donc compliqué à visser correctement.
+    Perfetto! Finalmente i joystick si caricano di nuovo!
+    I pezzi errano perfetti, dopo montaggio il controller si carica di nuovo e
+funziona perfettamente.
+    Exactly what I needed, works perfectly, well packed and shipped quickly.
+    Prezzo qualità buona, al momento funziona perfettamente.
+    Ma manette de PS4 ne se rechargeait plus. Je l'ai démonté pour avoir le
+numéro du modèle du connecteur de charge puis j'ai commandé ce produit
+(attention à bien regarder le numéro du modèle). Il s'installe en même pas 5
+minutes et la manette se charge sans problème. Je recommande.
+    Facile montaggio e ottima grafica qualità
+    Perfecto.
+    Justo lo que me hacia falta para reparar el mando de la ps4
+    Perfecto, muy fácil de cambiar por el averiado.
+    Llegó en la fecha establecida por el vendedor y funcionando perfectamente
+    Ottimo prodotto.
+    Utilissimo poter acquistare pezzi di ricambio.....includono anche un mini
+cacciavitecacciate.
+    Non hanno risolto il mio problema ma sembrano ottimi
+    Les soudures du port USB sont à revoir mais le pack comprends 2 x carte +2 x
+nappe, ce qui rattrape le tirePour les bricoleurs je conseil de refaire les
+points de soudure
+    Ne correspond même pas à ma manette. J'ai attendu une semaine pour une pièce
+qui ne va pas
+    juste besoin de la bande et ca fonctionne
+    Muy baja calidad
+    Lo que esperaba .perfecto
+    Estremamente soddisfatto dal prodotto, tutto funzionante e di qualità.
+    Lo justo y necesario para arreglar tu mando de ps4 dualshock V2. Muy
+contento con el producto, fácil montaje y útil. Muchas gracias!
+    Prodotto come me lo aspettavo.. ottimo
+    Acheter car la nappe de ma manette était casser. J'ai décider de changer par
+la même occasion le port de charge. Pas déçus, il y a deux fois le kit pour
+réparer 2 manette
+    Funciona perfectamente para los mandos de PS4
+    Perfecto
+    so good items
+    Pas forcément de bonnes pièce pour une manette PS4, produits livrés
+rapidement,mais parfois , sinon c'est plutôt une bonne répartition quantité prix
+    Ho riparato il mio dualshock per ps4 in un attimo.
+    Colocado y probado, perfecto.
+    recomendado 100%
+    Funciona perfectamente
+    Le colis est bien arrivé, mais le matériel ne fonctionne pas, du moins pas
+totalementMa manette ne s'allume pas sans que je la branche sur oe PCJ'ai changé
+la nappe pour ça, et aucun changement entre l'ancienne et les nouvelles
+    todo muy bien muy buen material
+    Todo perfecto
+    remplacement de piéce defectueuse
+    funzionano perfettamente
+    come da descrizione.e la spedizione puntuale
+    Calidad precio bien
+    Me ha venido muy bien . merece la pena.
+    Ruban blanc ne correspond pas à la prise changer donc obliger de prendre le
+vieux car pas compatible...
+    QUALITA' PREZZO OK,SERVE ALLO SCOPO
+    Conforme à la description. Fonctionne très bien.
+    Il était abîmer sur notre manette plutôt que de changer la manette entière
+qui est quand même a 60 €, on a changer ça et parfait cela marche très bien!
+    Super 2 manettes PS4 comme neuve :)
+    J'ai reçu les embouts micro usb mais pas les nappes pour relier au reste de
+la manette
+    Grâce à ce kit j'ai pu sauver mes 2 manettes qui se ne rechargeaient plus.Je
+recommande.
+    J'ai retourné ce colis car les cartes identiques à celles que j'avais
+commandées étaient dépourvues de composants électroniques de surface !!!Pour
+info, l'électronique était mon métier!!!!JE NE RECOMMANDERAI PAS CES ARTICLES
+    Produit correspondant à nos besoin merci
+    Perfecto es el suyo encaja perfecto
+    Produits défaillants ne fonctionne pas à oublier d urgence !
+    Produit de bonne qualité, ma manette fonctionne  de nouveau !
+    Très bien
+    Conforme
+    Remplacement sur console PS4
+    j ai achete sa pour ma manette dualshok v2 qcar elle ne chargais plus je le
+recommande pour se qui on le jds040
+    Parfait
+    Parfait
+    Nul fonctionne pas tres decus
+    Fonctionne parfaitement nickel
+    Parfait rapide je recommande
+    parfait
+    Fonctionne parfaitement
+    très bien
+    Conforme
+    Top
+    Super
+    So at first I was a little hesitant to buy it, but it did work. Ok so first
+my controller wasn’t turning on so I bought a new battery because I didn’t see
+anything wrong with port, it wasn’t broken or anything. I replaced the battery
+and it did turn on. But it wasn’t charging and so I thought it would be the USB
+charging port. I read some negative comments and I wasn’t sure if I should buy
+it or not. But at the end I bought it. I mean still cheaper than buying a new
+controller. I’m glad I did it seems to be charging. I haven’t connected to my
+ps4 since I’m  not at home but seems that it will work. One advice make sure to
+fold the flex like the original one. I tested before closing it. But I damage
+one of flexes because when I closed it, it got squish  because it wasn’t in the
+right position. Finally when I closed it and I tried to charge it, it wasn’t
+charging had to opened again I replace the flex for a new one. Good thing they
+send two. I folded the same way the original was and it works. You can see it in
+the pictures
+    This is a day 1 review so I have no clue how these little boards will hold
+up, but right out of the box they are a great deal. I actually hadn’t realized
+this was a two pack and was really happy to find the second board in the
+pack.This is a complete pack. Two boards, two ribbon cables, and a little screw
+driver. There’s even a slip of paper directing you to iFixit instructional vids
+for the repair guide. Five stars on that alone.Of course the screw driver is
+junk, but the boards are nice and tight as far as the ports go and everything
+assembled exactly as it should.Highly recommended.
+    I purchased this as it was the same one I needed for my controller that was
+dead. My Playstation 4 controller quit charging after using my samsung phone
+"fast charging" wall wart to charge my controller multiple times....this has
+happened to 2 of my controllers before I realized what was causing it. The
+controllers would still work as long as the battery had power, they just would
+not charge. Anyways, if your controller works, but will not charge, or your cord
+has become loose while plugged in, this is what you need. My controller now
+charges normally after replacing. The PS4 controller can be a bit of a pain to
+take apart, but doable if you take your time. Replacing this part is pretty
+straight forward. I wish I didnt have 2 buy a package of 2 of these, but am
+really happy my $60 controller is now working again!Make sure the part number
+matches the one you purchase or it will not work/fit!Also, the lights on the
+controller are not as bright with this replacement as they were the original, I
+happen to like this.
+    JDS-055 Replacement Charging Port  came on time in a small shock proof
+envelope. It took me around half an hour to remove the old port and install the
+new. I plugged in the usb cable and it started to charge, success.  The company,
+Elecgear, did a great job of explaining the different ports, and the advise/need
+of opening your controlling to learn which one you needed was invaluable. This
+product works and saves one a lot of money.  One thing to consider is the need
+to learn how to open these controllers and close then up again. You do need to
+open then to get the type of port you need. So,  open and close then at least
+once.
+    Worked great,looked 98 percent like the original usb port,easy to install.i
+was amazed to see my controller charging like a brand new controller,no shifting
+usb cable around for the sweet spot or nothing.i plug it in and bang is starts
+to blink and charge.they give u two in a pack so i still have an extra one for
+my second controller ever breaks.just as a friendly caution there is another
+vendor that sell a very similar product on Amazon which i bought it was
+horrible,cheap made and didn't even work.just so i could save like 5 dollars it
+was a bad move never again.i am not allowed to tell u the vendor but u guys are
+smart so u can narrow it down.i totally recommended this usb port replacement
+    Perfect replacement for my PS4 controller charging port.  Came extremely
+well packaged - 3 layers of packaging.  Arrived the next day with Prime delivery
+and by evening my controller was ready. Installation was easy following a
+YouTube tutorial.  Includes precision Phillips 000 screwdriver if needed, 2
+ports and 2 cables.I opened the controller prior to buying to verify the exact
+model needed.  Be careful as there are 4-5 different model of charging port
+depending on when your controller was manufactured.  The dealer has all the
+variations so choose knowingly.
+    I was able to fix some PS4 controllers that no longer charged by installing
+these. Make sure you open the controller and look at the old equipment before
+you order so you get the right replacement as there are many different types
+depending on what generation PS4 controller you have. There are plenty of
+YouTube videos to show how to change it out.  Id your controller no longer
+charges keep in mind you may need to change this and buy a new battery.. I also
+purchased a new battery as the controller wasn't retaining the charge due to
+battery being bad.
+    It’s been over a month since I bought it and in the first week it worked but
+after a while it stopped working I had to do the same thing and put it in an
+angle so it could charge then it stopped working. So I tried the other one and
+it didn’t even work. now it doesn’t even work at all it’s promising but it
+doesn’t work.
+    Take your controller apart first to make sure you get the right
+port.Replacing the charging port in my controller was not hard at all. Only 5
+screws and peeling back a few foam stickers. The hardest part for me was putting
+the 2 halves controller back together.The port and ribbon work great the fit for
+the ribbon was a little tight but that is a good thing because that means that
+it will stay connected better.
+    Fixed my charging port! I use my controller on my pc and it was constantly
+disconnecting mid game which was driving me insane.The install was pretty easy,
+but still requires you to take the controller apart and some people may struggle
+with that.You may have to take the controller apart to check the numbers on the
+charging port itself before ordering as there are multiple charging port types
+used based on controller model.
+    I was skeptical at first but it did it's job. I combined this with a new
+battery and my controller works perfectly now. Something you may notice is the
+light is not as bright on this board as on the original. This was not a big deal
+to me because I like having less light. Overall everything was a breeze to
+install and fits in place.
+    Just make sure you are getting the correct part by looking at the pictures -
+the hardest part is opening up your controller without breaking the plastic tabs
+- plenty of how to videos online to show you how to do it - I fixed 4 broken
+controllers with these - and they come in a 2 pack! Controllers are being used
+every day for the last few months and are working perfectly.
+    Works great broke my port replacing my broken shell into a new shell, it's
+better than buying a new controllerThe one on the right is the old one, left is
+the new with a new ribbon cable great!!Check your old port to make sure you buy
+the right one worth it
+    I'm glad that I could finally find a seller for these, I've been looking
+everywhere for a quick delivery. I have a slight problem as both pieces do fit,
+but my the led doesn't turn on for both. Dont know if they're defective or not
+but as long as they can charge I'll be alright with no light bar.
+    This is great as a DIY fix for ps4 micro USB fix! Just find a YouTube
+tutorial on how to change it and you're golden It's! Was much easier than I
+thought it would be,, hardest part was prying the control open. It's been a
+couple of months since I fixed it and it has been great! I received 2 with the
+order so I have a back up in case my 7 year old damages it again.
+    I got it to work.  My last review said that this fix didn't help but I
+suppose checking the ribbon cable install would've been beneficial.  I now have
+a working, charging controller all thanks to this input.
+    You do not have to be “tech savvy” to do this, it is only a series of
+unscrewing, taking 2 small pieces off and plugging the ribbon in. While
+installing I banged my leg on the side of my desk, moved my arm and chipped one
+of the pins so be careful! Thankfully came with two! And it works for the
+controller you get from the Ps4 slim which is the gen5 controller. Thats
+probably why the charging port (micro USB) and light bar motherboard have the
+model name JDS-055. It was the exact board that came with the controller. It
+worked fine with no issues.
+    I use these for two different controllers I got. None of these worked I also
+replaced the battery to make sure that was not the cause. I really tried giving
+this product a try I broke down apart the controller during three different
+occasions just to make sure I gave the product a chance but nothing.
+    Saved big bucks with this item when our controller charging port went bad.
+Opened it up and removed the old and replaced with this new one and we were
+playing COD in no time!
+    This worked and kept me from blowing 45 on a new controller.It is very
+simple to work with, like lego pieces. Pull out the old, place in the new.
+    It is missing a piece. One of them had it, the other one didn't. Now I have
+a port I cant use and I need it.Edit: they contacted me and asked me about my
+problem and refunded me the money.
+    Great kit. Followed instructions and fixed the controller in 20 min (make
+sure you take pictures of how things go back together before taking it apart
+(youtube tutorial helps a lot). Very satisfied, thanks!
+    Works as intended! the microusb fit is a little tighter than stock which is
+probably a good thing.wish I didn't have to purchase the cables or mini
+screwdriver but it's not a big deal.
+    Contacted company about this product. They replied one time and did not
+reply again to which the product does not work. These connections are
+complicated and the instructions are useless. Hope this help someone save 14
+bucks.
+    I followed a easy,step by step, YouTube video. Just Google "ps4 controller
+repair" and find a DIY that you like. There are several.  Take your controller
+apart BEFORE ordering so you can order the right STYLE of charging port. I
+tested this process  of repair on my oldest, dead controller (3yrs) its alive
+and charging good 👍.  I am pleased with the product ,the care in packaging  and
+the reliability that it should work, if installed properly.
+    just arrived today, a day ahead of time. easy install with the help of a
+couple of Youtube videos. A $5 fix for a $50 controller.
+    10$ can repair 2 gen1/2 controllers,. Old but still expensive,.With some
+patience and a few “how-to” videos,. this can save you some $$$
+    These products worked as soon as i switched out the pieces in the
+controller! Brought life back to a dead controller.
+    Fixed both my remotes that wouldn’t charge anymore. A lot better than 120$
+for new remotes. Simple install anyone could do it.
+    It's exactly what it says it it. Fit in the Dual Shock perfectly.  One
+difference is on the old one, the ribbon cable just pushes in, on this one,
+after you insert the cable, there's a tiny flap to fold down to 'lock' the cable
+in.  Controller is charging happily again.
+    I found my ps4 controller not charge and watched a video about possible
+solutions and eventually I have to replace charging port. I did that step by
+step and that successfully work.
+    Incredibly easy to install. Verified the model I needed by opening up my ps4
+controller and within 15 mins I was up and running and the controller was
+charging again!P.S. be sure to press the reset button on the back of the
+controller for 3-5 seconds in order to reset the hardware components
+    Did that with my kids (10 and 9yr old) as a “project” because they had
+broken both connectors by not being careful. They wanted to simply buy new
+controllers and I thought it would be a great chance to do a “eletronics
+project”. At first they were not into it all but as we went along they got into
+it and we were all amazed that it actually worked ! Lol!
+    I installed the part but the controller isn’t coming on don’t know if is the
+mother board that giving trouble I guess I’ll have to get a new controller 😊
+that’s small thing
+    Exactly what I needed. My PS4 controller stopped charging and after watching
+a couple youtube videos I bought this item and it works fine and my controller
+now charges again.
+    Work good
+    IT IS MISSING THE RIBBON INTERLOCK, WHICH MAKES ITEM USELESS IN A REPAIR
+    Worked perfectly. Takes a little bit to install but, there are great videos
+on you tube to help.
+    This part is missing components on the board that are required for proper
+operation.
+    This product worked as needed, I had to order Gen 1&2 because I took apart
+my controllers too much, but now they work and everything, definitely will get
+again if I mess up bad.
+    Saved me from throwing away a $60 controller.  Worked perfectly.
+    Worked to be an exact fit. Happy the screwdriver was slightly magnetic, it
+helped hold the tiny screws. I’ve bought and replaced all 4 controllers now and
+everything works just fine.
+    Easy to pick the correct part, they list them well. Came with a small
+screwdriver (Not a great one, but still appreciated), two boards and two
+ribbons. No complaints.
+    Fixed my older PS4 controller right up. Make sure you pay attention to the
+code/number on yours before you buy
+    Easy install.  Fixed my PS4 controller, so now it will charge!
+    Replacement parts are low quality, charger doesn't hold chord well which is
+inconvenient cause it's too long/gets in way of screw mounts etc,. etc. not
+worth the frustration with this kit compared to how easy it should be to replace
+    Didn’t work at all!! Installing it was easy but once controller was put back
+together, error message popped up saying it didn’t work.
+    Don't replace what you can easily fix yourself
+    I love it..quicky delivery
+    Works like a charm, even though my problem ended up being the batteries.
+    Don’t purchase. Circuit boards are missing critical electronic components,
+so will not charge the battery.
+    Replaced the port and now my controller charges again.  It's only a few days
+in, so I'll see how well it holds up over time.  But it did the job as
+advertised.
+    Fixed my controller that wasnt charging and was easy to install.
+    Worked great so far and feels like it’s an even tighter fit than the
+original piece the PS4 controller had. I would still suggest looking up a video
+to anyone not confident with taking apart the controller but over all very easy
+process and would highly recommend this over buying a new controller.
+    👍👍👍👍👍👍
+    Great product fast shipping
+    Arrived on time, came with 2 replacement parts and a screwdriver, (my hubby
+said the screwdriver alone was worth the price). Great quality.. Fixed our son's
+controller and have an extra part to spare..
+    Works fine, only issue is that the product is extremely fragile and the
+first port broke trying to insert the connection strap, luckily they were sold
+in sets so I had an extra connector to use.
+    Very easy to install. Exact fit. Just check model #.
+    I ordered a replacement for JDS-055, took about 2 minutes to install and so
+far every thing seems to work like normal!
+    ok
+    Worked perfect and saved me having to get a new controller. Great value.
+    Saved me $60 for a new controller so im happy!
+    It work fine save money
+    Perfectas condiciones. Control funcionando nuevamente.
+    Perfect item..
+    Both products did not work.  Attempted to replace on two different
+controllers as well and yes JDS-011 are the ports I need.
+    Did the trick. Now i can charge my controllers without having to wrap the
+cord around. Snug connection to my charger. No wiggle.
+    Take special note of cable orientation and such when installing. Other than
+that it's a perfect replacement part, just watch a YouTube video for assistance
+and you're good.
+    Great product
+    I did intense research before buying but still could not fit.
+    I like thus product it fit perfectly and now my remotes are charging to
+their potential thank you
+    Fixed both of my sons controllers, he's happy again!
+    The ribbon cable comes loose from the chip with a gentle tug, it takes some
+patience to set up
+    Little over priced but the board is acceptable!!
+    Easy to install did the job very pleased
+    It fits perfect in the PSP4 controller. Now I am able to charge my
+controller without any issues.
+    LOGRE SALVAR MI CONTRO DE PS4
+    Nice product
+    Came with screwdriver which was extremely helpful. Worked perfectly, much
+cheaper then purchasing a new paddle.
+    Had to look up how to install but work fine
+    Las piezas de recambio fueron justas las necesitadas para reparar los
+mandos/controles de mi cliente. Muchisimas Gracias... Producto 100% recomendado.
+    Great easy to install works fine
+    Totally fixed the controller, my kids are stoked and I look like a hero.
+    My son now has 2 controllers that charge like new ones.  By replacing this
+piece it saved me lots of money.
+    I was able to fix my ps4 controller with these replacement parts thanks
+    Port works great , but the cable did not work had to use my old one
+    Works perfect good quality just make sure you disassemble controller to make
+sure if fits.
+    Worked as advertise if installed properly.
+    Didn’t work
+    Works great
+    Products were exactly what I ordered
+    Worked perfectly thank you
+    Just what I needed
+    Easy to install. Works as Advertised.First step to troubleshoot a PS4
+controller USB charging issue: try a shorter cable 3ft or less. Save yourself
+some work before assuming the controller is not working.
+    Did not work
+    I just installed this. And dang the length of this strip is too long it,
+light is too dim
+    Fit perfect and problem solved. Thanks
+    I was surprised at the quality of this. I honestly thought it wasn’t going
+to work. In the end my controller can finally charge with no issues.
+    Great replacement product. I was able to fix my kids PS4 remotes in less
+than 10 minutes. Recommend.
+    I got what I bought
+    Easy to be able to use. They video link they give u explains everything step
+by step
+    The best purchase hands down. Was able to fix my controllers for a lot less
+than getting someone else to fix them
+    contacts a bit longer so when connected looks like wire lead needs to be
+pushed further on but not  so.works great
+    jds-030. Resolved my charge/sync issues with two controllers.
+    Exactly as advertised perfect fit
+    Nice product my control work great after this upgrade!
+    After setting it up my controller started working again.
+    Got evrything exept the mini screwdriver
+    Great item , It was what I was expecting.  I got two of my controllers back
+up and running
+    It broke my controller even further. Do not buy.
+    Did not fit or work at all horrible
+    Cheap replacement part that works like a charm! Way better than $45 for a
+new controller.
+    Revived an old DS4 controller I had
+    Works as intended. Very grateful.
+    Worked as needed and expected!
+    Super easy.  Took me five minutes.  Huge life Samer
+    No issues. Worked great.
+    Did not even work.
+    Worked!!!Thx
+    This product works perfect! It fixed the charging port on my DS4/PS4
+Controller.
+    Product was sent broken and did not work 🤬
+    Easy installl for my ps4 controllers
+    Saved me buying a new controller
+    Good
+    Thanks fast and a great product
+    I really like it and its easy to install
+    Worked perfectly.
+    Good product just what I needed
+    Just didn't work
+    Pass.
+    Works perfectly. The screw driver feels high quality for the asking price.
+    Worked as expected.
+    Not for PS4 as it says
+    Great product easy installation
+    perfect fit
+    Perfect
+    Just the right stuff
+    The tool didn't come with the parts
+    Ok
+    After installing both of the new chargers into the controllers nothing
+happen, It wants to turn on but not enough battery power. The new ports did not
+work. We were able to charge batteries separately to see if it was the
+batteries, they were fine. Don't waste your money buy another controller.
+    worked
+    Rien à dire bon produit impecable
+    The envelope came with nothing in it.

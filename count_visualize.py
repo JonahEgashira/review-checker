@@ -87,6 +87,7 @@ def bar_chart_err(data_pct, err_pct):
     ax.set_ylabel('Frequency(%)', fontsize = 16)
     ax.set_xticks(index)
     ax.set_xticklabels(index, fontsize=14)
+    ax.set_ylim([0, 70])
 
     rects = ax.bar(index, data_pct, width = 0.95, color='black', label='Data')
 

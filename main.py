@@ -11,8 +11,8 @@ def get_reviews(path, path_to):
     '''
     with open(path, 'r', encoding='utf-8') as f:
         urls = f.readlines()
-        for url in urls:
 
+        for url in urls:
             #urlの整形
             url = url.replace('?tag=sakurachecker-22', '')
             url = url.replace('gp', 'product-reviews')
@@ -24,8 +24,9 @@ def get_reviews(path, path_to):
             path = f"{path_to}{product_id}.txt"
             #もしすでにレビューを取得してたらcontinue
             if os.path.exists(path):
-                print(f"{path} already exists")
-                continue
+                if os.stat(path).st_size != 0:
+                    print(f"{path} already exists")
+                    continue
 
             #レビューを取得する
             create_review_file(url,product_id, path_to)
@@ -51,16 +52,22 @@ def separate_and_count():
         
 if __name__ == "__main__":
     #サクラ度が高い
-    #get_reviews('./bad_url.txt', './review_bad/')
-    #files = glob.glob('./review_bad/*')
+    #jget_reviews('./bad_url.txt', './review_bad/')
+    files = glob.glob('./review_bad/*')
 
     #サクラ度が低い
-    get_reviews('./good_url.txt', './review_good/')
+    #get_reviews('./good_url.txt', './review_good/')
     #files = glob.glob('./review_good/*')
 
+    #レビューを取得するだけで終わらせる場合
+    #exit(0)
 
     pct_list = []
     for file in files:
+        #レビューをうまく取得できてないやつ
+        if os.stat(file).st_size == 0:
+            continue
+
         counts = count_chars(file)
         data, pct, total = count_first_digits(counts)
         pct_list.append(pct)

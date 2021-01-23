@@ -11,7 +11,7 @@ def get_page_from_amazon(url):
     text = ""
     #　ヘッドレスモードでブラウザを起動
     options = Options()
-    options.add_argument('--headless')
+    #options.add_argument('--headless')
      
     # ブラウザーを起動
     driver = webdriver.Chrome(options=options)
@@ -51,7 +51,7 @@ def get_all_reviews(url):
     title = ""
     i = 1
     while True:
-        print(i, 'searching')
+        print('page : ', i, 'searching')
         i += 1
         text = get_page_from_amazon(url)
         amazon_soup = BeautifulSoup(text, features='lxml')
