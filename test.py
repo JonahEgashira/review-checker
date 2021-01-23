@@ -1,5 +1,4 @@
-from scrape import *
+path = './review_bad/B00MQKAA52.txt'
+title = path[-14:-4]
 
-url = "https://www.amazon.co.jp/gp/product/B06XSWLYLF/?tag=sakurachecker-22"
-url = url.split('/')
-print(url)
+print(title)

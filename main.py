@@ -49,19 +49,20 @@ def separate_and_count():
             bar_chart(data_pct)
 
 
-        
-if __name__ == "__main__":
-    #サクラ度が高い
-    #jget_reviews('./bad_url.txt', './review_bad/')
-    files = glob.glob('./review_bad/*')
+def analyze(review_type, does_get_review=False, does_separate=False): 
 
-    #サクラ度が低い
-    #get_reviews('./good_url.txt', './review_good/')
-    #files = glob.glob('./review_good/*')
+    if does_get_review:
+        get_reviews(f"./{review_type}_url.txt", f"./review_{review_type}/")
 
-    #レビューを取得するだけで終わらせる場合
-    #exit(0)
+    files = glob.glob(f"./review_{review_type}/*")
 
+    if does_separate:
+        for file in files:
+            if os.stat(file).st_size == 0:
+                continue
+            separate(file, review_type, noun=True,verb=False,adj=True,adv=False)
+
+    files = glob.glob(f'./review_{review_type}_separated/*')
     pct_list = []
     for file in files:
         #レビューをうまく取得できてないやつ
@@ -81,4 +82,10 @@ if __name__ == "__main__":
     print(np_ave_list)
 
     bar_chart_err(np_ave_list, std_err)
+
+
+
+if __name__ == "__main__":
+    analyze("bad")
+    analyze("good")
 

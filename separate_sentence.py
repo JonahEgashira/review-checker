@@ -6,22 +6,17 @@ from janome.tokenfilter import *
 from gensim import *
 
 
-def separate(path, noun=True, verb=True, adj=True, adv=True):
+def separate(path, review_type, noun=True, verb=True, adj=True, adv=True):
     '''
-    pathの文章を分割し、./review_words内に書き込む
-    review_words内に書き込んだpathをreturnする
+    pathの文章を分割し、./review_{review_type}_separated内に書き込む
     '''
 
     data_dir_path = Path('.')
     corpus_dir_path = Path('.')
 
-    n = len(path)
-    prefix = "./review_original/"
-    pref_size = len(prefix)
-    title = path[pref_size:n-4]
-    file_name = path
+    title = path[-14:-4]
 
-    with open(data_dir_path.joinpath(file_name), 'r', encoding='utf-8') as file:
+    with open(data_dir_path.joinpath(path), 'r', encoding='utf-8') as file:
         texts = file.readlines()
     texts = [text_.replace('\n', '') for text_ in texts]
 
@@ -71,14 +66,15 @@ def separate(path, noun=True, verb=True, adj=True, adv=True):
     if noun:
         filter_list.append('名詞')
     if verb:
-        filter_list.append('名詞')
+        filter_list.append('動詞')
     if adj:
         filter_list.append('形容詞')
     if adv:
         filter_list.append('副詞')
 
     # 単語に対する処理のまとめ
-    token_filters = [NumericReplaceFilter(),                         # 名詞中の漢数字を含む数字を0に置換
+    token_filters = [
+                     #NumericReplaceFilter(),                         # 名詞中の漢数字を含む数字を0に置換
                      CompoundNounFilter(),                           # 名詞が連続する場合は複合名詞にする
                      POSKeepFilter(filter_list),                     # 名詞・動詞・形容詞・副詞のみを取得する
                      LowerCaseFilter(),                              # 英字は小文字にする
@@ -96,12 +92,6 @@ def separate(path, noun=True, verb=True, adj=True, adv=True):
             tokens_list.append([token.base_form for token in analyzer.analyze(text)])
             raw_texts.append(text)
 
-    '''
-    # 正規化された際に一文字もない文の削除後の元テキストデータ
-    raw_texts = [text_+'\n' for text_ in raw_texts]
-    with open(data_dir_path.joinpath(file_name.replace('.txt', '_cut.txt')), 'w', encoding='utf-8') as file:
-        file.writelines(raw_texts)
-    '''
 
     # 単語リストの作成
     words = []
@@ -109,8 +99,6 @@ def separate(path, noun=True, verb=True, adj=True, adv=True):
         words.extend([word+'\n' for word in text if word != ''])
     
 
-    separated_path = f"./review_words/{title}_word_list.txt"
+    separated_path = f"./review_{review_type}_separated/{title}_separated.txt"
     with open(corpus_dir_path.joinpath(separated_path), 'w', encoding='utf-8') as file:
         file.writelines(words)
-
-    return separated_path
