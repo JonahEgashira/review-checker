@@ -25,7 +25,7 @@ def get_page_from_amazon(url):
      
     return text
 
-#商品名を日本語で得たい場合
+#商品名を日本語で得たい場合(index errorがよく出るから非推奨)
 def get_title(url):
     #普通
     #new_url = url.replace('dp', 'product-reviews')
@@ -72,19 +72,17 @@ def get_all_reviews(url):
     
     return review_list
 
-def create_review_file(url, product_id):
+def create_review_file(url, product_id, path_to):
     '''
-    引数のurlからレビューを取得、新しくファイルに書き込む
-    新しく書かれたファイルのパスを返す(ファイル名はproduct_id)
+    引数のurlからレビューを取得、新しくファイルに書き込む(ファイル名はproduct_id)
     '''
     review_list = get_all_reviews(url)
     #title = get_title(new_url)
 
-    path = f"./review_original/{product_id}.txt"
+    path = f"{path_to}{product_id}.txt"
     with open(path, 'w') as f:
         for i in range(len(review_list)):
             review_text = textwrap.fill(review_list[i].text, 80)
             print(f"\nNo.{i+1}")
             print(review_text, file = f)
-    return path
 

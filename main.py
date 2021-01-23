@@ -5,11 +5,10 @@ from separate_sentence import separate
 from count_visualize import *
 from scrape import *
 
-def get_reviews(path):
+def get_reviews(path, path_to):
     '''
     レビューを取得してファイルのパスをpath.txtに書き込む
     '''
-    path_list = []
     with open(path, 'r', encoding='utf-8') as f:
         urls = f.readlines()
         for url in urls:
@@ -22,18 +21,15 @@ def get_reviews(path):
             product_id = separated_url[-2]
             print(f"id: {product_id}")
 
-            path = f"./review_original/{product_id}.txt"
+            path = f"{path_to}{product_id}.txt"
             #もしすでにレビューを取得してたらcontinue
             if os.path.exists(path):
                 print(f"{path} already exists")
                 continue
 
-            #レビューを取得して、ファイルのパスを入れる
-            new_path = create_review_file(url,product_id)
-            path_list.append(new_path+'\n')
+            #レビューを取得する
+            create_review_file(url,product_id, path_to)
     
-    with open('./path.txt', 'w', encoding='utf-8') as f:
-        f.writelines(path_list)
 
 
 def separate_and_count():
@@ -54,11 +50,15 @@ def separate_and_count():
 
         
 if __name__ == "__main__":
-    get_reviews('./good_url.txt')
+    #サクラ度が高い
+    #get_reviews('./bad_url.txt', './review_bad/')
+    #files = glob.glob('./review_bad/*')
 
-    '''
-    #レビューをまとめて標準偏差のエラーバーを表示
-    files = glob.glob('./review_bad/*')
+    #サクラ度が低い
+    get_reviews('./good_url.txt', './review_good/')
+    #files = glob.glob('./review_good/*')
+
+
     pct_list = []
     for file in files:
         counts = count_chars(file)
@@ -74,5 +74,4 @@ if __name__ == "__main__":
     print(np_ave_list)
 
     bar_chart_err(np_ave_list, std_err)
-    '''
 
