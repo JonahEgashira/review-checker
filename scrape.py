@@ -25,17 +25,22 @@ def get_page_from_amazon(url):
      
     return text
 
+#商品名を日本語で得たい場合
 def get_title(url):
-    new_url = url.replace('dp', 'product-reviews')
+    #普通
+    #new_url = url.replace('dp', 'product-reviews')
+    #サクラチェッカー用
+    new_url = url.replace('gp', 'product-reviews')
     text = get_page_from_amazon(new_url)
     amazon_soup = BeautifulSoup(text, features='lxml')
 
-    title = amazon_soup.find("title").text
+    title = amazon_soup.find("title").get_text()
     #タイトルの整形
     title = title.split()
     title = title[1]
 
     return title
+
 
 def get_all_reviews(url):
     '''
@@ -52,11 +57,11 @@ def get_all_reviews(url):
         amazon_soup = BeautifulSoup(text, features='lxml')
 
         reviews = amazon_soup.select('.review-text')
-        title = amazon_soup.find("title").text
 
         for review in reviews:
             review_list.append(review)
 
+        #次のページに行く
         next_page = amazon_soup.select('li.a-last a')
         if next_page != []:
             next_url = 'https://amazon.co.jp/' + next_page[0].attrs['href']
@@ -67,18 +72,15 @@ def get_all_reviews(url):
     
     return review_list
 
-def create_review_file(url):
+def create_review_file(url, product_id):
     '''
     引数のurlからレビューを取得、新しくファイルに書き込む
-    新しく書かれたファイルのパスを返す
+    新しく書かれたファイルのパスを返す(ファイル名はproduct_id)
     '''
-    #普通のリンク用
-    new_url = url.replace('dp', 'product-reviews')
-    #サクラチェッカーのリンク用
-    new_url = url.replace('gp', 'product-reviews')
-    review_list = get_all_reviews(new_url)
+    review_list = get_all_reviews(url)
+    #title = get_title(new_url)
 
-    path = f"./review_original/{title}.txt"
+    path = f"./review_original/{product_id}.txt"
     with open(path, 'w') as f:
         for i in range(len(review_list)):
             review_text = textwrap.fill(review_list[i].text, 80)

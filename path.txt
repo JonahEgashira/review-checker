@@ -1,3 +1,7 @@
-./review_original/モバイルバッテリー.txt
-./review_original/GETIHU.txt
-./review_original/Anker.txt
+./review_original/ジェルシート.txt
+./review_original/ジェルシート、Onshine.txt
+./review_original/ジェルシートEMS.txt
+./review_original/EMSトレーニング・ダイエット・アブジムニック.txt
+./review_original/ワイヤレスマウス.txt
+./review_original/iToncs.txt
+./review_original/スマートウォッチ.txt
