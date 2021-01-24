@@ -32,7 +32,7 @@ def get_reviews(path, path_to):
             create_review_file(url,product_id, path_to)
     
 
-def analyze(review_type, does_get_review=False, does_separate=False): 
+def analyze(review_type, does_get_review=False, does_separate=False, does_count=False): 
 
     if does_get_review:
         get_reviews(f"./{review_type}_url.txt", f"./review_{review_type}/")
@@ -45,36 +45,34 @@ def analyze(review_type, does_get_review=False, does_separate=False):
                 continue
             separate(file, review_type, noun=True,verb=True,adj=True,adv=True)
 
-    #単語単位で分析する時
-    #files = glob.glob(f'./review_{review_type}_separated/*')
-    #1語1語分析する時
-    files = glob.glob(f'./review_{review_type}/*')
 
-    pct_list = []
-    for file in files:
-        #レビューをうまく取得できてないやつ
-        if os.stat(file).st_size == 0:
-            continue
+    if does_count:
+        files = glob.glob(f'./review_{review_type}_separated/*')
+        #files = glob.glob(f'./review_{review_type}/*')
 
-        #単語単位
-        #counts = count_words(file)
-        #一語
-        counts = count_chars(file)
-        data, pct, total = count_first_digits(counts)
-        pct_list.append(pct)
+        pct_list = []
+        count_list = []
+        for file in files:
+            #小さいファイルを無視する
+            if os.stat(file).st_size <= 0:  
+                continue
 
-    np_pct_list = np.array(pct_list)
-    np_ave_list = np.average(np_pct_list,axis=0)
+            #単語単位
+            counts = count_words(file)
+            #一語
+            #counts = count_chars(file)
+            data, pct, total = count_first_digits(counts)
+            pct_list.append(pct)
+            count_list.append(data)
 
-    std_err = np.std(np_pct_list, axis=0)
-    print(std_err)
-    print(np_ave_list)
-
-    bar_chart_err(np_ave_list, std_err)
-
+        np_pct_list = np.array(pct_list)
+        np_ave_pct_list = np.average(np_pct_list,axis=0)
+        pct_std_err = np.std(np_pct_list, axis=0)
+        bar_chart_err(np_ave_pct_list, pct_std_err)
+        print(pct_std_err)
 
 
 if __name__ == "__main__":
-    #analyze("bad", False, False)
-    analyze("good", False, False)
-
+    #analyze("bad", False, True, True)
+    analyze("good", False, True, True)
+    

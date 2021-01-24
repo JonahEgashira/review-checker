@@ -1,0 +1,553 @@
+    APT-X対応かつ安価、ボリュームコントロール等がケーブル途中でなくイヤホン本体側に搭載されているとのことで見た目や取り回しの良さを期待していたが、平型
+のケーブルがくせもの。ケーブルが固く、梱包の際のケーブル折れ曲がりが（10日ほど伸ばしてみたりしてみたが）解消できず。またケーブルの材質が服の襟元に引っかかる材
+質のため首を動かすたびに折れ曲がったケーブルを左右のイヤホン同士で引っ張り合いつつ同時に服にも引っ張られるという二重の欠点により安定しての装着が困難。結果的に取
+り回しは最悪。Bluetooth接続の容易さ、音質、ボリューム調整等の機能面に関しては全く不満がないが首を動かすたびにイヤホンの耳装着を直さざるを得ない点は看過
+できず安定して装着可能な他のAPT-X対応イヤホンを探し始めました。
+    iPhone8で使用していた際は問題なく、どちらかというと快適に使用できていたのでiPhoneXに買い替えた際も併せて購入しましたが、iPhone8では
+電源を入れると勝手に接続されていたのにiPhoneXではわざわざBluetooth画面を開いて設定しないと接続されない…その上途中で接続が切れることも多々あり、
+壊れたら次回リピートはないかなぁと悩んでいます。ケーブルの部分も平型のケーブルで、首から掛けているときの違和感などもなく快適だったのですが、新しい機種向けではな
+いのでしょうね。そろそろ他のBluetoothイヤホンへ切り替えようと思います。
+    ・まず、未だに壊れず現役なのがえらい・タッチノイズはすこしあるものの値段相応・AirPot等の完全分離ワイヤレスだと落とすリスクが高いがネックタイプだと
+多少のタッチノイズを許容できればリスクが少ない印象・バッテリー持続時間もほどほどでよい(使わないタイミングでモバブにブッ差しとけは１日余裕・音質も値段の割には安
+定感ある、が深みや奥行きは底が知れてる
+新型になったのである意味リピ買いです電池の持ちも申し分ないし、音も一般的に描かれる程度なら充分綺麗ですいくつか他社の物を購入しましたが、結局これに戻りました
+笑
+音質は大満足です。この値段でこの音質ならお買い得かと思います。主に重低音が響いたと思います。大きいにも関わらず耳につけたままでもあまり耳が痛くなりませんでした。
+    イヤーピースさえ合えば、これ以上は無いのでは？買って損はしないと思います。つけたときの見た目は、知らないです　本当に素晴らしいです　お世辞抜き
+    同じもの1年くらい使ってましたが、踏んで壊してしまったので再度購入。紐に操作ボタンがないのでコードが後ろにずり落ちることもなく非常に使いやすい。音質も個
+人的には満足できるレベル。コスパ的にも最高だと思います。
+    くそ二度と使わない
+    充電の持ち時間が長く、まめに充電しなくてもいいのが楽です、音もクリアだし、音漏れもあまりなくかいてきに使用してます
+    1か月ちょっとで壊れました。
+    この値段でこのクオリティならかなりコスパがいいと思いました。
+    本日届きましたので早速試してみました。箱などは簡素な作りでここにお金を掛けてないのが分かり逆に好感が持てました。開封後、すぐには起動できませんでした。取
+説に2時間充電する様にとあったのでその様にしましたら起動しました。充電中は赤いLED点灯で充電完了で青変わるのですぐわかります。まずiPhone7とペアリングし
+ましたが問題なく認識出来ました。音は悪くはないと思います。動画見てると遅延は感じなかったけど、コメント入力する時のカチカチ音遅延してます。まだ全てを評価できるサ
+ンプル数が不足してるけどとりあえずそんなところです。そうそう、本体側USBの端子差し込みがかなり固いので壊しそうな気がします。ここはアタリが出てくるまでは慎重に
+触らないといけない様感じます。音量のボタン操作はやりにくいですね本体側でやれば問題ないですがコスパからすれば及第点を与えれる商品だと思います。
+    SoundPEATS製のQY8を含めてかなり多くのQY8を所有しています。QCYのQY8は、低音から高音までクリアな印象で安価な商品としてはかなり音の良
+い部類に入るかと思います。所有しているQCY-
+QY8は3～4つですが、やはりペアリングでの不満があります。初回ペアリング後、２回目以降は電源オンで簡単にペアリングしてはくれるものの、apt-
+Xでの正規なペアリング状態になるまでに時間がかかります。当方ではYouTubeでの音楽動画再生がメインですが、apt-
+Xコーデックが機能しないと停止・曲送りがQY8から操作できない状態になります。端末はZenPadで、通常はペアリング直後にapt-Xの表示されます。これはアンド
+ロイドのスマホでも同様かと思います。一度「接続」となってからも1～2度は接続をやり直します。この状態はBluetoothの設定画面で確認できるため、ペアリングが
+うまく出来ない場合には確認することをお奨めいたします。なお、端末のBluetoothをオフ・オンすると早めにペアリングが成功しますし、単純に毎回端末からQY8を
+削除して初回ペアリング状態にすると確実にapt-Xでの接続状態に出来ます。ちなみに、QY7（apt-
+X対応無し）・Q12系・QY19では全く問題ありません。また、SoundPEATS製のQY8であれば上記機種と同様に問題ありません。QCY-
+QY8だけペアリングがちょっと苦手な機種みたいですね。なお、端末のペアリング済み機種が多いほどこの症状は重いため、QCY-
+QY8を愛して止まないお方は浮気せずにペアリングは単品登録です！
+    2016年10月に購入しました。初期のBluetoothイヤホンって全体的に音がこもっていて高音は特に不快なシャリシャリ音が出る印象でしたが、このイヤホ
+ンは驚くほどちゃんと数千円の有線並みに鳴りました。良いところ値段の割に圧倒的に音がいい電池持ちがいい走るときに使うが、外れたりしない悪いところ充電を忘れてると聞
+けなくなる（当たり前だが）走るとケーブルが背中ではねる今はWH-1000XM3を一番使っていますが、真夏にヘッドホンはさすがに暑いので、どうせならと今人気のトゥ
+ルーワイヤレスを体験するべく、アマゾンで星5のbluetooth 5.0とかグラフェンだとかHi-Fi 高音質 AAC対応とか書いてある4000円ほどのものを購
+入。しかしこれがまったくヒドイもので、かつて買った本機を思い出して引っ張り出したところ驚くほどにいい音でレビューしました。買った当時に聞いて驚き、WH-1000
+XM3になれた今聞いても驚く本機は3年越しに期間限定でメイン機です。
+    If you are seeking for a cheap earphone with 8K earphone's quality, this
+would be a great option for you. The battery should be shorter than 8 hours, but
+still very sufficient for finishing 42K marathon.Other pro and con.- Pro: It's
+balanced in both left/right ear when doing extreme sports/exercises. Comparing
+to most product, the design is rare but nice.- Con: It sometimes slipped out of
+my ear due to sweat too much.- Con: The button is not that easy to push in
+general. And the user experience of neither volume adjustment nor song change
+are not very good...(I seldom use them though.)
+    ずっとiPhoneで使っていたが、値段が手ごろだしこんなものだろうと思って使っていたが、ふと手持ちのWindows10ノートPCで使ってみたら、別物のよ
+うに低音が鳴り情報量もアップ！こんなポテンシャルがあったのかビックリした。音源はどちらもAmazonMusic。高音はもう一息欲が出るところではあるが、低音が出
+ることによって高音の印象も変わってくる。多分PCの方が電力にパワーがあるからと思われる。このQY8をまだPCでBluetooth接続して聞いてない方はぜひ試して
+みて欲しい。
+    イヤホン自体の性能に問題はないですが、コードが太くて重いため動いているとイヤホンが外れやすい。コードが平たくしっとりとしたゴム質なので、ちょっと汗ばむと
+首にまとわりついて簡単に外れるので、運動や仕事中の使用は厳しい。あと、操作ボタンがイヤホンをはめ直したりする時に、自然と押してしまう位置にあるのが拙い。
+    購入して約2年経ちましたが、壊れて使えなくなるようなことはありませんでした。音質も悪くなく、フィット感や伝達距離も価格相応かそれ以上のものだと思います。
+ただ、欠点が2つ程あります。1つは、イヤホンの大きさにあります。当方、寝る時もイヤホンをつけるのですが、横向きに寝転がる際にこのイヤホンが横に大きく出っ張ってい
+るのが原因で圧迫感が甚だしいです。同じような使用環境でお考えの方はご注意下さい。もう1つは、充電ケーブルの粗悪さです。USB端子がイヤホンの差込口に比べて小さい
+ため上手く差し込めなく、中々充電がされないことが多々あります。このような事がありましたら、新しいケーブルを買うか既に持っているもので代用しましょう。
+    以前もQY8タイプは買っていましたが、旦那がアナログすぎて、CDプレーヤーから動かず音楽を聴いていたので、購入しました。しかし、断然
+こちらの方がペアリングはしやすいし、音も良いので 古いのを渡し、私が使用しています。
+    音や値段には満足していますが、使っていると突然接続が切れることがあります。今使っているのは2つ目で、1つ目のときはそういったことは滅多になかったと思うの
+ですが、今のはたびたび切れます。
+    購入してから1年も経っていないのに、左だけ音がでなくなりました。
+    安くて 音も悪くない、大きい部分は低音部にプラスと思ってます…シリコンキャップとタグも沢山ついてて嬉しいです
+    Sound quality was excellent. And also the features are amazing like voice
+prompt,  switch calls between two mobiles phones,  redail the latest call & etc.
+But the only one thing is it's looks slightly bigger when compare to shown
+images in description.
+    So good that almost all my teammates bought a pair.These are great if you
+find them around the 1-1.2k INR range.Suggestion: Considering all smartphone
+makers are going wireless, the company should make a pair of these with double
+the battery life.
+    An amazing product for gym goers and on the go people. Sound quality is
+amazing. Plugging is good. You need to adjust the bud that fits your ear.Base is
+good. Quality is superb. It takes 30 minutes to charge for another 3 hours of
+music. Practical and handy. Good work.
+    I am a runner and sweat a lot, I need good music with awesome bass to keep
+my running session tempo.This product has upto the mark bass( JBL or Beat
+quality sound, you can listen minimal sounds with it) and good 4.30 hours of
+battery lifevery light on ears and good looking.No worries for sweat or little
+waterbuy it without any worries
+    Its hardly 2 months old and its already spoiled. The sounds are not clear,
+bass non existent and getting disconnected every now and then. Go for those at
+2k range. Better options there.
+    Sound quality is great but the mic is not the best .there is no noise
+cancellation or reduction so when a person is in a busy area the background
+noise makes it very difficult for the other person to hear anything
+    Elegant earphones Pros  -  good sound quality  -  noise cancellation  -
+sufficient transmitting range  -  voice notifications like battery low, Out of
+range etc..  -  multi-function buttons  -  sufficient playback time  -  Strong
+un-kinkable flat wire  -  connecting to 2 devices simultaneouslyCons  -  Little
+bulky (less portable)  -  dislocate during fast movements  -  No notification
+when completely charged
+    Sound is great, initially it will be flat but after burning the headphones
+for few hours deep bass became effective.Range is good, can connect with laptop
+and mobiles ( tested with iphone and android phones) I think its good value for
+money.
+    Very good headphones in this price once you tweak the equaliser settings. I
+use it every day, mainly for calls. The battery lasts two days, which is
+awesome. Sound quality is good.Though, sometimes when connected for more than a
+couple hours, i play media like videos or songs, the sound comes out from the
+phone speakers rather than the earphones. I have to disconnect and reconnect it
+to make it work. This never happened with calls. Maybe the issue is with the
+phone or maybe the earphones. Can't say. Let's see if I find a solution.
+    Good headphones, was not properly working at first and i contacted amazon as
+soon as i received this. but now they are working fine.Good sound for not so
+famous company headphones. Work properly with my phone and laptop.Would
+recommend it to other.
+    I bought this item about one an half month ago.. It was working fine but
+from the past 15 days its not getting turned on at all... When i put it to
+charge it indicates the charge is full.. Please let me know what's the problem..
+ASAP
+    This is an amazing product a good sound quality and battery life, You can
+listen all the conversation on phone properly also you talk  true mic other side
+person will also hear clearly.
+    I buy this earphones today it's worth more than that it's super awesome and
+while wearing u won't hear anything just music all-around spectacular speechless
+bass is OMG value for money superb quality....juZzt grab it
+    The product was working good but from few days it's not working properly
+without any damaged or harm is done to the product..i am satisfied with the
+product cause I bought it on January and it has not been few months product is
+not working properly..Bad experience with the product.
+    Its the best headset i had ever usedThe quality of sound is just awesome +
+battery last more than 6 hrs apart frm this its very light weight and can easily
+fit in ear even while driving on road i do enjoy songs every dayPerfect in ear
+fit no risk of getting out ever while running or driving on bike as wellJust go
+for it
+    Awesome product, totally worth the money. Great sound, great feeling, only
+problem is you have to twist in your ears. My ear canal are small, so it hurts.
+It's a first day reviews, I don't want to return it, hope time will adjust it.
+    Good battery life, sound quality is excellent and noise cancellation is
+average as it should be with this type of earphones.
+    Everything was ok at the beginning . It meet all my requirements within  the
+price range. I really loved the product.However, even with a lot of care it
+stopped working after 1 month of usage.
+    It didn't work as expected and I returned it back.
+    This headset is best. Sound quality and packaging also good for 'under
+budget' costumers. But its bass is very  low as looking for price.
+    It's amazing product..5This hendset sound clearity was really good...nd it's
+bass OMG very very deep nd clear..i used this product last 1 week .very
+comfortable at gym..charged very fast around 1nd half hour nd  battery back up
+was awsome around 8to9 hour..this price the product gives 100 nd more %..
+    nice sound clarity. delivery and package good.can be little more small and
+all functions based on Qcy buuton it can be seperated
+    Worth every rs₹... Just go for it... But i recommend only buy if u have
+Qualcomm APTX support in ur device...orelse u can't experience its full
+potential...
+    The mic is not working after 4months.I have no clue to whom should I
+contact.
+    Having pairing issues. Frequently disconnected.Sound is OK
+    Value for money. It's little bulky but good music experience because it
+blocks outside noise for both the ears
+    Purchased OCY BULE TOOTH earphone second time because of ist outstanding
+performance sound quqlity and clarity  receive button is very soft and can
+receive call with agentle touch Mic is also very powerful and good battery
+backup ia also excellent
+    Real awesome value for moneyCouldn't believe the quality of bass, high and
+low notes on a wireless earphoneIt can also activate Siri / Voice search right
+from the earphonesAll in all - amazing value at amazing price
+    Good sound quality, battery life, but feels bulky.
+    Amazing sound.  Noise cancellation is good. Good battery life.  It's better
+with phone calls using single earphone, maybe it depends from person to person.
+It's a little big than the imaged one, of course that's okay. Overall, it serves
+the purpose that all the latest bluetooth devices are able to provide.
+    Stopped working after two months . Reached the seller but no response yet.
+It gets charged works for five minutes and have to charge again. Almost like
+dead. Not at all worth buying!!!
+    Best earphones .....nice bass , sound quality,  everything......must go for
+it....the only cons is that when u will receive a call u will have u speak very
+loudly cuz' microphones is placed near ur ear....rest everything is superb....
+    I gave a 4star rating because the audio quality was not upto the mark.
+However, the over all package is excellent. Would recommend this product for
+budget buyers.
+    It's been more than two years using these headphones. This is one of the
+best. Sound quality and battery life is great.
+    It is too heavy to stay in the ear. The retaining clips are soft and dont
+stay.
+    Excellent working. have great sound quality..Thanks chkokko for give aswm
+headphone in low price
+    Big in the ear and it hurts. Sound quality is not good.
+    They are good and nice BT headset in this range.
+    Sound is not natural and also when the wire touch the body it gives hissing
+sound. Not easily fits in ear.
+    I really like this headphones.Sound clarity is top notch for an earphone at
+this price range.You won't be dissapointed with the product.
+    Sound quality, power back up, noise reduction, design ...... every thing is
+good but the worst is its wire..... it bit long and its very irritating and
+uncomfortable.... i wish i have opted for some thing else
+    MIC is not working properly. The other party can not hear you properly.
+    Earphone works only on Audio but when used for a phone call it is the worse
+that i have ever used. Would not suggest for phone call.
+    Better than Jabra, Sony, Senheisser. Premium quality, Premium Sound, Premium
+connectivity, Premium fit, everything Premium
+    Excellent is the word
+    Totally Love it...gives good bass and overall brilliant sound
+    Left side stopped working after 6 months
+    Amazing Product.Brilliant DesignGreat Quality
+    Sound very slow  and very bad
+    The product is very good.complete in all aspects.comfortable to use and easy
+handling with excellent sound.battery life is okay too.am happy to have it.
+    Product not comfortable... I want my money back n i dont see the option.
+Help me
+    Product is very good. I am just giving 4 star for bass is not so good & mic
+reception is not very good. It's ok type performance. Otherwise this product is
+one of the best value for money...
+    After some updates and changing I love it sound awesome but the battery is
+very poor it cast upto only 3 to 4 hours and shut it down
+    Not value for money sound quality is too bad.
+    MUST HAVE!!!!SUPERB BASS, SOUND CLARITY IS TOO GOOD ,LIGHT WEIGHT AND VERY
+COMFORTABLE LOVED IT..
+    Good product works as advertised..be sure to give the fit a few days to
+adjust after that it sounds good
+    Good product, having good sound quality, it is worth by its pricing.
+    OK
+    Not working properly.
+    Battery quality is very bad
+    Just go for it. Excellent product. Battery is good. Sound is mind-blowing.
+    Good one but I get headaches after using this
+    Nice productAll things is good
+    One word, excellent.Bass is brilliantly powerful and the earphones are
+absolutely perfect for working out, they're comfortable and stable.
+    Headphone design is good. Nice sound quality. Overall value for money.
+    Practically perfect. 100% customer satisfaction. Great Quality
+    Excellent product
+    Buttons quality is very poor
+    Crystal clear sound quality with proper bass.
+    satisfactory with good price.
+    Best headphone .... I ever useded full pesa vsuul product
+    Great product for this prize
+    Super quality I have already used and odered once More
+    Awesome sound go for it guys
+    The product supplied by vendor is faulty with one of its headset is broken
+so we have returned the item but still the money has not returned back.
+    good product
+    Not a good product .... not fitted on ear ..
+    Good sound  Quality . But not fix in my ears
+    Stopped working within the first week!!
+    good once
+    Poor quality earphone material
+    Seller: CHKOKKONice sound quality for the price.Dilevery on time.Everything
+as advertised.
+    This product is satisfied
+    Best quality, sound is awesome, mind blowing
+    Good stuff...
+    Good product for the specified price of 1800. Recommended to friends. Few of
+them procured this.
+    Sound is nothing great, also have a problem connecting this to my iphone
+    Awesome sound quality....
+    Oswam bass & clearety....
+    Sound quality amazing...battery is also long lasting
+    Awesome
+    Low quality product
+    Super sound
+    Awsome
+    Fitting is very poor
+    Gud
+    Good product
+    Faltu itemOriginal prise 100 rupesWaste of money
+    Worst product
+    Very good
+    Worth the price, amazing sound quality.
+    Excellent
+    Nice headphone
+    Edited May 2017: My 2nd order within six months. This time I ordered it for
+my sister, obviously the one I ordered for my self is working fine and when my
+sister was looking for a new headphone I recommended it. P.S. I think the
+battery performance has gone down a bit in last 6 months. Yesterday it lasted
+for approx. 4 hrs after full recharge but I am continuously using it (no less
+than 3-4 hrs a day) from last 5 months.1st Order: Dec. 2016 Received it
+yesterday only, though It's a bit soon to judge but after using it with my
+cellphone and laptop for almost 5 hours in a day I can say it's totally worth
+it. It connects automatically after pairing and has a good range. Battery lasts
+for a decent period and the sound quality is quite good. I used it while
+travelling as well and it worked just as fine. Overall you can't ask for
+anything else and will not get anything better in this price range. Worth 5
+stars
+    Seller: CHKOKKO.After 2 months usage, the voice controls stopped working.
+Without voice controls, it was unable to pair or turn off the device. Not
+charging also. Had to send the item to the seller for replacement (by giving
+Rs.300 courier charge). Even after replacement, after 2-3 weeks use, back to
+same issues !!!
+    I like the product being compact and stylish.I would have given 5 stars if
+not for the minor breakings of music while hearing. Its like something is
+blocking the transmission waves.Sound quality is awesome!!Love it. Superb effect
+and cool multifunction controls.Simply awesome.Rating for the product 4.5 out of
+5.
+    Pros.1) GREAT BUILD. wire quality for the price2) BATTERY . Have found it
+too last for uptill 6-8hours (yes 6-8)  hours of continuous usage . Dependable
+on audio volume,  call times,3)THE BEST AUDIO QUALITY base and treble(detailed
+below)4) audio alerts and led blinks (for first time pairings become
+easier)5)thumbs for Call quality. Audible to both sides , (more below, regarding
+connectivity issues and calls drops)Cons:1) continuous blinking of blue led on
+the right side. Which makes it kinda distracting in dark environments for near
+by people.2)The silver lining on both sides, well.... Makes it look cheap, and
+substandard.Optional:::::::Audio quality in detail.I'll be honest I love music
+and have a taste wide for wide range of genres.English :  classic rocks like
+(Beatles), deep purple, pink Floyd, raps Eminem, trance death metals, hard rock,
+pop. Not in jazz or countryHindi: oldies , 90s and the present ,
+mashups,etcTelugu , Tamil.So yes u I DO have a sense of musicEven with such
+tastes I rarely had to mess around with equalizers,2)Calls. I saw people
+complaining about calls connectivity issues and voice not being audible.
+Personally I have synced with oneplus mobilesa Call issues depend on mobile ,
+brand and os. Im with oneplus3 nougat had no problems .Hope this helps, if you
+like give a thumbs up.
+    Asked for replacement and received empty box.Worst logistics experience
+faced ever from amazon.Product was not at par.Bass is normalFitting was not
+perfect.Wire is so sturdy due to this its not fitting properly to ears. Need
+soft wire.Connectivity was good for Bluetooth.
+    It works surprisingly well for what it costs. Sounds great, looks great,
+works well over 4 hours, fits pretty well into the year. The mic and the
+stability of the connection is why I am giving it 4 stars. The mic is just okay.
+Works well when there's mild wind around and the connection breaks up pretty
+often if you are wearing tight clothing and the phone is in the pocket.
+    I bought this product 1year ago and it's working perfectly.Sound quality is
+pretty good.Bass is better than other product in this price range.U can connect
+it to 2 devices simultaneously.only problem is it takes 3-4 seconds for it to
+sync if u play music immediately after it is connected otherwise it works
+perfectly fine after it.Charging time is 30-45 minutes and it working time 5-6
+hr.
+    Guyzz iam giving u my review by listening song frm dis earphone QCY QY8..
+Guyzz believe me its unbelievable.. Superb sound awesome bass.. Full
+multifunctional..  Just get this once u ll nvr think abt returning dis
+product... U cn compare dis earphone vit JBL,  Jabra,  Bose etc brands and
+result ll come equal.. I hv been searching Wireless earphone from 15 days.. I
+wanted cheap n jbl sound quality sound.. N i found dis... Its sound is so
+beauty.. No other product cn match dis in dis price evr... It gonna kill all dos
+brand up der who gv same product at price tag of 2500rs, 3500rs,  4500rs..dis
+product wroth 3500rs...  I jst wnt dis company to gv ppl dis kind of good
+quality product on cheap prices so dat we can buy n gv our blessings to dat
+company to spread all over the globe n gv dis kind of product who can't buy..
+Dos branded company's products.. Wish u all the luck to QYC...
+    so far i have used many headphones speakers earphones i use bose sb 300 for
+home audio was looking for my running partner came accross these and believe me
+these are mind blowing must go for it don give a second thought
+    Great range and bass it beats the Sennheiser earphone which is cost 799/-
+but it was wired so this kind of bluetooth earphone in 1500/- is great go for it
+just use and then you don't need second thought. it takes time to charge about 1
+hour and continue play video or movie 5 to 7 hour range.
+    Totally worth the money. The quality is superb and the comfort level is
+outstanding. Go for it
+    At last I found this  quality Bluetooth headset. The hearing  music all
+played  instruments you can enjoy. Mainly the battery back up is more than
+expectation. Tanks Amazon
+    Everything is fine awesome boss good effects nd resonable price bt the one
+thing is size of d hear phones is very big little difficult nt fit for evry one
+nd we cant use helmet wearing hearphones nt possible
+    Everything is just awesome, except it's price isdropping drastically but
+this is happening to whole elctronic world in these days....
+    Sound is flat for my taste. Seems like mono sound.
+    Sound quality- 4.5/5Bass- 4/5Treble- 3/5Build quality- 5/5Battery backup -
+5-6 hrsOnly sometimes connectivity problem is there overall a beast.
+    Great product. Great seller.It works smoothly. Pairing is so easy.
+Recommended
+    Never thought that a bluetooth earphone of this price range will have such
+an amazing potential.!! I own a sony xb50ap and you know what, this one stands
+in competition with that. Bass effect is just awesome. If you are planning to
+get one just go for it !!
+    Best for this price range. Not too much good but not bad also. Bass level is
+average.Go for it.
+    The headphone is very good.Connects instantly with mobile . Good base
+quality. No issues with mobile.While connected to the computer small problem
+arises. The voice gets crumbled often when we shake our head. Still best
+headphone for phone.
+    Good product
+    Battery back could have been better. But for the price its awesome.
+    I have got what I did not expect. The sound quality of qcy qy8 mini
+bluetooth 4.1 is excellent. It is better than earphones, 'Sennheiser cx275' and
+'house of marley little bird' in some respect.
+    Product advertised as if it supported two devices at the same time but it
+doesnt work that way.You have to disconnect from one to connect the other. False
+commitments and Incorrect specification.Please correct the description that it
+connects 2 Mobiles at the same time instead of 2 devices at the same time..
+    Awesome quality..great sound.. :)
+    Very bulky. Cant hold properly inside ears. Quality wise 5*
+    Value for money....
+    The treble is insanely crisp(coming from a guy has m50x for normal use) and
+clear(on par with 9k headphones), the mids are okayish(on par with 3k
+headphones), the base is as dynamic as 5k headphones but not as punchy as 5k
+headphones(more like 3k headphones). Usually open sound stage not something
+remotely visible in sub 2k headphones but this one has quite decent open
+soundstage. Go for it. Its an absolute steal(better than any sub 2.5k JBL,
+sennheiser or sony headphones by miles).Only because of its mids it doesn't
+appeal as an audiophile.
+    This was good, but stop working after 4 days.so I returned it.Very good
+sound nd connectivity. I ordered it by reading reviews. Thanks God, reviews are
+not biased or fake. Good device. Charging port is annoying a little bit and
+connecting charger is headache, that's all. Thanks Amazon and Qcy
+    In the given price I find this product worth it! Sound is clear even at high
+levels with good bass. I normally use it for my cycling and morning walks. It
+would have been better with more battery back up as it lasts around 2-3 hours in
+a charge. My headset stopped charging in initial 03 months but I got a
+replacement by the seller.Its a safe bet!
+    UPDATE:Been using this for more than 18 months now regularly to gym and I
+can guarantee I have been using it very roughly. Still no issues.Absolutely
+loved the fit and sound quality. Judging from the box, product seemed original.
+Only been using it for few hours now. Initial impressions are positive so far.
+Pairing process was seamless. Sound is quite decent. Will update incase of any
+problems.Purchase detailsPrice : 1179 ( Lightning Deal)Seller : Chicmik
+    Poor sound quality. Not worth wasting time on.
+    i lost it even before using it, so i rate 1 :-)
+    I have been using them for a month now, and they are grart. The only down
+side is that they don't look so good.
+    I purchased these some time ago while they were on sale as a backup pair (so
+I'm beyond the return window, unfortunately).  I typically use headsets like
+these while I go on 4-mile runs, so having them be sweat-proof is a must!My
+previous headset (Soundpeats QY7) finally started to give out after 2 years of
+regular use, so I was happy to have these as a spare set.I really did like the
+sound quality, and once i figured out how to place them in my ear properly, had
+no issues with them falling out of my ears while on long runs.  I like that the
+battery life was good enough to get me through a week (or so) of running on a
+single charge.  I never used them for calls, so can't say anything regarding
+microphone quality.  I had no major issues regarding connection/pairing with my
+phone (Android on Nexus 6P), but they would occasionally skip audio when I would
+turn my head too far while running.The problem I had with these is that they
+just suddenly gave out on me after 2 weeks of use.  During a recent run, they
+just completely shut off and wouldn't turn back on.  I figured that maybe the
+battery had just run out, but once I got home and tried to charge them, they
+simply wouldn't charge at all.  I left them plugged in for a bit, but once I
+picked them up realized that they were hot to the touch, and wouldn't turn on
+afterward.  Completely dead.I suspect that they might have been damaged by
+sweat, despite claims on the product page that they are sweat-proof.  I can't
+think of a better explanation for why they would have just suddenly died on my
+run.I would look elsewhere if you're looking to find a headset that will lost.
+I would be very upset if I had paid full price for these, and they died as
+quickly as these did.  On to another set!Won't be buying this brand again.
+    I ride public transportation about 4 hours a day, 5 days a week. I also keep
+one earbud in at work all day. My older pair of bluetooth headphones got stepped
+on and when I went to replace them, I found they were no longer made. I searched
+for an equivalent, but only found more cheaply made, yet more expensive models
+with terrible sound.Then I stumbled across a pair of these bad boys. No in line
+remote to get caught on my collar. No clunky neck brace, all the controls built
+into the eaqrpieces.The best part: Better sound than earbuds costing 3 times the
+price. Nice bass response without the muddy dull thud. Midtones sound natural
+and not canned. Crisp, accurate highs without that tinny sound.My reasoning
+behind taking the time to write this review is so that more people may make the
+smart decision and buy these headphones so that the manufacturer will continue
+to make these. That way when the pair that I have eventually get lost or broken,
+I can reliably find replacements. I do not leave the house without headphones.
+It simply is not done.Frankly, I am pretty disappointed that similarly (and much
+higher) priced competitors cannot even come close to the sound quality of these
+bad boys.This product is a long overdue wake up call to all manufacturers of
+over priced, badly made headphones.If you aren't rocking a pair of these bad
+boys, you either got took or don't care about quality.I'm gonna buy a backup
+pair of these bad boys A$AP! You should too!
+    This is my second pair of these earbuds and I love them so much! (The other
+pair I lost)  I have used other brands, but these are much easier to use and the
+sound quality is better.They stay in your ears just fine and have a decent
+battery life.
+    Sound quality and connectivity are good. Volume adjustment is poor compared
+to the original. Guess I'm getting old but the lowest setting seems quite loud
+compared to the prior model which is disappointing. If only using for music,
+then this is fine. Podcasts etc and it's as if someone is shouting at me.
+Wouldn't buy again.
+    Awesome. These carry to low end very well. Stays charged for at least 2, 2-3
+hour mowing periods. Love them!
+    I bought this headphones around a year and still it sounds great. Battery
+duration is the issue here. It says last like 7 hrs playinh music but I thinkg
+its only 5. Besides this cant  complain. If I have to buy the next genetation of
+this headphones I would do that definetely.
+    It's a good product, the best in it's price range but they weren't made to
+talk.
+    This is my 3rd pair of these and they're the best sound for the money you
+can get!
+    These quit working in less than a month. Had to return.
+    Worst heahphones I have ever purchased. Seems to work ok, but never wants to
+sync with my Iphone X. I also have to charge it every time I go to the gym and
+dies frequently. Awful, don’t even buy…
+    Great product and good battery life. They really are as good as they say and
+just as good as some pairs that are much more expensive.
+    If youlike headphones that are constantly not connecting, dropping out, and
+stuttering then get these.Threw them away after having them less than a month
+    They did a good job, but short lived. They died this week, so they lasted 9
+months.I guess that should be expected with the low price.
+    Not enough base for my taste but they are ok.
+    The only think I don't like is it doesn't give a vocal "connected" or
+"disconnected"
+    Comfort is great. Sound has good clarity n bass fir ear plugs
+    2nd pair, work great.  1st pair lasted 4 years with tough wear.
+    This
+    Hard to fit inside my ear. That was enough for me to return the product.
+Felt very Uncomfortable.Other features could be good but I didn't not check.
+    No words to describe the superb quality of this product !! Can't believe
+this sound at this price that too over Bluetooth 😋😋
+    Very Nice product I luved it
+    It's great sound but bass very low.It lock not good into ear and it' s wire
+is too long,so its uncomfortable for me and otherwise very nice.
+    I was wondering how the blue tooth would perform and was amazed by the sound
+output.... Recommend this product...
+    Just got this product delivered to me yesterday. The funny thing is, when i
+had this product in my hand, i doubted whether the package has any product
+inside or it's just a piece of paper. Because it was completely weightless.So I
+opened the package and found a cute little box inside.That cute little box had
+another couple of cute little boxes inside. One had the earbuds and stuff. The
+other box had the actual headset.Pros:Turning on the headset and pairing it with
+my phone was quite easy. Except for calls, I tested it with audios/videos and
+all the controls worked good.The sound quality is very good and this was my
+first bluetooth headset ever. So I was very surprised with the sound quality and
+the clarity.The manual I got was in English. So there was no problem with
+that.It's very light weight.The button kind of thing that helps to reduce the
+length o the cable is very good.Tested the USB charger. While charging, the LED
+is in red and turns blue after a complete charge.Cons:When I paired my phone
+with the headset, it didn't ask me for any verification. This headset can be
+paired with two devices if am not wrong. So i am not sure if my phone's setup is
+in such a way or the headset does not ask for pairing passcode.Well, the cute
+button that ties the headset wires to reduce the length is good, but it was a
+little bit difficult for me to understand how to connect that with the wire.
+Watched a youtube video and did it.
+    This is my third pair of QCY earphones.  The two previous ones (QCY7) lasted
+a bit more than two years each.  I don't expect this set to last more than that
+but for the price I am ok with that.I had ordered another brand that had amazing
+reviews but when I finally tried them, I was very disappointed with the quality
+of the sound. Also, they looked like they would break easily... Made me question
+the reviews!I returned those earphones and ordered the QCY8. I have to say, I am
+not a sound expert but this earphones have a great sound. You can actually hear
+each instrument being played. They do a great job at blocking outside noise.
+Another thing they have going is the speed at connecting with my phone. It takes
+a second and we are " connected".I only use my set for music playing. I am not
+interested in using them for phone calls...Battery life is good. I just flew
+from Philly to LA ( and back) and I was able to listen about an hour of music
+after take off and then two full movies from my Laptop.  I still had battery for
+music during landing. Never ran out of power. So I guess I should average about
+6 hours of continuous play. I see many reviews here in Amazon that  seem kind of
+fake to me... When it sounds too good to be true, them probably it is. As it was
+the case of the earphones I returned.This earphones of course are not the best
+in the world.. I am sure  there are much better ones out there preferred by some
+sound snobs but I am very satisfied with my purchase, and my review is legit.
+    I think it's the 3rd one I've bought. These are fantastic. I get about 8
+hours out of them, and the sound is surprisingly clear and wonderful. I can
+connect this to two phones simultaneously. I'll listen to music on my personal
+phone (for music and spotify) and I can still answer calls to my work phone by
+pressing the button on the right earpiece.Pairing devices is easy. I've only had
+to reset this once when I had connection problems.The range on these is great. I
+can be in a different room from my phone and still hear things fine.I've always
+had trouble keeping earphones in my big ears. Not these. These are perfect.I
+wear these on flights. They're not noise-cancelling, but they do a fantastic job
+of blocking out outside noise (even when they're off)Just a note: range is
+limited by the minimum range of either device in a link, so if your phone
+bluetooth range sucks, even the best long-range wifi speakers won't help you
+increase your range.
+    One of the buds broke soon after I got the. I didn't bother replacing them
+because I can only hear out of one ear anyway
+    I LOVE these headphones so much. The noise cancelling is extremely helpful
+and the sound quality superb. I bought a replacement pair once my first pair
+FINALLY broke.
+    I guess
+    Easy to use. Lots of options for use and easy to negotiate
+    It is a great sounding little bluetooth headphone. Just enough bass to make
+it worth the purchase and to respond here.
+    Awesome productSound quality amazing
