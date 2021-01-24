@@ -32,23 +32,6 @@ def get_reviews(path, path_to):
             create_review_file(url,product_id, path_to)
     
 
-
-def separate_and_count():
-    '''
-    ファイルのレビューを単語に分解して分析する
-    '''
-    with open('./path.txt', 'r', encoding='utf-8') as f:
-        paths = f.read().splitlines()
-        for path in paths:
-            #取得したレビューを単語に分解する
-            separated_path = separate(path, noun=False, verb=False, adj=True, adv=False)
-    
-            #単語ごとのカウントを数え、最上位桁の割合をプロットする
-            counts = count_words(separated_path)
-            data_pct = count_first_digits(counts)
-            bar_chart(data_pct)
-
-
 def analyze(review_type, does_get_review=False, does_separate=False): 
 
     if does_get_review:
@@ -60,19 +43,25 @@ def analyze(review_type, does_get_review=False, does_separate=False):
         for file in files:
             if os.stat(file).st_size == 0:
                 continue
-            separate(file, review_type, noun=True,verb=False,adj=True,adv=False)
+            separate(file, review_type, noun=True,verb=True,adj=True,adv=True)
 
-    files = glob.glob(f'./review_{review_type}_separated/*')
+    #単語単位で分析する時
+    #files = glob.glob(f'./review_{review_type}_separated/*')
+    #1語1語分析する時
+    files = glob.glob(f'./review_{review_type}/*')
+
     pct_list = []
     for file in files:
         #レビューをうまく取得できてないやつ
         if os.stat(file).st_size == 0:
             continue
 
+        #単語単位
+        #counts = count_words(file)
+        #一語
         counts = count_chars(file)
         data, pct, total = count_first_digits(counts)
         pct_list.append(pct)
-        #bar_chart(pct)
 
     np_pct_list = np.array(pct_list)
     np_ave_list = np.average(np_pct_list,axis=0)
@@ -86,6 +75,6 @@ def analyze(review_type, does_get_review=False, does_separate=False):
 
 
 if __name__ == "__main__":
-    analyze("bad")
-    analyze("good")
+    #analyze("bad", False, False)
+    analyze("good", False, False)
 

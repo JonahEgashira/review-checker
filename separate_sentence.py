@@ -24,8 +24,15 @@ def separate(path, review_type, noun=True, verb=True, adj=True, adv=True):
     # janomeのAnalyzerを使うことで、文の分割と単語の正規化をまとめて行うことができる
     # 文に対する処理のまとめ
     char_filters = [UnicodeNormalizeCharFilter(),         # UnicodeをNFKC(デフォルト)で正規化
-                    RegexReplaceCharFilter('\(', ''),     # (を削除
-                    RegexReplaceCharFilter('\)', '')      # )を削除
+                    RegexReplaceCharFilter('\(', ''),     
+                    RegexReplaceCharFilter('\)', ''),     
+                    RegexReplaceCharFilter('\!', ''),     
+                    RegexReplaceCharFilter('\！', ''),     
+                    RegexReplaceCharFilter('\?', ''),     
+                    RegexReplaceCharFilter('\.', ''),     
+                    RegexReplaceCharFilter('\^', ''),     
+                    RegexReplaceCharFilter('\-', ''),     
+                    RegexReplaceCharFilter('\.', ''),     
                     ]
 
     # 単語に分割
@@ -74,9 +81,10 @@ def separate(path, review_type, noun=True, verb=True, adj=True, adv=True):
 
     # 単語に対する処理のまとめ
     token_filters = [
-                     #NumericReplaceFilter(),                         # 名詞中の漢数字を含む数字を0に置換
-                     CompoundNounFilter(),                           # 名詞が連続する場合は複合名詞にする
+                     #NumericReplaceFilter(),                        # 名詞中の漢数字を含む数字を0に置換
+                     #CompoundNounFilter(),                           # 名詞が連続する場合は複合名詞にする
                      POSKeepFilter(filter_list),                     # 名詞・動詞・形容詞・副詞のみを取得する
+                     POSStopFilter('記号'),                          # 記号は取り除く 
                      LowerCaseFilter(),                              # 英字は小文字にする
                      OneCharacterReplaceFilter()                     # 一文字しか無いひらがなとカタガナと英数字は削除
                      ]
