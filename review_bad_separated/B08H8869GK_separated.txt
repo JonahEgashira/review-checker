@@ -27,7 +27,7 @@
 分かる
 まだ
 買う
-二週間
+0週間
 経つ
 音楽
 聴く
@@ -36,7 +36,7 @@
 声
 聴こえる
 なる
-00均
+0均
 イヤホン方
 ます
 電話
@@ -97,7 +97,7 @@ goodチェーン
 コード
 コスパ
 優れる
-1ヶ月
+0ヶ月
 自然故障
 当たりハズレ
 もの
@@ -106,17 +106,16 @@ goodチェーン
 設計
 もの
 不明
-11/19
+0/0
 追加
 星
-5個
+0個
 減らす
 bought
 house
 sign
 in
 february
-2018
 from
 ksmart
 sign
@@ -196,7 +195,6 @@ all
 weather
 types
 for
-25
 years,
 there
 was
@@ -524,7 +522,6 @@ road
 on
 new
 estate
-12
 ave
 the
 house
@@ -541,7 +538,6 @@ number
 up
 from
 us,
-13
 st,
 so
 everyone
@@ -549,7 +545,6 @@ keeps
 thinking
 we
 are
-12
 st,
 which
 is
@@ -591,7 +586,6 @@ sign
 arrived
 less
 that
-24
 hours
 after
 ordering,
@@ -674,7 +668,7 @@ these
 difficult
 times
 of
-covid19
+covid0
 this
 company
 said
@@ -806,7 +800,6 @@ had
 delivery
 time
 of
-710
 days
 which
 was
@@ -1146,7 +1139,6 @@ order
 was
 delivered
 within
-48
 hours
 and
 so
@@ -2260,7 +2252,7 @@ great
 piece
 of
 kit
-a1
+a0
 easy
 to
 fit
@@ -2868,17 +2860,17 @@ money,
 ordered
 this
 on
-23rd
+0rd
 june,
 just
 had
 it
 delivered
 at
-815am
+0am
 on
 the
-26th,
+0th,
 very
 happy
 with
@@ -2963,7 +2955,6 @@ the
 letters
 again
 number
-12
 how
 much
 do
@@ -3185,7 +3176,6 @@ and
 up
 up
 in
-15
 minutes
 very
 happy
@@ -3625,7 +3615,6 @@ prompt
 delivery,
 had
 it
-24
 hours
 after
 ordering
@@ -3637,7 +3626,7 @@ plaque
 ordered
 on
 thursday
-2nd
+0nd
 july
 and
 delivered
@@ -3806,14 +3795,13 @@ buy
 and
 looks
 fab
-5*
+0*
 great
 product
 easy
 to
 install
 took
-10
 minutes
 looks
 great
@@ -3892,7 +3880,7 @@ super
 fastvery
 impressedthank
 you
-x5
+x0
 star
 rating
 very
@@ -4072,7 +4060,6 @@ ordered
 this
 in
 summer
-2019
 and
 it
 is

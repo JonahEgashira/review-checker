@@ -1,8 +1,8 @@
-1cloud7580円
-2cloud
+0cloud0円
+0cloud
 stinger
-core4980円
-比較音質:1
+core0円
+比較音質:0
 方
 少し
 良い
@@ -28,38 +28,37 @@ core4980円
 感じる
 締め付け:自分
 顔
-1時間
+0時間
 付ける
-場合1耳
+場合0耳
 痛い
 なる
-2何
+0何
 時間
 付ける
 痛い
 なる
-耐久性:1
+耐久性:0
 方
 ある
-12
-メーカー保証2年
+メーカー保証0年
 ある
 気
 いい
 思う
 重い
-さ2
+さ0
 方
 軽い
 買う
-2方
+0方
 オススメ
-ps4
+ps0
 使
 重い
 キツいし
 装着
-10分
+0分
 持つ
 軽い
 ある
@@ -120,7 +119,7 @@ ps4
 良い
 思う
 前
-4000円位
+0円位
 ヘッドセット
 使用
 それ
@@ -147,11 +146,11 @@ ps4
 メイン
 fps
 cod
-ww2
-bo3
-bo4
+ww0
+bo0
+bo0
 プレイ
-bo4
+bo0
 低音
 聞き取る
 やすい
@@ -173,7 +172,7 @@ dbdデットバイデイライト
 おもう
 長い
 とき
-4,5時間
+0,0時間
 プレイ
 する
 ある
@@ -181,7 +180,7 @@ dbdデットバイデイライト
 少し
 重たい
 感じる
-2,3時間位
+0,0時間位
 快適
 マイク
 フレキシブル
@@ -235,7 +234,7 @@ dbdデットバイデイライト
 使う
 やすい
 なかなか
-一万円
+00円
 超える
 よう
 高い
@@ -267,7 +266,7 @@ dbdデットバイデイライト
 思う
 ボイチャ時
 いい
-一人
+0人
 プレイ
 する
 時には
@@ -313,7 +312,7 @@ dbdデットバイデイライト
 事
 期待
 pc
-4極端子
+0極端子
 無い
 ため
 sound
@@ -401,7 +400,7 @@ u字型
 良い
 見た目
 値段
-100均
+0均
 売る
 そう
 レベル
@@ -481,7 +480,7 @@ pc版デッドバイデイライト
 いる
 今
 使う
-3000円
+0円
 amazonヘッドセット
 大分
 聞こえる
@@ -501,10 +500,10 @@ amazonヘッドセット
 回す
 滑り
 良い
-1目盛
+0目盛
 変える
 難しい
-100段階
+0段階
 特に
 困る
 マイク
@@ -558,7 +557,7 @@ amazonヘッドセット
 いる
 苦痛
 試着
-1分程度
+0分程度
 負担
 感じる
 しれる
@@ -570,7 +569,7 @@ amazonヘッドセット
 れる
 事
 オススメ
-ps4向け
+ps0向け
 なる
 てる
 ある
@@ -583,7 +582,7 @@ ps4向け
 ない
 不可
 無い
-300グラム
+0グラム
 切る
 てる
 軽い
@@ -661,7 +660,7 @@ ps4向け
 長時間装着
 いる
 始め
-十秒
+0秒
 痛み
 感じる
 最悪
@@ -724,10 +723,10 @@ ps4向け
 お金
 返す
 欲しい
-ps4
+ps0
 使用
 感想
-一人
+0人
 ゲーム
 やる
 いる
@@ -767,7 +766,7 @@ ps4
 レビュー
 一新
 わずか
-一週間
+0週間
 音
 途切れる
 途切れる
@@ -842,7 +841,7 @@ ww
 耳
 横あたり
 ガチャガチャ
-180度
+0度
 回る
 よう
 タイプ
@@ -881,7 +880,7 @@ ww
 コールセンター
 使用
 ヘッドセット
-1万
+00
 快適さ
 慣れる
 てる
@@ -941,7 +940,7 @@ fpsゲーム
 マイク性能
 音質
 重要
-ps4
+ps0
 pc共
 マイク
 声
@@ -951,13 +950,13 @@ pc共
 小さい
 なる
 マイク機能自体
-星2
+星0
 他
-\3000台
+\0台
 マイク機能
 変わる
 私
-何個
+0個
 所有
 物
 比べる
@@ -966,7 +965,7 @@ pc共
 それ
 残念
 総合的
-星3
+星0
 音楽鑑賞
 ゲーム音質
 聞く
@@ -977,7 +976,7 @@ pc共
 これ
 良い
 思う
-ps5用
+ps0用
 買う
 高音
 低音
@@ -1036,16 +1035,16 @@ cloud
 概ね
 良い
 感じ
-6000円位
+0円位
 時
 買う
 コスパ的
 十分
 ただ元
-1万
+00
 する
 はず
-純正一択
+純正0択
 思う
 マイク
 使う
@@ -1055,7 +1054,7 @@ cloud
 言う
 ぱりなんだかんだ
 言う
-ps4
+ps0
 ソニー純正
 良い
 テレワーク用
@@ -1119,7 +1118,7 @@ pc
 手軽価格
 テレワーク
 おすすめ
-ps4版
+ps0版
 青
 言う
 とても
@@ -1132,7 +1131,7 @@ ps4版
 だいぶ
 良い
 astro
-a40tr
+a0tr
 比べる
 mixamp
 有る
@@ -1146,7 +1145,7 @@ mixamp
 綺麗
 てる
 音場
-a40tr
+a0tr
 方
 良い
 fps
@@ -1202,7 +1201,7 @@ pc
 ある
 問題
 思う
-ゲームps4
+ゲームps0
 ある
 在庫
 ある
@@ -1283,7 +1282,7 @@ cod
 感
 ある
 ロジクール
-g231
+g0
 こちら
 変更全体的
 クリア
@@ -1291,7 +1290,7 @@ g231
 細か
 音
 聞こえる
-ps4
+ps0
 色々
 ヘッドホン
 迷う
@@ -1335,7 +1334,7 @@ pubg
 後ろ0時
 正面
 とき
-4時8時
+0時0時
 ほぼ
 聞こえる
 気
@@ -1352,7 +1351,7 @@ pubg
 迷う
 いる
 ところ
-ps4pro
+ps0pro
 apex
 使用
 コード
@@ -1362,7 +1361,7 @@ apex
 本当に
 ストレスフリー
 思う
-使用5分
+使用0分
 ゲーム中
 使用
 やめる
@@ -1378,7 +1377,7 @@ apex
 いる
 rog
 strix
-fusion700
+fusion0
 戻す
 あまり
 音
@@ -1405,8 +1404,8 @@ youtube
 とても
 良い
 重い
-為普段4
-6時間
+為普段0
+0時間
 つける
 プレイ
 音質
@@ -1432,7 +1431,7 @@ youtube
 踏み切る
 ちょっと
 かかる
-ps4用
+ps0用
 購入
 初めて
 ヘッドセット
@@ -1444,7 +1443,7 @@ ps4用
 せる
 事
 出来る
-一ヶ月使用
+0ヶ月使用
 まず
 耐久性
 スマホ
@@ -1503,7 +1502,7 @@ ps4用
 便利
 とても
 助かる
-一人
+0人
 やる
 ときマイク
 外す
@@ -1518,11 +1517,11 @@ ps4用
 迷惑
 なる
 割引
-6000円
+0円
 これ
 最高
 今
-3000円
+0円
 ヘッドセット
 使う
 壊れる
@@ -1606,7 +1605,7 @@ fps
 ボタン式
 欲しい
 今
-23千円
+00円
 安い
 物
 使う
@@ -1660,11 +1659,11 @@ fps
 方
 ベスト
 思う
-ps4
+ps0
 使用
 する
 ため
-ps4公認
+ps0公認
 謳う
 為
 購入
@@ -1684,7 +1683,7 @@ vc
 方
 いる
 しれる
-ps4公認
+ps0公認
 書く
 ある
 以上致命的
@@ -1718,7 +1717,7 @@ ps4公認
 不満
 ある
 もう
-2,3日使用
+0,0日使用
 電子音
 解消
 よう
@@ -1727,10 +1726,10 @@ ps4公認
 検討
 とにかく
 接続簡単
-ps4
+ps0
 usb
 差し込む
-ps4
+ps0
 電源
 入れる
 ヘッドフォン
@@ -1772,7 +1771,7 @@ apex
 こと
 ある
 これ
-何時間
+0時間
 ゲーム
 耳
 痛い
@@ -1812,7 +1811,7 @@ apex
 よう
 ライト
 ゲーマー
-3000円
+0円
 やつ
 十分
 思う
@@ -1843,7 +1842,7 @@ apex
 さらに
 オススメ
 なる
-ps4
+ps0
 問題
 使う
 線
@@ -1919,8 +1918,8 @@ ps4
 通話
 楽しめる
 '∀`
-ps4
-ps5
+ps0
+ps0
 使用
 する
 是非おすすめ
@@ -2013,7 +2012,7 @@ fps
 フォートナイト
 いる
 ロビー画面
-l1r1
+l0r0
 ショップ
 ストアロッカー
 画面
@@ -2141,7 +2140,7 @@ bf
 書き方
 購入
 失敗
-ps4
+ps0
 使用
 ワイヤレス
 非常
@@ -2157,7 +2156,7 @@ ps4
 おすすめ
 やはり
 商品
-ps4用
+ps0用
 物
 通常
 pc
@@ -2173,7 +2172,7 @@ pc
 物
 いい
 オーダー
-1ヶ月
+0ヶ月
 待つ
 品物
 残念
@@ -2186,7 +2185,7 @@ pc
 壊れる
 話
 なる
-2個共
+0個共
 音質的
 昔
 使う
@@ -2197,7 +2196,7 @@ pc
 ない
 思う
 ヘッドホーン何
-20年
+0年
 使う
 今
 壊れる
@@ -2213,7 +2212,7 @@ pc
 仕事
 使う
 ため購入
-1日8時間
+0日0時間
 つけっぱなし
 なる
 こと
@@ -2251,7 +2250,7 @@ vc
 左右
 判別
 出来る
-ps4
+ps0
 コントローラー
 問題
 しれる
@@ -2276,7 +2275,7 @@ wifi
 商品
 もん
 分かる
-一ヶ月
+0ヶ月
 使用
 概ね
 良い
@@ -2322,7 +2321,7 @@ wifi
 満足
 購入
 そろそろ
-一年
+0年
 経つ
 音質
 とても
@@ -2355,7 +2354,7 @@ wifi
 事
 多い
 なる
-ps4側
+ps0側
 不具合
 ヘッドセット
 不具
@@ -2389,7 +2388,7 @@ threasher
 大きい
 低音高音とも
 おる
-ps4ユーザー
+ps0ユーザー
 最適
 ヘッドセット
 思う
@@ -2397,7 +2396,7 @@ ps4ユーザー
 英会話用
 購入
 ミュートスイッチ
-ps4コントローラー
+ps0コントローラー
 機能
 音量調節ホイール
 音量0
@@ -2461,7 +2460,7 @@ yperx製品
 大手家電店
 購入
 使用
-2週間程度
+0週間程度
 ヘッド部
 割れる
 返品交換
@@ -2474,7 +2473,7 @@ yperx製品
 返品
 断れる
 窓口
-何度
+0度
 理由
 問いただす
 店長
@@ -2484,7 +2483,7 @@ yperx製品
 嫌々
 交換
 応じる
-2度
+0度
 阪神応援家電店
 買う
 様
@@ -2499,7 +2498,7 @@ yperx製品
 楽しい
 使用
 戴く
-デザイン:ps4
+デザイン:ps0
 マッチ
 着ける
 心地:締め付け
@@ -2528,7 +2527,7 @@ tr
 今
 安い
 物
-1万円
+00円
 超える
 物
 色々
@@ -2617,9 +2616,9 @@ tr
 買う
 良い
 今年
-1月
+0月
 購入
-ps4プロ
+ps0プロ
 使用
 モンハンワールド&アイスボーン
 apex
@@ -2672,14 +2671,14 @@ zoom
 ない
 いい
 感じ
-ただ1
+ただ0
 不満
 言う
 低音
 モコモコ
 感じ
 嫌い
-ps4専用
+ps0専用
 使う
 イイ
 音楽
@@ -2768,7 +2767,7 @@ padマイク
 ピン配置
 おかしい
 omtp対応
-ps4ホームメニュー
+ps0ホームメニュー
 項目
 移動
 する
@@ -2827,7 +2826,7 @@ ps4ホームメニュー
 売れ残る
 ipad
 使用
-2か月
+0か月
 使う
 マイク
 使い物
@@ -2840,7 +2839,7 @@ pc
 確認
 声
 張る
-6%程度
+0%程度
 いく
 テレワーク
 毎日
@@ -2917,7 +2916,7 @@ fps
 使う
 満足
 よう
-ps4
+ps0
 接続
 使用
 パーティ
@@ -2931,7 +2930,7 @@ ps4
 密閉式
 ため音
 正確
-3d
+0d
 聞こえる
 思う
 程
@@ -2962,7 +2961,7 @@ web会議用
 感じ
 許容範囲
 思う
-12分
+0分
 満足
 耐久性
 まだ
@@ -3000,7 +2999,7 @@ web会議用
 期待
 期待値以下
 こと
-3未満
+0未満
 つける
 標準的
 ヘッドセット
@@ -3037,7 +3036,7 @@ ps
 あまり
 痛い
 なる
-ps4専用
+ps0専用
 すめる
 ヘッドセット
 思う
@@ -3058,8 +3057,8 @@ usb
 値段
 見合う
 性能
-ps4
-ps5
+ps0
+ps0
 使用
 際
 usb
@@ -3091,7 +3090,7 @@ usb
 締め付け
 きつい
 ロジクール
-安価ヘッドセット111r
+安価ヘッドセット0r
 くらべる
 コード接続部分
 壊れる
@@ -3137,7 +3136,7 @@ switch用
 充電
 なる
 心配
-ps4
+ps0
 しょうが
 悪い
 値段
@@ -3184,7 +3183,7 @@ ps4
 苦しい
 音質
 ばすぎ
-百均以下
+0均以下
 マイク
 音質
 正常
@@ -3196,7 +3195,7 @@ ps4
 十分
 良い
 思う
-3000円
+0円
 違う
 ヘッドホン
 マイク
@@ -3279,16 +3278,14 @@ top
 視聴環境
 macbook
 pro
-2018
 既所有ヘッドフォン
 ヘッドセット
 ゼンハイザー
-hd580
+hd0
 precisionゼンハイザー
 pc
-82
 usbsony
-wic600n
+wic0n
 今回
 ヘッドセット
 期待
@@ -3508,8 +3505,8 @@ pc用
 良い
 hyperx
 cloud
-ps4版
-ps4
+ps0版
+ps0
 switch
 ヘッドホン端子
 マイク
@@ -3538,8 +3535,8 @@ switch
 印象
 ケーブ
 長い
-130cm
-デュアルショック4
+0cm
+デュアルショック0
 直接
 繋ぐ
 プレイ
@@ -3577,10 +3574,10 @@ hyperx
 cloud
 stinger
 core
-hhss1ckbwt/g
+hhss0ckbwt/g
 usb
 typeaドングル
-24ghzワイヤレスゲーミングヘッドフォン
+0ghzワイヤレスゲーミングヘッドフォン
 基本
 ドングル
 挿す
@@ -3606,7 +3603,7 @@ c端子
 なる
 バッテリースタミナ
 音量中
-17時間
+0時間
 本体以外
 付属品
 usb
@@ -3617,8 +3614,8 @@ typea
 typecケーブル
 スターターガイド簡素
 製品保証
-購入後2年間
-pc/ps4対応
+購入後0年間
+pc/ps0対応
 ある
 一応
 nintendo
@@ -3649,7 +3646,7 @@ av家電
 コンパクト
 サイズ感
 言える
-本体重量275g
+本体重量0g
 軽い
 印象
 無い
@@ -3670,7 +3667,7 @@ av家電
 当てる
 いる
 印象
-40mmドラ
+0mmドラ
 イバー
 不足
 ない
@@ -3695,7 +3692,7 @@ av家電
 圧
 仕様的
 次世代ゲーム機
-音響規格3dオーディオ等
+音響規格0dオーディオ等
 使う
 正直力不足
 しれる
@@ -3707,9 +3704,9 @@ av家電
 場
 広い
 同社
-hhss1cba
+hhss0cba
 様
-71ch対応
+0ch対応
 ない
 為
 専用ソフトウェア
@@ -3720,14 +3717,14 @@ ngenuit
 使える
 手軽い
 長所
-71ch
+0ch
 事
 結果
 ゲームタイトル汎用性
 高める
 言える
 イヤーパッド内側
-3mm
+0mm
 破ける
 丸穴
 点々
@@ -3751,9 +3748,9 @@ ngenuit
 良い
 ヘッドフォン
 レビュー評価
-星4
+星0
 正確
-星45
+星0
 カップ
 スカスカ気味
 さほど
@@ -3794,7 +3791,7 @@ ngenuit
 デザイン
 あわせる
 総合的
-必要十分
+必要0分
 狙う
 設計思想
 好感
@@ -3814,7 +3811,7 @@ web会議
 特徴的
 usbドングル
 挿す
-24ghz無線
+0ghz無線
 接続
 意外と
 遅延
@@ -3828,7 +3825,7 @@ usbドングル
 割
 おとなしい
 目
-ps5
+ps0
 思う
 せる
 カラーリング
@@ -3900,10 +3897,10 @@ ps5
 いる
 思う
 パッケージ
-ps4/ps5
+ps0/ps0
 書く
 ある
-ps5
+ps0
 本体
 白
 差し色
@@ -3911,12 +3908,12 @@ ps5
 意識
 配色
 なる
-ps5発売前
+ps0発売前
 本当に
 白色
 どう
 分かる
-ps5
+ps0
 本体
 標準コントローラー
 白色
@@ -3928,7 +3925,7 @@ ps5
 なる
 接続方式
 付属
-ワイヤレスusbレシーバー1択
+ワイヤレスusbレシーバー0択
 bluet
 ooth方式
 選ぶ
@@ -3956,7 +3953,7 @@ on
 する
 肝心
 音質
-50時間
+0時間
 慣らす
 慣らす
 ボイス
@@ -4000,8 +3997,7 @@ on
 思う
 実際
 性能的
-51
-71サラウンド
+0サラウンド
 ある
 あくまで
 ボイスチャット
@@ -4020,8 +4016,8 @@ on
 満喫
 ゲーム
 プレイ
-51ch
-71ch性能
+0ch
+0ch性能
 備
 製品
 ほう
@@ -4054,7 +4050,6 @@ on
 イヤパッド
 柔らかい
 不快感
-ゼロ
 長時間装着
 まま
 疲れる
@@ -4066,10 +4061,10 @@ on
 やすい
 軽量
 ワイヤレスヘッドセット
-71chサラウンド機能
+0chサラウンド機能
 省略
 いる
-ps4
+ps0
 最適化
 おる
 音切れ
@@ -4147,7 +4142,7 @@ ps4
 良い
 選択肢
 思う
-ps4
+ps0
 ソニー
 公式品
 こと
@@ -4156,7 +4151,7 @@ ps4
 見た目
 とても
 良い
-ps4
+ps0
 バッチリ
 あう
 黒
@@ -4254,7 +4249,7 @@ psマーク
 頭
 痛い
 なる
-ps4
+ps0
 使う
 こと
 想定
@@ -4263,7 +4258,7 @@ ps4
 コード
 長い
 絶妙
-ps4
+ps0
 コントローラー
 ヘッドセット
 接続
@@ -4403,7 +4398,7 @@ stinger
 備える
 マイク
 つく
-ps4公認
+ps0公認
 コントローラー
 接続
 使う
@@ -4422,7 +4417,7 @@ cloud
 質
 価格
 ところ
-1万円以下
+00円以下
 悪い
 ある
 ゲーミング
@@ -4555,7 +4550,7 @@ pcケース
 ある
 色
 やっぱり
-ps5
+ps0
 相性
 狙う
 もの
@@ -4692,7 +4687,7 @@ line等
 遅延
 シビア
 ゲーム
-ps4
+ps0
 使用
 本体充電
 usb
@@ -4704,7 +4699,7 @@ usb
 する
 すぐ
 使える
-普段ps4
+普段ps0
 音声
 ホームシアター側
 出力
@@ -4720,7 +4715,7 @@ usb
 嫌
 思う
 杞憂
-ps4側
+ps0側
 設定
 変える
 スピーカー
@@ -4823,7 +4818,7 @@ sdカード
 おなじみ
 kingston
 ワイヤレスゲーミングヘッドセット
-ps4
+ps0
 ゲーム用途
 テレワーク
 web会議
@@ -4832,7 +4827,7 @@ web会議
 おる
 使う
 始める
-1か月
+0か月
 経つ
 安定
 音声通信
@@ -4945,7 +4940,7 @@ kingston
 感じ
 ケーブル長
 直線状態
-140cm
+0cm
 音
 高音
 少し
@@ -5014,7 +5009,7 @@ kingston
 スライダー
 クリック感
 ある
-7段階
+0段階
 音量調節
 出来る
 音量max
@@ -5069,7 +5064,7 @@ mini
 優しい
 音
 いう
-一印象
+0印象
 音
 小さい
 意味
@@ -5094,10 +5089,10 @@ mini
 人
 オススメ
 別
-ps4
+ps0
 普通
 使える
-一本
+0本
 ケーブル
 音声
 マイク両方
@@ -5122,7 +5117,7 @@ on
 良い
 わけ
 わかる
-ipad2
+ipad0
 古い
 やつ
 接続
@@ -5204,7 +5199,7 @@ usbアダプタ
 充電用usbケーブル
 簡易説明書英文
 キングストン
-ps4公認ゲーミングヘッドセット
+ps0公認ゲーミングヘッドセット
 高級感
 ある
 筐体
@@ -5253,7 +5248,7 @@ fps
 ある
 高級感
 ある
-ps4公認ゲーミングヘッドセット
+ps0公認ゲーミングヘッドセット
 ゲーミングヘッドセット
 どれ
 買う
@@ -5284,7 +5279,7 @@ skype
 ゲーム
 臨場感
 高める
-オーディオ50mm指向性ド
+オーディオ0mm指向性ド
 ライバー
 ゲーム時
 臨場感
@@ -5351,7 +5346,7 @@ r側下部スライダーボリューム
 みる
 後悔
 思う
-ps4公認ヘッドセット
+ps0公認ヘッドセット
 ある
 思う
 軽量
@@ -5361,7 +5356,7 @@ ps4公認ヘッドセット
 音質
 利便性
 求める
-ps4ゲーマー向け商品
+ps0ゲーマー向け商品
 hyperxならでは
 反
 発クッション
@@ -5372,7 +5367,7 @@ hyperxならでは
 休む
 こと
 できる
-90°回転式イヤーカップ
+0°回転式イヤーカップ
 最高
 臨場感
 得る
@@ -5420,7 +5415,6 @@ hyperxならでは
 hyperx
 cloud
 ii
-71
 比較
 ケーブル
 少し
@@ -5457,8 +5451,8 @@ c本体
 使い方
 問題
 ある
-結果3年目
-数日前
+結果0年目
+0日前
 ダメ
 なる
 しまう
@@ -5466,7 +5460,7 @@ c本体
 以前の
 比較
 ところ
-+23cm程長
++0cm程長
 なる
 長い
 下
@@ -5486,7 +5480,7 @@ c本体
 思う
 以前
 安い
-ps4公式ライセンス
+ps0公式ライセンス
 もん
 買う
 手
@@ -5555,10 +5549,10 @@ pcゲーム
 少なくとも
 短時間
 大丈夫
-ps4
+ps0
 モンハン
 やる
-1クエストごと
+0クエストごと
 休憩
 いる
 締め付ける
@@ -5597,7 +5591,7 @@ ps4
 意味
 良い
 しれる
-ps4
+ps0
 使う
 難しい
 設定
@@ -5614,7 +5608,7 @@ usbドングル
 言う
 ヘッドホン
 電源
-ps4
+ps0
 連動
 オンオフ
 出来る
@@ -5736,7 +5730,7 @@ hyper
 長時間使用
 にくい
 ため
-最大2時間程度
+最大0時間程度
 使用
 おすすめ
 マイク部分
@@ -5762,7 +5756,7 @@ usbポート
 指す
 簡単
 スイッチ
-ps4
+ps0
 使う
 不具合
 起きる
@@ -5829,7 +5823,7 @@ usbドングル
 ワイヤレスヘッドセット
 コスパ良
 感じる
-ps4
+ps0
 pcオンラインゲー
 使用
 音楽専門
@@ -5907,7 +5901,7 @@ bluetoothヘッドセット
 ヘッドセット
 samsung
 galaxy
-note8
+note0
 繋げる
 podcast
 聞く
@@ -5944,7 +5938,7 @@ pubg
 テレワーク
 打ち合わせ
 使う
-ps5対応
+ps0対応
 する
 よう
 購入
@@ -6087,7 +6081,7 @@ muteボタン
 選択
 ノートpc
 場合
-35mm4極ジャック
+0mm0極ジャック
 付く
 てる
 製品
@@ -6113,7 +6107,7 @@ usb
 本体スピーカー
 切替
 出来る
-5mm4極ジャック
+0mm0極ジャック
 使う
 いる
 それ自体
@@ -6178,7 +6172,7 @@ usb
 度購入
 使う
 始める
-1ヶ月
+0ヶ月
 経つ
 レビュー
 みる
@@ -6188,7 +6182,7 @@ usb
 性能
 私
 pc
-ps4
+ps0
 switch
 ヘッドホン
 利用
@@ -6223,7 +6217,7 @@ switch
 白
 とても
 良い
-1ヶ月
+0ヶ月
 使う
 壊れる
 気配
@@ -6241,7 +6235,7 @@ switch
 思う
 ところ
 そこ
-1万円
+00円
 ワイヤレスヘッドホン
 とても
 良い
@@ -6366,7 +6360,7 @@ para
 reemplazar
 unos
 logitech
-h600
+h0
 que
 ya
 me
@@ -6579,7 +6573,7 @@ levantarlo,
 en
 mis
 logi
-h600
+h0
 esto
 se
 hacía
@@ -6632,7 +6626,7 @@ mi
 pc
 en
 windows
-10,
+0,
 excelentes
 en
 obs,
@@ -6667,10 +6661,9 @@ otg,
 es
 un
 poco
-f1
+f0
 con
 android
-10
 pero
 no
 probé
@@ -7025,7 +7018,7 @@ didn't
 spend
 closer
 to
-$200
+$0
 on
 different
 headset
@@ -7292,7 +7285,6 @@ facilidad,
 después
 de
 unos
-45
 min
 de
 uso
@@ -7400,7 +7392,7 @@ los
 utilizo
 con
 el
-psp4
+psp0
 la
 computadora
 lo
@@ -7726,7 +7718,7 @@ the
 price
 of
 just
-$80
+$0
 really
 don
 get
@@ -7895,7 +7887,7 @@ from
 my
 old
 logitech
-g430
+g0
 just
 hate
 having
@@ -7935,7 +7927,7 @@ gaming
 pc
 and
 the
-g430
+g0
 no
 longer
 matched
@@ -7956,7 +7948,7 @@ difference
 coming
 from
 the
-g430style
+g0style
 personally
 think
 the
@@ -7971,7 +7963,6 @@ this
 doesn't
 sound
 like
-51
 surround
 sound,
 the
@@ -8030,7 +8021,6 @@ range
 could
 go
 perhaps
-2030
 feet
 away
 from
@@ -8075,7 +8065,6 @@ chats
 all
 around
 the
-12
 hour
 ranges
 without
@@ -8125,7 +8114,6 @@ this
 headset
 on
 windows
-10
 and
 macos
 and
@@ -8172,7 +8160,6 @@ is
 extremely
 short,
 probably
-15
 feet
 if
 you
@@ -8235,7 +8222,7 @@ worthy
 upgrade
 over
 my
-g430
+g0
 and
 hope
 my
@@ -8376,7 +8363,7 @@ thing
 connects
 to
 my
-ps4
+ps0
 and
 to
 my
@@ -8670,7 +8657,7 @@ could
 buy
 knock
 off
-30$
+0$
 ones
 and
 have
@@ -8796,7 +8783,7 @@ and
 love
 the
 white
-finish5/5
+finish0/0
 would
 buy
 again
@@ -8934,7 +8921,7 @@ disappointed
 since
 these
 were
-$80
+$0
 and
 seemingly
 had
@@ -8943,7 +8930,7 @@ quality
 with
 my
 previous
-$20
+$0
 sades
 headphones
 not
@@ -9040,7 +9027,7 @@ they
 work
 which
 is
-50/50
+0/0
 i've
 tried
 lot
@@ -9182,7 +9169,6 @@ to
 have
 happen
 every
-15
 minutes
 and
 kind
@@ -9216,7 +9202,7 @@ these
 while
 playing
 my
-ps4
+ps0
 and
 for
 the
@@ -9244,10 +9230,8 @@ and
 don't
 charge
 for
-34
 days
 the
-360
 sound
 is
 unreal
@@ -9258,7 +9242,7 @@ good
 too
 comfort
 is
-4/5
+0/0
 just
 because
 my
@@ -9424,7 +9408,6 @@ a++
 work
 from
 home
-89
 hours
 day
 and
@@ -9491,7 +9474,6 @@ seamless
 install
 on
 windows
-10
 the
 range
 is
@@ -9583,7 +9565,7 @@ works
 great
 and
 comfortable
-100%
+0%
 my
 husband
 has
@@ -9747,7 +9729,7 @@ room
 in
 the
 house
-ps5
+ps0
 readycons:
 my
 husband
@@ -9920,8 +9902,7 @@ around
 with
 useediting
 august
-25th
-2020
+0th
 about
 battery
 life:
@@ -9929,7 +9910,6 @@ my
 husband
 gets
 about
-12
 hours
 on
 one
@@ -9945,7 +9925,6 @@ usually
 do
 more
 than
-12
 hour
 gaming
 sessions,
@@ -10020,7 +9999,6 @@ the
 next
 room,
 about
-1520
 feet
 from
 the
@@ -10041,7 +10019,6 @@ into
 my
 entry,
 about
-10
 feet
 further,
 it
@@ -10625,7 +10602,7 @@ to
 my
 pc
 and
-ps4
+ps0
 with
 no
 issues
@@ -10864,7 +10841,7 @@ both
 the
 pc
 and
-ps4
+ps0
 people
 were
 able
@@ -11102,7 +11079,7 @@ compares
 with
 the
 logitech
-g733
+g0
 at
 about
 half
@@ -11169,7 +11146,6 @@ can
 buy
 new
 in
-2020
 but
 it
 could
@@ -11193,7 +11169,7 @@ hooking
 up
 to
 the
-ps4
+ps0
 was
 really
 simple
@@ -11211,7 +11187,7 @@ and
 headset
 on
 the
-ps4
+ps0
 instantly
 detected
 the
@@ -11281,7 +11257,6 @@ of
 this
 review:
 sept
-2020
 this
 means
 you
@@ -11297,7 +11272,6 @@ as
 generic
 headset
 no
-71
 surround,
 sidetone
 toggle,
@@ -11369,7 +11343,7 @@ helpful
 for
 games
 like
-ut3
+ut0
 yes,
 still
 play
@@ -11396,11 +11370,9 @@ plus
 weighed
 it
 at
-2426
 grams,
 which
 is
-772
 grams
 lighter
 than
@@ -11568,14 +11540,14 @@ you
 use
 for
 your
-ps4
+ps0
 controllers
 are
 microusb
 so,
 your
 older
-ps4
+ps0
 cables
 won
 be
@@ -11589,9 +11561,8 @@ cable,
 which
 measured
 at
-22inches
+0inches
 long
-10
 could
 be
 longer,
@@ -11761,7 +11732,6 @@ the
 ability
 to
 go
-71
 surround
 which
 pretty
@@ -11837,14 +11807,14 @@ use
 it
 on
 the
-ps4
+ps0
 and
 hope
 it
 works
 on
 the
-ps5
+ps0
 when
 it
 comes
@@ -11870,7 +11840,7 @@ wireless
 gaming
 headset,
 for
-ps4,
+ps0,
 pc,
 lightweight,
 durable
@@ -11896,7 +11866,6 @@ wireless
 gaming
 headsetweighs
 just
-275
 grams,
 and
 has
@@ -11914,7 +11883,7 @@ very
 comfortable
 it
 uses
-24ghz
+0ghz
 wireless
 connection
 via
@@ -11922,7 +11891,7 @@ usb
 dongle
 and
 has
-40mm
+0mm
 drivers
 the
 sound
@@ -12000,12 +11969,12 @@ stinger
 core
 wireless
 for
-ps4/ps5
+ps0/ps0
 and
 pc,
 model
 number
-hhss1ckbwt/g
+hhss0ckbwt/g
 this
 particular
 model
@@ -12027,7 +11996,7 @@ pc,
 as
 of
 sept
-2020,
+0,
 it
 isn
 detected
@@ -12056,7 +12025,6 @@ models,
 support
 for
 virtual
-71
 audio,
 and
 specific
@@ -12070,7 +12038,6 @@ the
 middle
 of
 august
-2020
 and
 the
 main
@@ -12098,7 +12065,6 @@ stinger
 core
 is
 featherweight
-243
 grams
 according
 to
@@ -12107,7 +12073,6 @@ kitchen
 scale
 just
 over
-05
 pounds
 which
 is
@@ -12173,7 +12138,7 @@ same
 league
 despite
 the
-$7999
+$0
 msrp
 there
 significant
@@ -12255,7 +12220,7 @@ now
 discontinued
 turtle
 beach
-z300
+z0
 headset
 that
 also
@@ -12329,7 +12294,7 @@ that
 operates
 on
 the
-24ghz
+0ghz
 band
 and
 you
@@ -12352,7 +12317,7 @@ connectivity
 options
 such
 as
-35mm
+0mm
 input,
 etc
 the
@@ -12493,9 +12458,9 @@ with
 my
 samsung
 galaxy
-s10+
+s0+
 and
-s5e
+s0e
 tablet
 when
 used
@@ -12538,7 +12503,6 @@ both
 android
 and
 windows
-10
 automatically
 set
 up
@@ -12623,7 +12587,7 @@ the
 volume
 level
 by
-4%
+0%
 but
 the
 next
@@ -12632,7 +12596,7 @@ will
 increase
 it
 by
-6%,
+0%,
 etc
 the
 swiveltomute
@@ -12665,18 +12629,16 @@ unpleasant
 noises
 the
 claimed
-17
 hour
 battery
 life
 at
-50%
+0%
 volume
 was
 really
 more
 like
-12
 hours
 during
 my
@@ -12732,7 +12694,7 @@ with
 the
 massdrop
 sennheiser
-pc37x
+pc0x
 headphones,
 which
 are
@@ -12756,7 +12718,7 @@ really
 what
 i'm
 looking
-fornotes:1
+fornotes:0
 it
 comes
 with
@@ -12767,14 +12729,13 @@ charging
 cable
 that's
 about
-50cm
+0cm
 long
 the
 cable
 is
 usb
-20
-capable2
+capable0
 the
 cutout
 around
@@ -12819,7 +12780,7 @@ square
 and
 they
 didn't
-fit3
+fit0
 made
 determination
 that
@@ -12920,7 +12881,7 @@ battery
 life
 and
 driver
-qualitypros:lightweight40mm
+qualitypros:lightweight0mm
 drivers
 in
 this
@@ -12931,12 +12892,12 @@ the
 sound
 quality
 of
-50mm
+0mm
 drivers
 better
 than
 average
-40mmsvery
+0mmsvery
 affordable
 price
 for
@@ -13004,7 +12965,7 @@ life
 did
 average
 for
-1415hrs
+0hrs
 where
 listened
 high
@@ -13093,7 +13054,7 @@ average
 user
 will
 get
-17hrs
+0hrs
 easy
 am
 surecons:not
@@ -13197,9 +13158,8 @@ the
 freedom
 of
 direct
-connection71
+connection0
 or
-51
 listening
 is
 not
@@ -13303,9 +13263,9 @@ are
 stepping
 down
 from
-$300
+$0
 astro
-a50,
+a0,
 this
 will
 not
@@ -13366,12 +13326,12 @@ ropes
 with
 are
 separate
-ps4s
+ps0s
 and
 can
 summarize
 the
-following:1
+following:0
 game
 sound
 quality
@@ -13390,7 +13350,7 @@ to
 hear
 what's
 going
-on2
+on0
 chat
 quality
 incoming
@@ -13427,7 +13387,6 @@ weird
 as
 it
 was
-051
 second
 before
 anything
@@ -13512,7 +13471,7 @@ and
 even
 restarted
 the
-ps4
+ps0
 we
 also
 tried
@@ -13524,7 +13483,7 @@ and
 that
 sounded
 just
-fine3
+fine0
 comfort
 it's
 actually
@@ -13629,7 +13588,7 @@ home
 now
 due
 to
-covid19
+covid0
 was
 attracted
 to
@@ -13718,7 +13677,7 @@ in
 usb
 into
 the
-ps4
+ps0
 or
 your
 desktopbattery
@@ -13730,7 +13689,7 @@ that
 last
 up
 to
-17hrs
+0hrs
 on
 one
 charge
@@ -14182,7 +14141,7 @@ on
 mac,
 pc,
 and
-ps4
+ps0
 for
 the
 mac,
@@ -14252,7 +14211,7 @@ right
 away
 on
 the
-ps4,
+ps0,
 it
 also
 paired
@@ -14929,7 +14888,6 @@ battery,
 use
 it
 over
-10
 hours
 with
 no
@@ -14952,7 +14910,6 @@ found
 no
 interruption
 in
-20
 feet
 away
 with
@@ -15288,7 +15245,7 @@ getting
 ready
 for
 the
-ps5
+ps0
 launch
 with
 these
@@ -15401,16 +15358,14 @@ last
 about
 the
 claimed
-12ish
+0ish
 hours
 on
 charge
 trials
 of
-10,
-12
+0,
 and
-11
 hours
 just
 left
@@ -15442,7 +15397,6 @@ bluetooth,
 less
 than
 maybe
-15
 feetsetup
 was
 pain
@@ -15679,7 +15633,7 @@ using
 it
 with
 he
-ps4on
+ps0on
 the
 box
 it
@@ -15689,7 +15643,7 @@ it
 compatible
 with
 the
-ps5
+ps0
 as
 well
 so

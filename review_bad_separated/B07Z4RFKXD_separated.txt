@@ -114,7 +114,7 @@ codモバイル用
 消耗品
 知れる
 iphone
-se2
+se0
 使用
 カバー
 ある
@@ -162,7 +162,7 @@ se2
 する
 引っ掛ける
 やすい
-100均
+0均
 売る
 スマフォ
 ホールド感
@@ -191,10 +191,10 @@ steam
 ケース
 装着
 xiaomi
-redomi9s
+redomi0s
 使用
 最近購入
-デュアルショック4
+デュアルショック0
 使用
 装着
 簡単
@@ -243,7 +243,7 @@ android専用
 作り
 しっかり
 おる
-ps4
+ps0
 コントローラー
 がっちり
 固定
@@ -294,9 +294,9 @@ ps4
 できる
 商品
 満足
-ただ100均
+ただ0均
 もの
-100円
+0円
 売る
 ショック
 これから
@@ -304,7 +304,7 @@ ps4
 思う
 人
 まず
-100均
+0均
 見る
 行く
 方
@@ -382,7 +382,7 @@ am
 using
 is
 old
-iphone7
+iphone0
 with
 an
 otterbox
@@ -449,14 +449,14 @@ to
 usb
 fits
 my
-ps4
+ps0
 controller
 perfectly,
 holds
 my
 galaxy
 note
-10+
+0+
 perfectly
 my
 phone
@@ -653,7 +653,7 @@ game
 lol
 since
 the
-ps4
+ps0
 controller
 works
 very
@@ -678,7 +678,7 @@ it
 was
 on
 my
-n64,
+n0,
 ds
 and
 gba
@@ -842,7 +842,7 @@ my
 phone
 have
 pixel
-4xl
+0xl
 with
 esr
 clear
@@ -1057,10 +1057,10 @@ play
 holds
 my
 pixel
-4a
+0a
 and
 lg
-g7
+g0
 fine
 with
 no
@@ -1132,7 +1132,7 @@ the
 side,
 my
 lg
-g7
+g0
 it
 presses
 in
@@ -1209,7 +1209,7 @@ on
 sending
 me
 free
-ps4
+ps0
 accessory
 to
 compensate
@@ -1265,7 +1265,7 @@ way
 this
 feels
 like
-$510
+$0
 producta
 few
 positives
@@ -1313,7 +1313,7 @@ my
 cell
 phone
 and
-ps4
+ps0
 controller,
 it
 works
@@ -1389,7 +1389,7 @@ phone
 well
 on
 his
-ps4
+ps0
 controller
 it
 sturdy
@@ -1408,7 +1408,7 @@ again
 prosfits
 nicely
 on
-ds4comes
+ds0comes
 with
 separate
 standadjustable
@@ -1548,7 +1548,7 @@ it's
 missing
 something
 like
-1mm
+0mm
 to
 clip
 and
@@ -1619,7 +1619,7 @@ everyone
 wanting
 to
 use
-ps4
+ps0
 controller
 on
 an
@@ -1692,7 +1692,7 @@ jours
 avec
 mon
 samsung
-s9
+s0
 le
 truc
 est
@@ -1935,16 +1935,16 @@ use
 it
 with
 my
-ps4
+ps0
 controller
 and
 samsung
-s9plus
+s0plus
 phone
 can
 play
 my
-ps4
+ps0
 anywhere
 around
 the
@@ -1961,7 +1961,7 @@ fits,
 fits
 on
 the
-ps4
+ps0
 controller
 however,
 no
@@ -2028,7 +2028,7 @@ good
 at
 fitting
 with
-ps4
+ps0
 controller
 on
 the
@@ -2051,7 +2051,7 @@ got
 to
 pay
 another
-12$
+0$
 for
 cable
 not
@@ -2087,7 +2087,7 @@ cheap
 sturdy
 holds
 my
-a31
+a0
 galaxy
 good
 when
@@ -2148,7 +2148,7 @@ doesn't
 support
 my
 phone
-s20
+s0
 ultra
 keeps
 snapping
@@ -2214,7 +2214,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 see
 update
@@ -2461,17 +2461,17 @@ but
 it
 was
 about
-$3
+$0
 more
 for
 that
 one:this
 one:
-$999oivo
+$0oivo
 with
 phone
 stand:
-$1299both
+$0both
 come
 with
 mount
@@ -2568,7 +2568,7 @@ play
 or
 using
 your
-ps4
+ps0
 controller
 for
 your
@@ -2738,7 +2738,7 @@ long
 time
 specifically
 for
-ps4
+ps0
 remote
 play
 can
@@ -2753,21 +2753,21 @@ am
 using
 my
 note
-10+,
+0+,
 an
 officially
 licensed
-ps4
+ps0
 controller,
 and
-ps4
+ps0
 controller
 phone
 remote
 play
 mount,
 oivo
-ps4
+ps0
 controller
 clip
 clamp
@@ -2784,7 +2784,7 @@ for
 all
 my
 mobile
-ps4
+ps0
 needsthe
 mount
 is
@@ -2839,7 +2839,7 @@ to
 fit
 my
 note
-10+,
+0+,
 adjusts
 and
 locks
@@ -2875,7 +2875,7 @@ so
 always
 have
 my
-ps4
+ps0
 with
 me
 was
@@ -3212,7 +3212,6 @@ holds
 my
 caseless
 iphone
-11
 pro
 no
 problem
@@ -3224,7 +3223,7 @@ not
 fit
 on
 the
-ps4
+ps0
 controller,
 it
 wouldn't
@@ -3444,7 +3443,7 @@ get
 it
 on
 my
-ps4
+ps0
 controller
 once
 did
@@ -3492,7 +3491,7 @@ good
 job
 my
 galaxy
-s10e
+s0e
 feels
 secure
 the
@@ -3750,7 +3749,6 @@ micro
 considering
 it's
 not
-2018
 i'm
 little
 disappointed
@@ -3772,7 +3770,7 @@ one
 on
 amazon
 for
-$7
+$0
 so
 all
 in
@@ -3805,7 +3803,7 @@ to
 secure
 to
 the
-ps4
+ps0
 controller
 there
 is
@@ -3868,7 +3866,7 @@ your
 phone
 on
 your
-ps4
+ps0
 controller
 haven
 had
@@ -3964,7 +3962,7 @@ additional
 accessories
 on
 your
-ps4
+ps0
 controller
 to
 make
@@ -4000,7 +3998,7 @@ and
 wraps
 around
 the
-ps4
+ps0
 controller
 snuggly
 without
@@ -4083,12 +4081,12 @@ my
 iphone
 to
 my
-ds4
+ds0
 controller
 to
 play
 my
-ps4
+ps0
 remotely
 the
 build
@@ -4100,7 +4098,7 @@ extra
 bulk
 to
 your
-ds4
+ds0
 having
 the
 excess
@@ -4151,7 +4149,7 @@ and
 fit
 my
 model
-cuhzct2u
+cuhzct0u
 just
 take
 your
@@ -4171,7 +4169,7 @@ be
 holds
 my
 oneplus
-6t
+0t
 just
 fine
 even
@@ -4206,7 +4204,7 @@ and
 actually
 holds
 the
-ps4
+ps0
 controller
 quite
 well
@@ -4265,10 +4263,10 @@ to
 hold
 my
 note
-10+
+0+
 onto
 my
-ps4
+ps0
 controller
 the
 stand
@@ -4515,7 +4513,7 @@ no
 issues
 have
 galaxy
-note10+
+note0+
 with
 the
 protective
@@ -4625,7 +4623,7 @@ in
 place
 it's
 about
-$5
+$0
 product
 this
 thing
@@ -4643,7 +4641,7 @@ and
 needed
 it
 for
-ps4
+ps0
 remote
 play
 on
@@ -4714,7 +4712,6 @@ perfect
 have
 an
 iphone
-11
 with
 an
 otter
@@ -5034,7 +5031,7 @@ that
 work
 with
 my
-ps4
+ps0
 controller,
 that
 are
@@ -5073,7 +5070,7 @@ he
 can
 hook
 his
-ps4
+ps0
 controller
 up
 to
@@ -5099,7 +5096,7 @@ fit
 this
 fits
 my
-ps4
+ps0
 controller
 great,
 but
@@ -5262,7 +5259,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 great
 product
@@ -5307,7 +5304,7 @@ your
 phone
 on
 the
-ps4
+ps0
 controller
 without
 feeling
@@ -5383,7 +5380,7 @@ taking
 this
 on/off
 your
-ps4
+ps0
 controller
 too
 often
@@ -5547,7 +5544,7 @@ phone
 mount
 for
 my
-ps4
+ps0
 controller
 it
 grips
@@ -5573,7 +5570,6 @@ emulators
 with
 my
 iphone
-11
 pro
 and
 it
@@ -5655,7 +5651,7 @@ activate
 bluetooth
 on
 the
-ps4
+ps0
 controller
 happy
 gaming
@@ -5698,7 +5694,7 @@ shoulders
 this
 works
 have
-iphone11max
+iphone0max
 and
 it
 holds
@@ -5790,9 +5786,8 @@ phone;
 the
 samsung
 note
-20
 ultra
-5g
+0g
 the
 cord
 in
@@ -5870,7 +5865,7 @@ can
 bluetooth
 to
 the
-ps4
+ps0
 controller
 and
 don
@@ -5960,7 +5955,7 @@ tight
 fit
 on
 the
-ps4
+ps0
 controller
 must
 have
@@ -6091,7 +6086,7 @@ is
 awesome,
 fits
 my
-s10+
+s0+
 little
 low
 key
@@ -6157,7 +6152,6 @@ fine
 if
 it
 was
-2010
 every
 phone
 now
@@ -6407,7 +6401,7 @@ will
 hold
 an
 iphone
-8plus
+0plus
 with
 case
 which
@@ -6473,10 +6467,9 @@ lightning
 adapter
 white,
 pack
-900816
 ht
-tps://smileamazoncom/dp/b015qi08gq/ref=cm_sw_r_cp_api_glc_fabc_zn7fb9z8e3gv_
-encoding=utf8&psc=1
+tps://smileamazoncom/dp/b0qi0gq/ref=cm_sw_r_cp_api_glc_fabc_zn0fb0z0e0gv_
+encoding=utf0&psc=0
 can
 get
 this
@@ -6484,7 +6477,7 @@ to
 stay
 on
 my
-ps4
+ps0
 control
 will
 return
@@ -6810,7 +6803,7 @@ for
 my
 iphone
 +
-ps4
+ps0
 controller
 combo
 the
@@ -6860,7 +6853,6 @@ but
 again
 using
 note
-10
 plus
 my
 husband
@@ -6868,7 +6860,7 @@ constantly
 plays
 on
 his
-ps4
+ps0
 or
 his
 phone
@@ -6886,7 +6878,7 @@ plays
 cod
 on
 it
-24/7
+0/0
 the
 sturdiness
 of
@@ -6960,7 +6952,7 @@ the
 price
 im
 on
-s20
+s0
 ultra
 works
 as
@@ -7107,7 +7099,6 @@ heavy
 phone
 like
 note
-10
 plus
 in
 my
@@ -7209,7 +7200,7 @@ cord
 because
 have
 galaxy
-s10
+s0
 with
 usbc
 it
@@ -7291,7 +7282,7 @@ usb
 received
 it
 jan
-13th
+0th
 and
 it
 broke
@@ -7345,14 +7336,14 @@ extra
 works
 great
 with
-ps4
+ps0
 controller
 well
 designed,
 easily
 fit
 my
-ps4
+ps0
 controller
 and
 holds
@@ -7396,7 +7387,7 @@ it
 is
 intended
 for
-even10
+even0
 grams
 of
 weight
@@ -7460,7 +7451,7 @@ my
 dji
 tello
 using
-ps4
+ps0
 controller
 it
 has
@@ -7547,7 +7538,7 @@ product
 it
 crazy
 how
-$10
+$0
 item
 can
 bring
@@ -7586,7 +7577,7 @@ to
 micro
 usb
 cable
-90%
+0%
 of
 phones
 these
@@ -7614,9 +7605,8 @@ cheap
 holds
 my
 note
-20
 ultra
-5g
+0g
 no
 issues
 just
@@ -7777,7 +7767,7 @@ great
 fits
 my
 samsung
-s10
+s0
 without
 problemfyi
 added
@@ -7792,7 +7782,6 @@ good
 on
 the
 iphone
-12
 pro
 max
 fits
@@ -7819,7 +7808,7 @@ it
 didn
 fit
 the
-ps4
+ps0
 remote
 purchased
 everything
@@ -7943,7 +7932,7 @@ not
 clip
 on
 the
-ps4
+ps0
 controller
 properly,
 will
@@ -7962,7 +7951,7 @@ xcloud/geforcenow
 experience
 with
 the
-ps4
+ps0
 remote
 works
 great,
@@ -8009,7 +7998,6 @@ wireless
 thanks
 to
 ios
-13
 needs
 better
 instructions
@@ -8364,7 +8352,6 @@ daily
 use
 samsung
 note
-10
 plus
 and
 it
@@ -8446,7 +8433,7 @@ for
 me
 holds
 my
-s20
+s0
 ultra
 very
 well
@@ -8465,7 +8452,7 @@ snap
 it
 on
 the
-ps4
+ps0
 controller
 works
 great
@@ -8663,7 +8650,7 @@ having
 to
 use
 about
-$010
+$0
 worth
 of
 tape
@@ -8695,7 +8682,7 @@ phone
 controls
 or
 your
-ps4
+ps0
 controller
 without
 the
@@ -8766,7 +8753,7 @@ it
 holds
 my
 lg
-v40
+v0
 in
 it's
 otterbox
@@ -8805,7 +8792,7 @@ of
 the
 otg
 the
-ds4
+ds0
 will
 connect
 via
@@ -8959,7 +8946,7 @@ im
 not
 taking
 my
-ps4
+ps0
 controller
 out
 of

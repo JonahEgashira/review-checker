@@ -762,7 +762,7 @@ canceling
 updateas
 of
 january
-15th,
+0th,
 the
 left
 earbud
@@ -844,7 +844,6 @@ on
 the
 motorola
 verve
-300
 and
 knew
 that
@@ -857,7 +856,6 @@ give
 them
 shot,
 for
-5000
 it
 was
 worth
@@ -1037,7 +1035,6 @@ cost
 no
 more
 than
-15
 dollars
 at
 most
@@ -1087,11 +1084,11 @@ return
 them
 really
 unhappy
-pros:1
+pros:0
 clean
 and
 professional
-look2
+look0
 long
 battery
 life
@@ -1101,7 +1098,7 @@ size
 surpass
 my
 reasonable
-expectations3
+expectations0
 they
 work
 individually,
@@ -1120,20 +1117,20 @@ if
 were
 to
 loose
-one4
+one0
 range,
-20+
+0+
 with
 line
 of
-sight5
+sight0
 easy
 to
 set
 up,
 atleast
 for
-me6
+me0
 low
 price,
 if
@@ -1151,7 +1148,7 @@ replace
 atleast,
 compare
 to
-otherscons:1
+otherscons:0
 ruber
 piece
 that
@@ -1172,7 +1169,7 @@ but
 almost
 everytime
 clean
-it2
+it0
 if
 you're
 into
@@ -1191,7 +1188,7 @@ and
 for
 listening
 to
-podcasts3
+podcasts0
 phone
 calls
 suck
@@ -1201,7 +1198,7 @@ not
 outside
 for
 mefor
-$45
+$0
 definitely
 recommend
 love
@@ -1235,7 +1232,6 @@ personal
 opinion
 based
 on
-48
 hours
 of
 heavy
@@ -1537,7 +1533,7 @@ earbuds
 in
 the
 last
-21⁄2
+0⁄0
 months
 the
 first
@@ -1553,7 +1549,7 @@ big
 deal
 well
 the
-2nd
+0nd
 pair
 both
 charged
@@ -1678,7 +1674,7 @@ outlast
 my
 cell
 phone
-lgv40
+lgv0
 work
 in
 hospital
@@ -1798,8 +1794,7 @@ but
 bluetooth
 connectiom
 reaches
-30
-40ft
+0ft
 if
 there
 is
@@ -1821,13 +1816,12 @@ during
 calls
 ordered
 june
-10th,
+0th,
 not
 working
 as
 of
 september
-11
 left
 one
 stopped
@@ -1868,7 +1862,7 @@ worthless
 not
 worth
 the
-$48
+$0
 wasted
 la
 batería
@@ -1885,7 +1879,7 @@ are
 sticking
 me
 with
-$433
+$0
 restocking
 feeit
 wasn't
@@ -1983,13 +1977,13 @@ nice
 earbuds,
 except
 this
-8a
+0a
 my
 second
 pair
 and
 the
-r9ght
+r0ght
 headphone
 doesnt
 even
@@ -2155,7 +2149,7 @@ ear
 good
 have
 moto
-g7
+g0
 and
 they
 work
@@ -2168,7 +2162,6 @@ great
 earbuds
 last
 about
-10
 hrs
 of
 play

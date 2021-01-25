@@ -27,12 +27,12 @@
 作り
 長持ち
 そう
-一年
+0年
 もつ
 くれる
 嬉しい
 まだ
-2日目
+0日目
 稼働時
 音
 すこし
@@ -266,7 +266,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 did
 lot
@@ -409,7 +409,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 my
 dog
@@ -505,7 +505,6 @@ down
 each
 side
 that's
-20
 sides
 it
 even
@@ -516,7 +515,6 @@ my
 entire
 first
 floor
-900
 square
 feet
 before
@@ -583,12 +581,10 @@ very
 thin
 at
 around
-28
 inches
 compared
 to
 the
-35
 inches
 for
 comparable
@@ -658,7 +654,6 @@ shows
 an
 input
 of
-100240
 which
 could
 be
@@ -668,7 +663,6 @@ some
 peoplei
 get
 around
-90100
 mins
 of
 battery
@@ -732,7 +726,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 love
 that
@@ -902,7 +896,6 @@ up
 fast,
 within
 about
-30
 seconds
 the
 bottom
@@ -1089,7 +1082,7 @@ after
 receive
 the
 new
-robotupdate:7/26/2020
+robotupdate:0/0/0
 received
 the
 new
@@ -1101,11 +1094,11 @@ run
 every
 day
 at
-9:00am
+0:0am
 it
 ran
 at
-1:00am
+0:0am
 the
 company
 reached
@@ -1269,8 +1262,7 @@ it
 is
 now
 jan
-10,
-2021
+0,
 the
 robot
 is
@@ -1303,7 +1295,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 robot
@@ -1466,7 +1458,7 @@ steamer
 for
 an
 about
-40s,
+0s,
 the
 steamer
 is
@@ -1615,7 +1607,6 @@ waste
 of
 time
 i'm
-70
 year
 old
 guy
@@ -1638,7 +1629,7 @@ research
 and
 ordered
 the
-bg600it
+bg0it
 came
 yesterday
 and
@@ -1734,7 +1725,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 robotic
 vacuum
@@ -2058,7 +2049,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 amazed
 at
@@ -2338,11 +2329,10 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 is
-45
 star
 reviewfirst
 of
@@ -2454,7 +2444,6 @@ why
 this
 review
 is
-45
 instead
 star
 review
@@ -2509,7 +2498,7 @@ to
 pm
 instead
 of
-12am
+0am
 when
 everyone
 is
@@ -2621,7 +2610,7 @@ rumbaesque
 vaccum
 have
 about
-850sq
+0sq
 ft
 apt,
 and
@@ -2702,7 +2691,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 is
@@ -2850,7 +2839,7 @@ bought
 this
 product
 at
-~40%
+~0%
 off
 to
 use
@@ -2911,7 +2900,7 @@ to
 others
 even
 at
-40%
+0%
 off,
 this
 product
@@ -3839,7 +3828,6 @@ to
 set
 up
 my
-10
 year
 old
 granddaughter
@@ -3855,7 +3843,7 @@ to
 start
 everyday
 at
-2:00
+0:0
 ,pm
 it
 covers
@@ -4119,7 +4107,7 @@ excellentoverall,
 just
 about
 perfect
-11/14/20:
+0/0/0:
 really
 want
 this
@@ -4197,7 +4185,7 @@ that
 works
 so
 sadupdate
-11/16/20:
+0/0/0:
 my
 husband
 fixed
@@ -4213,15 +4201,15 @@ bringing
 the
 rating
 from
-1star
+0star
 to
-3star
+0star
 your
 browser
 does
 not
 support
-html5
+html0
 video
 you
 can't
@@ -4732,7 +4720,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 everytime
 when
@@ -4829,7 +4817,6 @@ it
 will
 last
 about
-90
 minutes
 ,also
 it
@@ -4877,7 +4864,6 @@ excellent
 battery
 life
 about
-100
 min
 it
 identifies
@@ -4961,7 +4947,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 got
 this
@@ -5069,7 +5055,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 bought
 the
@@ -5189,7 +5175,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 have
 been
@@ -5278,7 +5264,6 @@ it
 is
 less
 than
-300
 dollar,
 am
 happy
@@ -5881,7 +5866,7 @@ two
 weeks
 about
 spending
-$200
+$0
 for
 someone
 to
@@ -5999,7 +5984,7 @@ problems
 with
 this
 iron
-#1the
+#0the
 iron
 is
 advertised
@@ -6019,7 +6004,7 @@ to
 accomplish
 this
 selfcleaning
-#2
+#0
 shortly
 after
 receiving
@@ -6071,7 +6056,7 @@ for
 hours
 at
 time
-#3
+#0
 today
 discovered
 that
@@ -6219,7 +6204,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 sent
 this
@@ -6247,7 +6232,7 @@ she
 had
 received
 her
-9month
+0month
 old
 baby
 starts
@@ -6307,7 +6292,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 vacuum
@@ -6382,7 +6367,7 @@ use
 it
 after
 just
-4days
+0days
 :
 never
 thought
@@ -6435,7 +6420,6 @@ to
 clean
 up
 for
-10
 yrs,
 is
 gone
@@ -6574,7 +6558,6 @@ easy
 life
 for
 that
-15
 months,
 mostly
 cruising
@@ -6847,7 +6830,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 item
@@ -7068,7 +7051,7 @@ shell
 out
 more
 than
-$200
+$0
 for
 fancy
 name
@@ -7322,7 +7305,6 @@ this
 iron
 in
 may,
-2020
 because
 of
 the
@@ -8042,7 +8024,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 used
 this
@@ -8236,11 +8218,9 @@ can
 iron
 for
 almost
-20
 min
 and
 only
-13
 with
 some
 other
@@ -8389,7 +8369,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 the
 floor
@@ -8470,7 +8450,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 is
@@ -8574,7 +8554,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 have
 never
@@ -8679,7 +8659,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 was
@@ -8761,7 +8741,6 @@ have
 had
 this
 about
-15
 weeks
 it
 appears
@@ -8876,7 +8855,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 bought
 this
@@ -8912,7 +8891,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 bought
 this
@@ -9017,7 +8996,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 really
 want
@@ -9134,7 +9113,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 my
 old
@@ -9902,7 +9881,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 very
 like
@@ -10038,7 +10017,7 @@ amazing
 we
 did
 have
-$300
+$0
 shark,
 which
 is
@@ -10131,7 +10110,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 am
 thrilled
@@ -10223,7 +10202,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 it
 very
@@ -10371,7 +10350,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 works
 like
@@ -10528,7 +10507,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 vacuum
@@ -10808,7 +10787,6 @@ up
 fast,
 within
 about
-30
 seconds
 can
 set
@@ -11009,7 +10987,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 it's
 really
@@ -11122,7 +11100,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 had
 been
@@ -11250,7 +11228,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 vacuum
@@ -11294,7 +11272,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 robot
@@ -11479,7 +11457,7 @@ súper
 bueno
 bagotte
 max
-e600
+e0
 is
 very
 quiet
@@ -11743,7 +11721,7 @@ vacuumed
 in
 whileworth
 the
-$150
+$0
 so
 far
 like
@@ -11910,12 +11888,10 @@ bit
 larger
 thought
 ordered
-1500
 watt
 iron,
 arrived
 as
-1200
 watt
 looked
 like
@@ -11984,7 +11960,6 @@ week,
 battery
 dies
 in
-15
 minutes
 after
 start
@@ -12039,7 +12014,6 @@ only
 used
 it
 about
-34
 times
 and
 it
@@ -12197,7 +12171,7 @@ easy
 to
 use
 added
-100ml
+0ml
 of
 water
 did
@@ -12438,7 +12412,6 @@ battery
 dead
 quickly
 like
-30
 mins
 after
 full
@@ -12466,7 +12439,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 it
 works
@@ -12489,11 +12462,9 @@ bought
 this
 in
 january
-2020
 and
 by
 july
-2020
 it
 does
 not
@@ -12545,7 +12516,7 @@ disappointed
 this
 is
 my
-1st
+0st
 experience
 with
 robot
@@ -12560,7 +12531,6 @@ too
 high
 have
 around
-1000
 square
 foot
 main
@@ -12910,7 +12880,7 @@ frequency
 of
 manual
 vacuumingupdate:
-12/30/20
+0/0/0
 gave
 up
 on
@@ -12930,7 +12900,7 @@ it
 got
 stuck
 around
-2/3
+0/0
 of
 the
 time
@@ -12986,12 +12956,12 @@ it
 with
 the
 roomba
-i6+
+i0+
 the
 navigation
 on
 the
-i6
+i0
 is
 far
 superior
@@ -13003,7 +12973,7 @@ stuck
 in
 months
 of
-2x
+0x
 per
 week
 usage
@@ -13012,7 +12982,7 @@ the
 other
 hand,
 the
-i6
+i0
 doesn't
 clean
 quite
@@ -13023,7 +12993,7 @@ and
 being
 bigger
 the
-i6
+i0
 doesn't
 squeeze
 get
@@ -13057,7 +13027,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 we,
 like
@@ -13135,7 +13105,6 @@ condo
 that
 is
 approximately
-1800
 sq
 ft
 the
@@ -13164,7 +13133,7 @@ or
 for
 multilevel
 dwellingsthe
-good:1
+good:0
 this
 vacuum
 is
@@ -13194,7 +13163,7 @@ other
 things
 in
 the
-house2
+house0
 this
 vacuum
 is
@@ -13234,7 +13203,7 @@ and
 in
 passive
 manner,
-too3
+too0
 two
 brushes
 rotate
@@ -13255,7 +13224,7 @@ they
 snap
 on/off
 without
-problem4
+problem0
 this
 bagotte
 vacuum
@@ -13294,7 +13263,7 @@ from
 mat
 with
 no
-problem5
+problem0
 suction
 is
 greatboth
@@ -13336,7 +13305,7 @@ this
 is
 problem
 no
-more6
+more0
 remote
 is
 included
@@ -13355,7 +13324,7 @@ the
 programming
 meets
 our
-needs7
+needs0
 the
 battery
 seems
@@ -13375,7 +13344,7 @@ return
 to
 its
 charging
-station8
+station0
 we
 live
 on
@@ -13599,7 +13568,7 @@ the
 sole
 plate
 strike
-3so
+0so
 bought
 this
 iron
@@ -13610,7 +13579,7 @@ didn't
 want
 to
 spend
-$80+
+$0+
 for
 rowenta
 that
@@ -13625,7 +13594,7 @@ having
 already
 spent
 about
-$40
+$0
 on
 pursteam
 that
@@ -14269,7 +14238,7 @@ service
 had
 little
 incident
-100%
+0%
 my
 fault
 that
@@ -14339,7 +14308,6 @@ started
 remotely,
 low
 profile
-27
 so
 it
 was
@@ -14388,7 +14356,6 @@ able
 to
 tackle
 the
-1700
 sq
 ft
 of
@@ -14462,7 +14429,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 the
 vacuum
@@ -14589,7 +14556,6 @@ day
 last
 month
 oct
-2020
 and
 it
 does
@@ -14663,7 +14629,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 is
@@ -14720,10 +14686,10 @@ wood
 floor
 area
 around
-2000sqf,
+0sqf,
 uauslly
 took
-30mins,
+0mins,
 but
 we
 let
@@ -14819,7 +14785,7 @@ your
 money
 am
 out
-$190we
+$0we
 recently
 got
 an
@@ -15052,7 +15018,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 have
 all
@@ -15120,7 +15086,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 been
 wanting
@@ -15214,7 +15180,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 really
 want
@@ -15343,7 +15309,7 @@ every
 day
 the
 dcenta
-1500watts
+0watts
 high
 power
 steam
@@ -15411,7 +15377,7 @@ around
 every
 day
 at
-3pm
+0pm
 and
 always
 shocked
@@ -15561,7 +15527,6 @@ el
 mío
 en
 julio
-14
 hace
 como
 semana
@@ -15573,7 +15538,7 @@ devolví
 se
 quedaron
 con
-$26
+$0
 dólares
 porque
 dicen
@@ -15708,7 +15673,6 @@ even
 on
 dont
 spend
-500
 bucks
 for
 the
@@ -15750,7 +15714,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 great
 vacuum
@@ -15765,7 +15729,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 love
 it
@@ -15804,7 +15768,6 @@ worked
 fine
 the
 first
-10
 times
 used
 now
@@ -15823,7 +15786,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 we
 have

@@ -27,8 +27,8 @@
 思う
 気
 なる
-星5
-数年前
+星0
+0年前
 イヤホン/ヘッドホン
 数種類使用
 もっと
@@ -45,7 +45,7 @@
 思う
 今回
 もう
-5本
+0本
 イヤホン
 利用
 てる
@@ -237,7 +237,7 @@ bose
 くれる
 ランニング
 使用
-一回
+0回
 外れる
 こと
 ある
@@ -427,7 +427,7 @@ penny
 this
 is
 my
-3rd
+0rd
 pair
 of
 headphones
@@ -854,7 +854,7 @@ no
 better
 than
 standard
-$30
+$0
 earbuds
 in
 fact,
@@ -899,7 +899,7 @@ on
 songs
 this
 my
-2nd
+0nd
 pair
 of
 these
@@ -964,7 +964,6 @@ ear
 headphones
 only
 lasted
-20
 months
 bob
 bon

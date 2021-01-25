@@ -30,14 +30,14 @@
 装着
 状態
 技
-50回転
+0回転
 グリグリ
 取り敢えず
 壊れる
 にくい
 そう
 付け外
-10回
+0回
 繰り返す
 脆い
 感じ
@@ -162,7 +162,6 @@ fpsフリーク
 値段
 高い
 リング
-130
 思う
 量販店
 売る
@@ -205,7 +204,7 @@ rスティック
 する
 問題
 使える
-4個入り
+0個入り
 しばらく
 使える
 思う
@@ -236,7 +235,7 @@ rスティック
 抵抗
 大きい
 すぎる
-リング一個
+リング0個
 半分
 カッター
 スライス
@@ -374,7 +373,7 @@ pathetic
 from
 the
 remaining
-2,
+0,
 only
 one
 survived
@@ -1196,7 +1195,6 @@ you
 put
 at
 least
-1020
 hours
 into
 playing
@@ -1515,19 +1513,19 @@ gone
 from
 only
 wiping
-3man
+0man
 squad
 once
 ever
 in
 apex
 legends
-ps4,
+ps0,
 to
 now
 wiping
 few
-3man
+0man
 squads
 day
 if
@@ -1572,7 +1570,7 @@ regardlessthe
 product
 is
 only
-$12
+$0
 at
 the
 time
@@ -1695,7 +1693,7 @@ only
 custom
 order
 on
-$200$400
+$0$0
 controller
 have
 no
@@ -1784,7 +1782,7 @@ onto
 your
 target
 whereas
-$200+
+$0+
 custom
 controllers
 only
@@ -1818,7 +1816,7 @@ that
 see
 for
 this
-$12
+$0
 product
 over
 an
@@ -2013,7 +2011,7 @@ quita
 el
 más
 del
-70%
+0%
 de
 la
 movilidad
@@ -2058,7 +2056,7 @@ lo
 pones
 pierdes
 el
-90%
+0%
 de
 movilidad,
 ni
@@ -2075,7 +2073,6 @@ jugar
 decentemente
 el
 precio
-300
 mxn
 es
 ridículo,
@@ -2268,7 +2265,7 @@ the
 over
 correcting
 in
-3rd
+0rd
 person
 shooters
 games
@@ -2420,7 +2417,7 @@ usaba
 mi
 sensibilidad
 al
-10,
+0,
 al
 ponerle
 los
@@ -2441,7 +2438,6 @@ mi
 sensibilidad
 al
 maximo
-20
 asi
 adaptarme
 la
@@ -2627,11 +2623,11 @@ en
 una
 sensibilidad
 de
-8,
+0,
 ahorita
 estoy
 jugando
-18,
+0,
 mi
 precision
 al
@@ -2809,7 +2805,7 @@ la
 pressione
 del
 tasto
-l3
+l0
 non
 è
 compromessa,
@@ -3151,7 +3147,6 @@ wear
 them
 in
 terrible,
-10
 euros
 tirados
 la
@@ -3410,7 +3405,7 @@ bien
 mi
 producto,
 recomendable
-200%
+0%
 bien
 very
 stiff
@@ -3469,7 +3464,7 @@ where
 need
 it
 since
-ds4
+ds0
 controller
 sensitivity
 isn't
@@ -3664,10 +3659,10 @@ of
 the
 sticks
 from
-100%
+0%
 to
 about
-30%
+0%
 was
 wanting
 something
@@ -3691,7 +3686,7 @@ movement
 used
 them
 on
-ps4
+ps0
 and
 took
 them
@@ -3711,7 +3706,7 @@ mostly
 shooter
 games
 on
-ps4
+ps0
 and
 i've
 always
@@ -3831,7 +3826,7 @@ initially
 bumped
 sensitivity
 up
-3,
+0,
 but
 moved
 it
@@ -3911,7 +3906,7 @@ price
 i'd
 say
 about
-$5
+$0
 would
 be
 more
@@ -4070,7 +4065,7 @@ the
 reason
 gave
 these
-3,
+0,
 is
 that
 all
@@ -4206,7 +4201,7 @@ on
 games
 like
 pubg,
-r6
+r0
 siege,
 etc
 ok,
@@ -4344,7 +4339,7 @@ the
 stuff
 you
 sell
-$12
+$0
 for
 tiny
 foam
@@ -4396,7 +4391,7 @@ don't
 easily
 spam
 melee
-r3
+r0
 as
 often
 as
@@ -4651,7 +4646,7 @@ bumped
 my
 kd
 up
-25%
+0%
 pretty
 much
 immediately
@@ -4726,8 +4721,8 @@ and
 have
 been
 running
-5+,
-10+
+0+,
+0+
 kill
 games
 at
@@ -5021,7 +5016,7 @@ all,
 its
 good
 product
-10/10
+0/0
 would
 recommend
 lol
@@ -5065,7 +5060,7 @@ to
 use
 on
 my
-ps4
+ps0
 for
 first
 person
@@ -5290,7 +5285,7 @@ with
 the
 xbox
 elite
-v2
+v0
 controller
 if
 you
@@ -5377,9 +5372,8 @@ with
 game
 like
 mlb
-2020
 or
-2k2020
+0k0
 this
 will
 come
@@ -5395,7 +5389,7 @@ recommend
 to
 anyone
 with
-ps4
+ps0
 that
 has
 issues
@@ -5411,7 +5405,7 @@ much
 pressure
 on
 it
-10/10
+0/0
 pretty
 simple,
 pretty
@@ -5519,7 +5513,7 @@ these
 help
 lot,
 play
-ps4
+ps0
 call
 duty
 modern
@@ -5543,9 +5537,7 @@ raise
 my
 sensitivity
 from
-66
 to
-1615
 big
 difference
 able
@@ -5716,7 +5708,6 @@ bought
 them
 man
 for
-12
 bucks
 these
 are
@@ -5927,7 +5918,7 @@ too
 thick
 for
 the
-ps4
+ps0
 controller
 it
 restricts
@@ -5942,7 +5933,7 @@ they
 need
 to
 be
-1/2
+0/0
 the
 thickness,
 maybe
@@ -6044,7 +6035,6 @@ control
 levels
 settings
 at
-20
 insane
 played
 until
@@ -6322,7 +6312,6 @@ place
 my
 sensitivity
 at
-20
 for
 cod
 to
@@ -6358,7 +6347,6 @@ attachments
 just
 got
 then
-12320
 mainly
 to
 play
@@ -6386,10 +6374,10 @@ another
 leveli
 went
 from
-17/19
+0/0
 kills
 to
-32played
+0played
 with
 them
 on
@@ -6478,7 +6466,7 @@ with
 these
 on
 my
-xb1
+xb0
 so
 far
 they
@@ -6515,10 +6503,8 @@ said
 he
 went
 from
-14
 "kills"
 to
-31
 after
 installing
 that
@@ -6904,7 +6890,7 @@ control
 right
 side
 for
-ps4
+ps0
 left
 side
 for
@@ -7022,7 +7008,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 received
 rip
@@ -7429,7 +7415,7 @@ they
 work
 great
 on
-ps3
+ps0
 controllers
 because
 the
@@ -7444,7 +7430,7 @@ sure
 to
 stuff
 on
-ps4
+ps0
 won
 even
 let
@@ -7647,7 +7633,7 @@ if
 they
 were
 like
-1/3
+0/0
 as
 thick
 they
@@ -7671,11 +7657,10 @@ husband
 uses
 these
 for
-ps4
+ps0
 just
 not
 worth
-12
 usd
 usd
 would
@@ -7976,7 +7961,7 @@ install
 it
 on
 my
-ps4
+ps0
 controller
 and
 play
@@ -8012,7 +7997,6 @@ rings
 its
 waste
 of
-30
 dollars
 problably
 cost
@@ -8445,7 +8429,6 @@ just
 foam
 circles
 for
-12
 dollars
 great
 product
@@ -8453,7 +8436,7 @@ they
 are
 the
 worst
-$12
+$0
 ve
 ever
 spent

@@ -47,8 +47,8 @@ def analyze(review_type, does_get_review=False, does_separate=False, does_count=
 
 
     if does_count:
-        files = glob.glob(f'./review_{review_type}_separated/*')
-        #files = glob.glob(f'./review_{review_type}/*')
+        #files = glob.glob(f'./review_{review_type}_separated/*')
+        files = glob.glob(f'./review_{review_type}/*')
 
         pct_list = []
         count_list = []
@@ -58,9 +58,9 @@ def analyze(review_type, does_get_review=False, does_separate=False, does_count=
                 continue
 
             #単語単位
-            counts = count_words(file)
+            #counts = count_words(file)
             #一語
-            #counts = count_chars(file)
+            counts = count_chars(file)
             data, pct, total = count_first_digits(counts)
             pct_list.append(pct)
             count_list.append(data)
@@ -73,6 +73,6 @@ def analyze(review_type, does_get_review=False, does_separate=False, does_count=
 
 
 if __name__ == "__main__":
-    #analyze("bad", False, True, True)
-    analyze("good", False, True, True)
+    #analyze("bad", False, False, True)
+    analyze("good", False, False, True)
     

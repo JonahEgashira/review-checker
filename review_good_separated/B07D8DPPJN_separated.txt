@@ -34,7 +34,7 @@ cod
 好き
 購入
 主
-r6s
+r0s
 cod
 フォートナイト
 プレイ
@@ -57,7 +57,7 @@ gks
 見違える
 overpowered
 なる
-r6s
+r0s
 右スティック
 使用
 良い
@@ -84,7 +84,7 @@ r6s
 点
 包装
 少し
-雑一度
+雑0度
 開ける
 形跡
 ある
@@ -199,7 +199,7 @@ fps
 games
 and
 also
-3rd
+0rd
 person
 games
 like
@@ -212,7 +212,6 @@ plastic
 and
 rubber
 for
-24
 they
 also
 sit
@@ -472,13 +471,13 @@ al
 mando
 de
 la
-ps4
+ps0
 es
 inmejorableen
 definitiva,
 producto
 recomendable
-100%
+0%
 ofrecen
 mayor
 precisión
@@ -541,7 +540,7 @@ natürlich
 für
 das
 game
-bo4
+bo0
 wo
 mein
 aim
@@ -628,7 +627,6 @@ will
 take
 around
 to
-12
 matches
 to
 get
@@ -731,13 +729,13 @@ put
 on
 works
 on
-ps5
+ps0
 controller
 just
 perfect
 utilizzato
 su
-ps4
+ps0
 con
 controller
 nacon
@@ -838,9 +836,7 @@ miseri
 tappini
 di
 gomma
-20
 euro
-40000
 lire
 ma
 ci
@@ -1057,7 +1053,7 @@ me
 another
 set
 of
-bo4
+bo0
 grips
 totally
 different
@@ -1129,7 +1125,7 @@ them
 versatili
 utilissimi
 ma
-16,99€
+0,0€
 per
 due
 pezzettini
@@ -1167,7 +1163,7 @@ they
 don
 fit
 original
-ps4
+ps0
 controllers
 the
 only
@@ -1428,7 +1424,7 @@ dont
 realy
 like
 the
-ps4
+ps0
 controller
 and
 these
@@ -1678,7 +1674,7 @@ not
 using
 them
 playing
-bo4
+bo0
 blackouti
 noticed
 my
@@ -1790,14 +1786,12 @@ them
 went
 from
 getting
-45
 kills
 game
 in
 warzone
 to
 getting
-811
 only
 use
 one
@@ -1830,7 +1824,7 @@ the
 kontrol
 freek
 or
-ps4
+ps0
 controller
 fault
 though
@@ -1917,7 +1911,7 @@ black
 ops
 on
 his
-ps4
+ps0
 and
 it
 says
@@ -1999,7 +1993,7 @@ the
 right
 stick
 on
-ps4
+ps0
 controllers
 for
 shooters
@@ -2035,7 +2029,7 @@ only
 issue
 is
 use
-ps4
+ps0
 scuf
 and
 you
@@ -2248,7 +2242,7 @@ more
 competitive
 during
 the
-bo4
+bo0
 games
 it
 comes
@@ -2405,7 +2399,7 @@ earlier
 than
 anticipated
 overall
-10/10
+0/0
 great
 for
 fps
@@ -2901,7 +2895,7 @@ help
 him
 play
 his
-ps4
+ps0
 great
 it
 honestly
@@ -2992,7 +2986,7 @@ works
 well
 on
 my
-ps4
+ps0
 controllers
 they
 are
@@ -3003,7 +2997,7 @@ concave
 design
 alot
 and
-bo4
+bo0
 thanks
 keep
 pushing
@@ -3110,9 +3104,9 @@ a+
 perfect
 height
 for
-1st
+0st
 and
-3rd
+0rd
 person
 shooters
 works

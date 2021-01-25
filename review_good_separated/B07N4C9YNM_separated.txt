@@ -4,7 +4,7 @@ cqc
 signature
 edge
 vortex
-bo4
+bo0
 使用
 これ
 最も
@@ -30,7 +30,7 @@ ghタイプ
 こと
 ほぼ
 ある
-3カ月
+0カ月
 使用
 ます
 加水分解
@@ -56,10 +56,10 @@ fps
 満足
 pc
 フォートナイト
-ps4
+ps0
 コントローラー
 使用
-純正ps4コントローラー
+純正ps0コントローラー
 使用
 cod
 使用中
@@ -88,8 +88,8 @@ cod
 固い
 ゴツゴツ
 おる
-l3
-r3
+l0
+r0
 使う
 方
 指
@@ -294,7 +294,7 @@ them,i've
 never
 played
 on
-ps4
+ps0
 but
 apparently
 makes
@@ -383,7 +383,7 @@ accuracy
 have
 one
 on
-r3
+r0
 and
 the
 other
@@ -397,7 +397,7 @@ me
 to
 have
 on
-l3
+l0
 as
 well
 never
@@ -476,7 +476,7 @@ adattare
 gli
 analogici
 originali
-ps3
+ps0
 sul
 controller
 della
@@ -521,7 +521,6 @@ mio
 giardino
 come
 richiesto
-10
 stelle
 al
 ragazzo
@@ -660,7 +659,7 @@ bought
 these
 for
 his
-ps4
+ps0
 controller
 and
 says
@@ -865,10 +864,10 @@ el
 control
 tanto
 de
-ps4
+ps0
 como
 de
-ps5
+ps0
 permite
 tener
 un
@@ -894,7 +893,7 @@ of
 duty
 van
 perfectos
-100%
+0%
 recomendados
 gives
 you
@@ -922,7 +921,7 @@ as
 play
 on
 the
-ps4
+ps0
 controller
 which
 is
@@ -945,7 +944,7 @@ purchase
 these
 for
 your
-ps4
+ps0
 das
 aim
 verbessert
@@ -1185,7 +1184,7 @@ use
 my
 scuff
 with
-ps5
+ps0
 fit
 perfectly
 and
@@ -1234,9 +1233,9 @@ bien
 works
 well
 on
-ps4
+ps0
 and
-5,
+0,
 not
 sure
 if
@@ -1248,7 +1247,7 @@ the
 addons
 but
 my
-r3
+r0
 is
 super
 sensitive
@@ -1358,7 +1357,7 @@ fits
 the
 control
 for
-ps4
+ps0
 unless
 it
 still
@@ -1492,7 +1491,7 @@ of
 the
 concave
 options
-100%
+0%
 recomendables,
 buen
 material
@@ -2155,7 +2154,7 @@ small
 to
 fit
 the
-ps4
+ps0
 controller
 you
 can
@@ -2255,7 +2254,7 @@ fit
 on
 the
 astro
-c40
+c0
 the
 stick
 extension
@@ -2446,7 +2445,7 @@ these
 don't
 fit
 the
-ps5
+ps0
 thumb
 sticks
 very
@@ -2475,7 +2474,7 @@ looking
 for
 extensions
 for
-ps5,
+ps0,
 these
 might
 not
@@ -2535,7 +2534,7 @@ cool
 works
 well
 with
-ps5
+ps0
 controllers
 recommended
 with
@@ -2663,7 +2662,7 @@ ones
 used
 for
 my
-ps4
+ps0
 it's
 the
 only
@@ -2671,7 +2670,7 @@ brand
 trust
 for
 the
-ps5
+ps0
 they
 have
 good
@@ -2690,7 +2689,7 @@ pop
 off
 from
 my
-ps5
+ps0
 controller
 when
 playing

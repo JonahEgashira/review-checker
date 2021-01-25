@@ -85,9 +85,10 @@ def bar_chart_err(data_pct, err_pct):
     fig.canvas.set_window_title('Percentage First Digits')
     #ax.set_title('Data vs. Benford Values', fontsize = 15)
     ax.set_ylabel('Frequency(%)', fontsize = 16)
+    ax.set_xlabel('First Digit', fontsize = 16)
     ax.set_xticks(index)
     ax.set_xticklabels(index, fontsize=14)
-    ax.set_ylim([0, 70])
+    ax.set_ylim([0, 80])
 
     rects = ax.bar(index, data_pct, width = 0.95, color='black', label='Data')
 
@@ -96,7 +97,9 @@ def bar_chart_err(data_pct, err_pct):
         ax.text(rect.get_x() + rect.get_width()/2, height,
                 '{:0.1f}'.format(height), ha = 'center', va = 'bottom')
 
-    #ax.scatter(index, BENFORD, s = 150, c = 'red', zorder=2, label = 'Benford')
+    BENFORD = [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
+    
+    ax.scatter(index, BENFORD, s = 150, c = 'red', zorder=2, label = 'Benford')
 
     ax.spines['right'].set_visible(False)
     ax.spines['top'].set_visible(False)

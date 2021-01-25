@@ -1,8 +1,8 @@
-使用1ヶ月
+使用0ヶ月
 フル充電
 できる
 なる
-ps4
+ps0
 コントローラー
 バッテリー容量
 [
@@ -11,7 +11,7 @@ ps4
 使用
 いる
 すぐ
-1目盛り
+0目盛り
 なる
 使用
 できる
@@ -54,7 +54,7 @@ usb充電ケーブル
 充電
 訳
 分かる
-2台
+0台
 同時に
 充電
 する
@@ -117,14 +117,14 @@ led
 満足
 充電用
 端子
-2個
+0個
 使える
 入る
 良品
 半分
 キツすぎ
 今回
-コントローラー2台
+コントローラー0台
 よい
 very
 nice
@@ -214,7 +214,7 @@ still
 the
 old
 intec
-ps3
+ps0
 wireless
 charge
 pad
@@ -333,7 +333,7 @@ charging
 port
 on
 the
-ds4
+ds0
 scratched
 like
 someone
@@ -510,7 +510,7 @@ easier
 to
 charge
 the
-ps4
+ps0
 controllers
 rather
 than
@@ -697,7 +697,7 @@ the
 preservation
 of
 the
-ps4
+ps0
 mannete
 charge
 port
@@ -771,7 +771,6 @@ they
 last
 for
 about
-10
 minutes
 thought
 would

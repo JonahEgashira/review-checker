@@ -1,14 +1,13 @@
 use
 bose
-qc25
+qc0
 anc
 so
 comparing
-rs15000
+rs0
 product
 to
 rs
-5000
 product
 active
 noise
@@ -39,7 +38,6 @@ etc
 found
 taotronic
 does
-80
 %
 of
 anc
@@ -47,7 +45,7 @@ in
 comparision
 to
 bose
-qc25,
+qc0,
 its
 simply
 mind
@@ -97,7 +95,7 @@ in
 comparision
 to
 bose
-qc25
+qc0
 sound
 stage
 is
@@ -176,7 +174,7 @@ are
 not
 original
 taotronic
-ep002kudos
+ep0kudos
 to
 amazon
 india
@@ -340,7 +338,7 @@ tried
 the
 bose
 qc
-20i
+0i
 at
 reliance
 digital
@@ -1038,7 +1036,7 @@ on
 moderate
 usage
 definite
-10/10
+0/0
 for
 me
 first
@@ -1054,11 +1052,11 @@ compare
 anything
 with
 bosefor
-4300i
+0i
 got
 it
 for
-3900these
+0these
 are
 best
 in
@@ -1069,7 +1067,7 @@ nothing
 in
 this
 price
-range010k
+range0k
 to
 beat
 itif
@@ -1127,7 +1125,7 @@ noise
 to
 minimum
 of
-25db,
+0db,
 don't
 expect
 total
@@ -1156,7 +1154,6 @@ it,was
 using
 senheiser
 cx
-180
 before,it
 had
 set
@@ -1180,7 +1177,7 @@ collection
 of
 earphones
 above
-1k,they
+0k,they
 had
 only
 earphonesbut
@@ -1204,7 +1201,7 @@ leave
 surprisedvalue
 for
 money:
-5/5
+0/0
 the
 build
 quality
@@ -1219,7 +1216,7 @@ sound
 and
 superb
 noise
-cancellationcons:1clip
+cancellationcons:0clip
 should
 have
 been
@@ -1238,7 +1235,7 @@ wire
 tanglesbut
 don't
 mind
-that3
+that0
 nothing
 elsebuy
 it,
@@ -1560,7 +1557,7 @@ cancelling
 albeit
 bit
 mildupdate
-3:
+0:
 this
 has
 really
@@ -1573,7 +1570,7 @@ the
 noise
 cancellation
 featureupdate
-2:
+0:
 much
 better
 after
@@ -1600,7 +1597,7 @@ offset
 the
 battery
 weightupdate
-1:
+0:
 after
 days
 of
@@ -1626,7 +1623,6 @@ them
 for
 more
 than
-30
 minutes
 i'm
 not
@@ -1665,7 +1661,7 @@ it
 reduces
 more
 than
-90%
+0%
 of
 the
 noise
@@ -1848,7 +1844,6 @@ it
 and
 loss
 of
-5000
 rs
 when
 called
@@ -1910,7 +1905,7 @@ sold
 by
 the
 seller
-gadgefreakz75
+gadgefreakz0
 rather
 than
 sunvalley
@@ -1952,7 +1947,7 @@ cover:•
 products
 purchased
 as
-2nd
+0nd
 hand
 or
 used•
@@ -1988,7 +1983,7 @@ damage
 caused
 to
 any
-3rd
+0rd
 party
 /
 person
@@ -2048,7 +2043,7 @@ highs
 goes
 up
 till
-16khz
+0khz
 midrange
 is
 also
@@ -2267,7 +2262,7 @@ keep
 the
 volume
 above
-90%
+0%
 during
 my
 travel
@@ -2282,7 +2277,7 @@ keep
 it
 to
 around
-50%
+0%
 or
 below
 the
@@ -2460,8 +2455,7 @@ clearanc
 is
 only
 isolating
-20
-30%
+0%
 of
 noiseit
 only
@@ -2595,15 +2589,13 @@ cancelling
 earphones
 on
 amazon
-1/5th
+0/0th
 the
 price
 of
 bose
 qc
-20
 and
-8085
 percent
 of
 the
@@ -2611,7 +2603,7 @@ noise
 cancelling
 ability
 of
-qc20
+qc0
 best
 earphones
 excellent
@@ -2647,7 +2639,7 @@ league
 ,
 but
 for
-1/4th
+0/0th
 the
 price
 these
@@ -3027,7 +3019,6 @@ with
 my
 honor
 view
-10
 audio
 supported
 phone,
@@ -3052,7 +3043,6 @@ provides
 anc
 for
 atleast
-10
 hours
 for
 one
@@ -3117,7 +3107,6 @@ for
 at
 least
 the
-15
 hours
 they
 claim
@@ -3286,7 +3275,7 @@ international
 flights
 that
 are
-10+
+0+
 hours,
 can't
 possibly
@@ -3564,7 +3553,6 @@ bud
 became
 detached
 after
-10
 months
 of
 use,
@@ -3582,7 +3570,6 @@ was
 covered
 under
 the
-12
 month
 warranty
 the
@@ -3969,7 +3956,6 @@ it
 took
 me
 about
-15
 seconds
 to
 get
@@ -4119,7 +4105,6 @@ use
 it
 on
 my
-11
 flight
 garbage
 don
@@ -4148,7 +4133,6 @@ didn't
 want
 to
 spend
-10000
 +
 to
 drown

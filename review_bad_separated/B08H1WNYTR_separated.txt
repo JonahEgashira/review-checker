@@ -1,10 +1,10 @@
-ワイヤレスイヤホンbluetooth50
+ワイヤレスイヤホンbluetooth0
 対応
 いる
 すごい
 電池持ち
 良い
-何個
+0個
 ワイヤレスイヤホン
 試す
 イヤホン
@@ -36,7 +36,7 @@
 必要
 ない
 便利
-3回
+0回
 押す
 スマホ
 音声アシスタント
@@ -122,7 +122,7 @@ r,l
 失敗
 がち
 ペアリング
-一発
+0発
 耐久性
 これから
 現時点
@@ -322,13 +322,13 @@ airpods
 値段:
 安い
 すぎる
-1万円以上
+00円以上
 言う
 疑う
 音質
 桁違い
 総合
-評価:☆5是非
+評価:☆0是非
 皆さん
 音質
 良い
@@ -413,7 +413,7 @@ long
 all
 in
 all
-10/10
+0/0
 i've
 only
 had
@@ -557,7 +557,6 @@ level
 of
 the
 case
-0100
 which
 is
 great
@@ -1169,7 +1168,7 @@ quickly
 started
 with
 plantronics
-m50
+m0
 many
 years
 ago,
@@ -1530,7 +1529,7 @@ came
 with
 my
 galaxy
-s10
+s0
 pairing
 is
 easy
@@ -1653,7 +1652,7 @@ day
 and
 was
 at
-68%
+0%
 at
 the
 end
@@ -1772,7 +1771,6 @@ they
 would
 die
 after
-45
 minutes
 these
 worked
@@ -1808,7 +1806,7 @@ everything
 about
 occiam
 bluetooth
-headphone1
+headphone0
 the
 bluetooth
 fits
@@ -1818,7 +1816,7 @@ ears
 with
 its
 strong
-hanger2
+hanger0
 the
 sound
 quality
@@ -1826,8 +1824,8 @@ of
 the
 bluetooth
 is
-100%
-satisfactory3
+0%
+satisfactory0
 the
 noise
 cancellation
@@ -1835,8 +1833,8 @@ of
 the
 bluetooth
 is
-100%
-satisfactory4
+0%
+satisfactory0
 the
 battery
 life
@@ -1844,8 +1842,8 @@ of
 the
 bluetooth
 is
-100%
-satisfactory5
+0%
+satisfactory0
 the
 charger
 case
@@ -1857,7 +1855,7 @@ or
 bulky
 to
 carry
-around6
+around0
 the
 charger
 case
@@ -2218,7 +2216,7 @@ in
 the
 rain
 for
-4+
+0+
 hours,
 and
 ran
@@ -2353,7 +2351,7 @@ headphones
 and
 case
 at
-85%
+0%
 only
 to
 wake
@@ -2540,7 +2538,7 @@ fall
 out
 that
 cost
-$80some
+$0some
 people
 talk
 about
@@ -2881,7 +2879,7 @@ didn't
 want
 to
 spend
-$65
+$0
 on
 an
 item
@@ -2920,10 +2918,8 @@ pretty
 awesome
 sometimes
 work
-10
 hour
 or
-12
 hour
 shift
 and
@@ -3172,7 +3168,7 @@ sound
 like
 thatfourth,
 cost
-$40
+$0
 was
 about
 my
@@ -3636,7 +3632,7 @@ my
 ear
 for
 the
-30th
+0th
 or
 so
 time
@@ -3662,7 +3658,7 @@ brand
 because
 knew
 the
-2nd
+0nd
 pair
 would
 soon
@@ -3994,7 +3990,7 @@ and
 dryeri
 love
 theseedit
-1/10/21:
+0/0/0:
 did
 notice
 that
@@ -4027,7 +4023,6 @@ charge
 up
 to
 about
-12
 days
 before
 hitting
@@ -4128,7 +4123,7 @@ seated
 correctly
 while
 run
-68miles,
+0miles,
 the
 battery
 is
@@ -4585,7 +4580,7 @@ from
 the
 case
 update
-11/21/2020since
+0/0/0since
 my
 last
 post
@@ -4684,7 +4679,7 @@ give
 them
 more
 update
-11/20/2020what
+0/0/0what
 said
 below
 is
@@ -5103,7 +5098,7 @@ earbud
 style
 headphones
 including
-$200
+$0
 bose
 that
 are
@@ -5184,7 +5179,7 @@ these
 for
 work
 daily
-10+
+0+
 calls
 per
 day
@@ -5532,7 +5527,7 @@ comfortable
 only
 down
 to
-85%
+0%
 on
 the
 batteries
@@ -5569,7 +5564,6 @@ hurt
 my
 ears
 after
-30
 minutes
 can
 truly
@@ -5811,7 +5805,6 @@ the
 distance
 is
 about
-185
 feet
 from
 the
@@ -6240,7 +6233,7 @@ out
 hiking
 for
 maybe
-1/2
+0/0
 hours
 they
 always
@@ -6581,7 +6574,7 @@ could
 be
 heard
 at
-40hz
+0hz
 at
 median
 level
@@ -6591,7 +6584,7 @@ is
 heard
 up
 to
-about15k
+about0k
 hz,
 stopped
 suddenly
@@ -6607,7 +6600,7 @@ sudden
 sound
 dieoff
 above
-15k
+0k
 hz
 perhaps
 my
@@ -6620,7 +6613,7 @@ balanced
 well
 listened
 few
-8d
+0d
 music,
 very
 locational
@@ -6742,7 +6735,7 @@ the
 case
 has
 held
-90%+
+0%+
 charge
 over
 the
@@ -7159,7 +7152,7 @@ but
 they
 keep
 saying
-78%
+0%
 charged
 even
 though
@@ -7185,7 +7178,7 @@ connected
 easy
 to
 portable
-mp3
+mp0
 player
 and
 sounds
@@ -7214,7 +7207,7 @@ overnight
 and
 only
 said
-68%
+0%
 they
 are
 comfortable
@@ -7340,7 +7333,6 @@ battery
 life
 is
 between
-810
 hours
 people
 can
@@ -7768,7 +7760,6 @@ and
 out
 of
 vehicle
-75
 +
 times
 day
@@ -7953,13 +7944,13 @@ piece
 up
 to
 about
-70%
+0%
 and
 the
 other
 to
 about
-48%
+0%
 this
 occiam
 is
@@ -8010,7 +8001,6 @@ for
 my
 short
 use
-15
 weeks
 this
 brand
@@ -8254,7 +8244,6 @@ one
 for
 my
 husband
-30
 days
 ago
 they
@@ -8273,7 +8262,7 @@ and
 could
 hear
 clearly
-35+
+0+
 feet
 away
 from
@@ -8430,7 +8419,6 @@ and
 clearbattery:
 days
 of
-15
 to
 hours
 listening
@@ -8441,7 +8429,7 @@ the
 battery
 is
 at
-40%
+0%
 remaining
 much
 better
@@ -8544,7 +8532,6 @@ had
 problem
 and
 over
-24
 hours
 would
 discharge
@@ -8577,7 +8564,7 @@ and
 my
 phone
 showed
-80%
+0%
 charge
 started
 listening
@@ -8630,9 +8617,9 @@ as
 they
 went
 from
-100%
+0%
 to
-10%
+0%
 within
 the
 span
@@ -9477,7 +9464,7 @@ been
 charging
 these
 are
-10/10
+0/0
 earbuds
 and
 recommend
@@ -9619,7 +9606,6 @@ but
 they
 last
 him
-48
 hrs
 then
 he
@@ -9686,7 +9672,7 @@ an
 ask
 to
 leave
-5star
+0star
 review
 with
 that
@@ -9985,7 +9971,7 @@ in
 use
 or
 not
-~8
+~0
 hrscase:
 pocketsafe,
 but
@@ -10043,7 +10029,7 @@ bluetooth
 headphonestrue
 wireless
 earbuds
-48hrs
+0hrs
 playtime
 earphones
 so
@@ -10161,7 +10147,6 @@ got
 these
 for
 my
-14
 year
 old
 daughter
@@ -10379,7 +10364,6 @@ them
 when
 already
 at
-100
 percent
 the
 case
@@ -10459,7 +10443,6 @@ pay
 for
 using
 them
-68
 times
 before
 needing
@@ -10539,7 +10522,6 @@ finebattery:i
 consistently
 get
 perhaps
-35
 charges
 from
 the
@@ -10547,7 +10529,6 @@ charger,
 for
 total
 of
-2428
 hours
 of
 use
@@ -10574,13 +10555,12 @@ and
 they
 worked
 perhaps
-56
 hoursoverall:for
 the
 price
 less
 than
-$25,
+$0,
 found
 these
 earbuds
@@ -10795,7 +10775,7 @@ stay
 in
 my
 ear
-100%
+0%
 of
 the
 time
@@ -11911,7 +11891,6 @@ for
 running
 long
 distances
-10
 miles
 think
 i've
@@ -12085,7 +12064,7 @@ days,
 it
 only
 at
-75%
+0%
 usage
 now
 which
@@ -12201,7 +12180,6 @@ have
 tried
 more
 than
-10
 of
 them
 the
@@ -12715,7 +12693,7 @@ some
 kind
 of
 food
-70%
+0%
 of
 the
 time
@@ -13520,7 +13498,7 @@ about
 to
 spend
 over
-$200
+$0
 for
 earbuds
 so
@@ -13828,7 +13806,6 @@ only
 work
 for
 about
-15
 minutes
 before
 start
@@ -14019,7 +13996,7 @@ ve
 had
 them
 few
-days,1
+days,0
 the
 most
 comfortable
@@ -14032,11 +14009,11 @@ ear
 wrap
 is
 very
-comfortable2
+comfortable0
 battery
 life
 is
-excellent3
+excellent0
 sleek
 design
 i'm
@@ -14243,8 +14220,8 @@ excellent
 quality
 product,
 last
-7h
-42min
+0h
+0min
 using
 it
 for
@@ -14569,7 +14546,7 @@ brand
 that
 lasted
 only
-1/2
+0/0
 months
 i've
 had
@@ -16317,7 +16294,7 @@ them
 better
 than
 the
-beats3
+beats0
 returned
 yesterday
 the
@@ -16742,7 +16719,7 @@ right
 one
 only
 lasts
-7hrs
+0hrs
 have
 charged
 and
@@ -16811,7 +16788,7 @@ they
 have,
 at
 least,
-90%
+0%
 charge,
 otherwise
 they
@@ -17191,7 +17168,7 @@ well
 with
 the
 samsung
-9plus
+0plus
 phone,
 all
 do
@@ -17667,13 +17644,12 @@ the
 earbuds
 and
 after
-48
 hours
 they
 are
 now
 at
-92%
+0%
 based
 on
 the
@@ -17686,7 +17662,7 @@ case
 so
 they
 lost
-8%
+0%
 of
 the
 charge
@@ -18151,7 +18127,6 @@ feels
 cheap,
 and
 within
-30
 minutes
 of
 getting
@@ -18683,7 +18658,6 @@ in
 days
 it's
 been
-11
 days
 and
 i've
@@ -18980,7 +18954,6 @@ talking
 to
 me
 from
-10
 feet
 away
 and
@@ -19493,7 +19466,7 @@ goes
 to
 the
 gym
-5x/week
+0x/week
 and
 has
 used
@@ -19558,7 +19531,7 @@ he
 did
 give
 it
-4star
+0star
 he
 said
 you
@@ -19737,7 +19710,7 @@ to
 get
 an
 additional
-20%
+0%
 off
 from
 amazon
@@ -19858,7 +19831,6 @@ but
 if
 you're
 within
-2030
 feet
 direct
 line
@@ -19884,11 +19856,11 @@ for
 the
 price
 point
-1st
+0st
 star
 its
 comfortable
-2nd
+0nd
 star
 and
 the
@@ -19909,7 +19881,7 @@ gym
 or
 bike
 riding
-3rd
+0rd
 star
 also
 love
@@ -19933,13 +19905,13 @@ out
 of
 the
 house
-4th
+0th
 star
 where
 it
 loses
 its
-5th
+0th
 star
 is
 the
@@ -19958,7 +19930,7 @@ feet
 away
 from
 the
-t17's
+t0's
 and
 will
 lose
@@ -19972,7 +19944,6 @@ pieces
 for
 longer
 than
-1520
 seconds
 this
 happens
@@ -20105,7 +20076,7 @@ charger
 as
 my
 samsung
-s8
+s0
 edge
 so
 can
@@ -20579,7 +20550,6 @@ back
 on
 in
 about
-30
 seconds
 they
 also
@@ -20962,7 +20932,7 @@ stay
 put
 even
 at
-65mph
+0mph
 on
 motorcycle
 they
@@ -20975,7 +20945,7 @@ sound
 charged
 them
 to
-100%
+0%
 and
 listened
 to
@@ -20988,7 +20958,7 @@ battery
 was
 still
 at
-80%
+0%
 would
 easily
 recommend
@@ -21072,7 +21042,7 @@ to
 pair
 with
 my
-motog7
+motog0
 phone
 so
 will
@@ -21207,10 +21177,10 @@ life
 was
 still
 at
-50%
+0%
 after
 an
-8hr
+0hr
 shift
 wonderful
 fit,
@@ -21350,7 +21320,7 @@ charge
 it
 arrived
 at
-70%
+0%
 charged
 it
 for
@@ -21359,7 +21329,7 @@ and
 now
 it's
 at
-44%
+0%
 needed
 to
 make
@@ -21383,7 +21353,7 @@ the
 mood
 to
 drop
-$75+
+$0+
 on
 it
 and
@@ -21691,7 +21661,7 @@ far
 so
 good
 for
-$30
+$0
 pair
 of
 earbuds,
@@ -21771,7 +21741,6 @@ these
 occiam
 earbuds
 about
-10
 days
 ago
 they
@@ -21867,7 +21836,7 @@ them
 was
 waiting
 for
-$35
+$0
 set
 of
 earbuds,
@@ -22324,7 +22293,7 @@ average
 however
 for
 under
-$30
+$0
 its
 to
 be
@@ -22572,7 +22541,7 @@ earbuds
 which
 got
 for
-$200
+$0
 isnt
 even
 as
@@ -22598,7 +22567,7 @@ out
 with
 it
 for
-2hrs
+0hrs
 day
 for
 the
@@ -22610,7 +22579,7 @@ battery
 is
 still
 at
-100%
+0%
 because
 the
 case
@@ -22700,7 +22669,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 love
 these
@@ -23061,7 +23030,7 @@ but
 in
 the
 under
-$50,
+$0,
 you're
 unlikely
 to
@@ -23195,7 +23164,6 @@ all
 over
 the
 house
-2800
 sq
 ftwithout
 losing
@@ -23573,7 +23541,7 @@ headphones
 lasted
 through
 my
-2hour
+0hour
 work
 out
 sessions
@@ -23730,7 +23698,7 @@ and
 my
 samsung
 galaxy
-s9
+s0
 great
 little
 product
@@ -24189,7 +24157,7 @@ not
 lose
 this
 is
-3rd
+0rd
 pair
 have
 bought
@@ -24501,7 +24469,7 @@ every
 penny
 wow,
 for
-$40,
+$0,
 these
 earbuds
 are
@@ -24661,7 +24629,7 @@ remaining;
 storage
 casecon:
 not
-100%
+0%
 noise
 cancelling
 these
@@ -25205,7 +25173,6 @@ usbc
 chargers
 tested
 around
-46
 around
 the
 house
@@ -25226,7 +25193,7 @@ asking
 price
 of
 about
-35$
+0$
 so
 the
 only
@@ -25310,7 +25277,7 @@ hours
 and
 still
 have
-98%
+0%
 these
 are
 easy
@@ -25329,7 +25296,6 @@ is
 little
 short
 have
-625
 square
 foot
 apartment
@@ -25795,7 +25761,7 @@ they
 just
 don't
 compare
-3rd
+0rd
 times
 charm
 in
@@ -26019,7 +25985,7 @@ while
 playing
 music
 at
-1/4
+0/0
 volume,
 great
 while
@@ -26067,7 +26033,6 @@ days
 are
 average
 at
-1416
 hours
 over
 all
@@ -26472,7 +26437,7 @@ have
 had
 pair
 bought
-1st
+0st
 pair
 the
 right
@@ -26629,7 +26594,7 @@ charge
 i've
 used
 these
-t17
+t0
 for
 over
 hours
@@ -26954,7 +26919,6 @@ had
 range
 longer
 than
-33
 ft,
 incoming
 phone
@@ -27537,7 +27501,7 @@ around
 the
 house
 not
-100%
+0%
 of
 the
 time
@@ -27557,7 +27521,7 @@ for
 the
 price
 overall
-10/10
+0/0
 would
 recommend
 for
@@ -27684,7 +27648,7 @@ lifethe
 battery
 life
 is
-~5
+~0
 hrs
 which
 is
@@ -27716,7 +27680,7 @@ headphones
 and
 can
 get
-~4
+~0
 charges
 before
 needing
@@ -28118,7 +28082,7 @@ price
 it
 is
 definitely
-5star
+0star
 buy
 got
 these
@@ -28524,7 +28488,7 @@ canceling
 feature
 get
 about
-20ft
+0ft
 distance
 from
 my
@@ -29223,7 +29187,7 @@ headphones,
 usually
 buy
 the
-$7
+$0
 ones
 but
 keep
@@ -29296,7 +29260,6 @@ not
 beats
 but
 its
-30
 dollars
 what
 can
@@ -31471,7 +31434,6 @@ it
 lasts
 me
 several
-46
 hours
 days
 of
@@ -31503,7 +31465,7 @@ want
 something
 quick
 after
-1/2
+0/0
 months
 the
 left
@@ -31599,7 +31561,6 @@ device
 for
 while
 maybe
-45
 years
 so
 like
@@ -31643,7 +31604,6 @@ works
 great
 on
 windows
-10
 am
 loving
 these
@@ -32041,7 +32001,7 @@ my
 previous
 set
 of
-$150
+$0
 earbuds
 were
 constantly
@@ -32942,7 +32902,6 @@ use
 them
 daily
 after
-30
 minute
 ride,
 music
@@ -33105,7 +33064,6 @@ can't
 compared
 these
 to
-200
 headphones
 but
 they
@@ -33242,13 +33200,11 @@ battery
 life
 last
 about
-78
 hours,
 and
 case
 life
 about
-45
 days
 depends
 on
@@ -33727,7 +33683,7 @@ and
 i'm
 still
 above
-70%
+0%
 but
 maybe
 dont
@@ -34359,7 +34315,7 @@ amazing,
 not
 even
 below
-75%
+0%
 after
 an
 hour
@@ -34387,7 +34343,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 great
 for
@@ -35205,14 +35161,13 @@ but
 these
 are
 my
-2nd
+0nd
 pair
 of
 earbuds
 in
 the
 last
-60
 days
 and
 just
@@ -35750,7 +35705,7 @@ charge
 later
 these
 were
-95%
+0%
 charged
 when
 received
@@ -35785,7 +35740,6 @@ and
 if
 individually,
 it's
-18
 hrs
 total
 these
@@ -36441,10 +36395,10 @@ these
 like
 these
 headphones
-for1comfortable
+for0comfortable
 ear
 ear
-hook2it
+hook0it
 uses
 usbc
 charging
@@ -36453,7 +36407,7 @@ same
 cord
 as
 my
-phone3you
+phone0you
 can
 use
 one
@@ -36565,7 +36519,7 @@ them
 these
 are
 amazing
-$25
+$0
 head
 phones
 wouldn't
@@ -36931,7 +36885,6 @@ an
 awesome
 buy
 for
-2021
 just
 purchased
 these
@@ -37301,7 +37254,7 @@ cancellation
 though
 definitely
 not
-100%
+0%
 and
 beautiful
 audio
@@ -37897,7 +37850,7 @@ other
 word
 or
 every
-5th
+0th
 word
 switched
 to
@@ -38181,7 +38134,7 @@ with
 my
 galaxy
 note
-10+
+0+
 as
 well
 as
@@ -38189,7 +38142,6 @@ my
 wife's
 apple
 iphone
-10
 easy
 to
 follow
@@ -39611,7 +39563,7 @@ and
 the
 case
 was
-75%
+0%
 easy
 peasy
 to
@@ -41060,7 +41012,6 @@ them
 for
 at
 least
-12
 hours
 and
 they
@@ -41237,7 +41188,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 by
 far
@@ -41659,7 +41610,7 @@ my
 old
 mpow
 flame
-2's,
+0's,
 which
 was
 my
@@ -41913,13 +41864,12 @@ earbuds
 for
 just
 day
-10
 plus
 hrs
 so
 far
 i'm
-100%
+0%
 satisfied
 the
 earbuds
@@ -41977,7 +41927,7 @@ they
 hoocustomer
 review
 amazon
-customer30
+customer0
 out
 of
 stars
@@ -41993,8 +41943,8 @@ united
 states
 on
 january
-20,
-2021color:
+0,
+0color:
 blackverified
 purchasethey
 hook
@@ -42202,7 +42152,6 @@ looking
 forward
 to
 the
-30
 hours
 of
 play
@@ -42221,7 +42170,7 @@ with
 great
 battery
 life
-1/3
+0/0
 of
 the
 price
@@ -42955,9 +42904,7 @@ easy
 to
 use
 features
-10
 for
-10
 would
 order
 again
@@ -43842,7 +43789,6 @@ on
 the
 distance
 being
-33
 ft,
 have
 not
@@ -43861,7 +43807,6 @@ talk
 time
 is
 about
-56
 hours
 instead
 of
@@ -44111,7 +44056,7 @@ good
 for
 the
 price
-$35
+$0
 i've
 been
 using
@@ -44690,7 +44635,6 @@ black
 friday
 back
 in
-2018
 packaging
 was
 excellent,
@@ -44839,9 +44783,7 @@ quality
 but
 was
 paying
-20
 to
-30
 bucks
 so
 that
@@ -45289,7 +45231,7 @@ wireless,
 unlike
 my
 older
-powerbeats3
+powerbeats0
 responsive
 customer
 service
@@ -45847,11 +45789,11 @@ is
 good
 get
 about
-6hrs
+0hrs
 of
 use
 at
-80%
+0%
 volume
 no
 complaints
@@ -46126,7 +46068,6 @@ one
 only
 lasts
 about
-40
 while
 the
 left
@@ -46372,7 +46313,7 @@ sound
 great
 and
 won
-1st
+0st
 prize
 on
 the
@@ -46926,7 +46867,7 @@ price
 and
 these
 are
-10x
+0x
 better
 ve
 used
@@ -47274,7 +47215,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 everything
 is
@@ -47909,7 +47850,6 @@ workouts
 already
 and
 still
-95
 percent
 charge
 on
@@ -48031,7 +47971,7 @@ like
 these
 headphone
 few
-highlights1
+highlights0
 they
 fit
 perfectly
@@ -48049,7 +47989,7 @@ the
 headphones
 will
 fall
-off2
+off0
 the
 music
 quality
@@ -48057,7 +47997,7 @@ and
 bass
 is
 really
-awesome3
+awesome0
 digitally
 it
 shows
@@ -48204,7 +48144,7 @@ for
 great
 price
 have
-note10+
+note0+
 and
 they
 pair
@@ -48366,7 +48306,7 @@ wireless
 earbuds
 were
 great,
-5/5,
+0/0,
 until
 the
 right
@@ -48649,7 +48589,7 @@ paired
 to
 my
 galaxy
-s10
+s0
 right
 away
 sound
@@ -48675,7 +48615,7 @@ with
 the
 earpiece
 update
-142021:
+0:
 solid
 buds
 until
@@ -49353,7 +49293,7 @@ the
 past
 they
 came
-81%
+0%
 charged
 excited
 to
@@ -49604,7 +49544,7 @@ to
 my
 phone
 pixel
-3axl
+0axl
 charge
 fairly
 quickly
@@ -49749,7 +49689,7 @@ both
 ears
 charged
 at
-100%
+0%
 but
 when
 follow
@@ -49791,7 +49731,7 @@ opening
 the
 box,
 won
-1st
+0st
 place
 free
 second
@@ -50307,7 +50247,6 @@ other,
 which
 was
 over
-100
 feet
 so
 far
@@ -50410,7 +50349,7 @@ that
 came
 with
 my
-s20
+s0
 like
 them
 so
@@ -50489,7 +50428,7 @@ bluetooth
 headphones,
 give
 occiam
-t17
+t0
 tryi
 appreciate
 the
@@ -50582,7 +50521,6 @@ around
 the
 ear
 fits
-13
 yr
 old
 daughter,
@@ -50813,7 +50751,7 @@ with
 earbuds
 that
 cost
-4x
+0x
 as
 much,
 and
@@ -50935,7 +50873,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 this
 is
@@ -51457,7 +51395,7 @@ had
 the
 really
 expensive
-$200
+$0
 price
 earbuds
 and
@@ -51660,7 +51598,7 @@ so
 far
 came
 with
-90%
+0%
 charge
 easily
 paired
@@ -51737,7 +51675,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 the
 sound
@@ -52051,7 +51989,7 @@ was
 looking
 for
 really
-loudgr8
+loudgr0
 bass
 soundso
 light
@@ -52399,7 +52337,7 @@ they
 were
 charged
 at
-85%,
+0%,
 very
 crisp,
 sleek
@@ -52423,7 +52361,7 @@ move
 from
 normal
 head
-movements5
+movements0
 ⭐⭐⭐⭐⭐
 recommendation
 great
@@ -52598,7 +52536,7 @@ and
 it
 still
 has
-60%
+0%
 charge
 left
 the
@@ -52821,7 +52759,7 @@ as
 advertised
 this
 occiam
-t17
+t0
 tws
 is
 perfect
@@ -53300,7 +53238,7 @@ other
 users
 told
 me
-:3
+:0
 have
 no
 complaints
@@ -54188,7 +54126,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 my
 wife
@@ -54507,7 +54445,7 @@ to
 charge
 again
 recommend
-100%
+0%
 work
 great
 and
@@ -54686,7 +54624,6 @@ of
 the
 sound
 the
-100
 plus
 hours
 you
@@ -54760,7 +54697,7 @@ battery
 power
 is
 still
-59%
+0%
 after
 days
 of
@@ -55066,7 +55003,7 @@ battery
 will
 drain
 from
-100%
+0%
 to
 0%
 in
@@ -55327,7 +55264,6 @@ canceling
 bluetooth
 has
 about
-100
 ft
 range
 battery
@@ -55896,13 +55832,13 @@ tried
 contacting
 seller
 on
-11/18/20
+0/0/0
 still
 no
 answer
 as
 of
-12/7/20
+0/0/0
 ear
 pods
 weregreat
@@ -56144,7 +56080,6 @@ each
 ear
 bud
 every
-1030
 seconds,
 very
 annoying
@@ -56345,7 +56280,7 @@ little
 early
 to
 say
-100%
+0%
 these
 earbuds
 were
@@ -56360,7 +56295,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 great
 value
@@ -57718,7 +57653,7 @@ with
 my
 phone
 or
-mp3
+mp0
 devices,
 they're
 also
@@ -58062,7 +57997,7 @@ wireless
 earbuds
 and
 im
-100%
+0%
 satisfied
 with
 them
@@ -58086,7 +58021,6 @@ at
 time
 and
 in
-16
 hr
 work
 shift
@@ -58843,7 +58777,7 @@ just
 go
 it
 today
-1/20/21
+0/0/0
 they
 sound
 is
@@ -59058,7 +58992,7 @@ set
 my
 son
 occiam
-t17
+t0
 over
 the
 ear
@@ -59752,7 +59686,7 @@ button,
 and
 pair
 to
-t17,
+t0,
 the
 sound
 quality
@@ -59811,9 +59745,7 @@ long
 time
 at
 least
-12
 to
-15
 hours
 and
 they
@@ -60153,7 +60085,6 @@ night
 the
 case
 shows
-100
 and
 in
 the
@@ -60162,7 +60093,6 @@ day
 goes
 down
 to
-69
 without
 even
 being
@@ -60855,7 +60785,6 @@ and
 they
 only
 last
-25
 hours,
 the
 advertising
@@ -61777,7 +61706,6 @@ taking
 around
 with
 the
-48
 hour
 case
 charge
@@ -61795,7 +61723,7 @@ is
 very
 nice
 work
-1012hr
+0hr
 shifts
 and
 it
@@ -61893,7 +61821,7 @@ but
 then
 they
 aren't
-$200
+$0
 earbuds
 so
 for
@@ -62359,7 +62287,6 @@ is
 good
 walked
 about
-2530
 feet
 away
 from
@@ -63123,7 +63050,6 @@ with
 my
 samsung
 note
-10
 haven't
 had
 any
@@ -63208,7 +63134,7 @@ and
 nice
 case
 came
-50%
+0%
 charged
 they
 were
@@ -63226,7 +63152,7 @@ battery
 life
 was
 at
-80%
+0%
 and
 continuously
 cut
@@ -63310,7 +63236,6 @@ then
 airpods
 eill
 give
-45
 stars
 reason
 have
@@ -63361,9 +63286,9 @@ in
 my
 ear
 from
-6am
+0am
 to
-4pm
+0pm
 and
 it
 still
@@ -64522,7 +64447,6 @@ the
 listening
 time
 to
-96
 hours
 between
 case
@@ -64591,12 +64515,12 @@ wireless
 cant
 run
 for
-9+
+0+
 hours
 on
 single
 charge
-5/5
+0/0
 pretty
 ho
 so
@@ -64922,14 +64846,14 @@ bought
 this
 item
 for
-$38
+$0
 but
 now
 the
 price
 drop
 to
-$19
+$0
 don't
 recommend
 buying
@@ -65526,7 +65450,6 @@ off
 and
 on
 probably
-1015
 times
 in
 about
@@ -66234,7 +66157,6 @@ good
 earbuds
 for
 my
-11
 year
 old
 long
@@ -66717,7 +66639,7 @@ mine
 do
 not
 last
-48hrs
+0hrs
 wish
 they
 were
@@ -66863,7 +66785,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 super
 comfortable,
@@ -66951,7 +66873,7 @@ cancelation
 and
 battery
 life
-100%
+0%
 recommended
 like
 headphones
@@ -68414,7 +68336,7 @@ am
 looking
 for
 after
-5hrs
+0hrs
 feel
 little
 pain
@@ -68434,7 +68356,7 @@ so
 far,
 like
 it
-389/5
+0/0
 good
 sound
 quality
@@ -69595,7 +69517,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 love
 them
@@ -69784,7 +69706,7 @@ headphones
 user
 friendly
 for
-65+
+0+
 years
 old
 got
@@ -70123,7 +70045,7 @@ then
 most
 of
 the
-$70
+$0
 headphones
 i've
 had
@@ -70496,7 +70418,7 @@ say
 they
 have
 about
-4hr
+0hr
 runtime
 amazing
 bass
@@ -70512,7 +70434,7 @@ sound,
 stays
 connected
 at
-30ft
+0ft
 range
 excellent
 product,
@@ -71313,7 +71235,7 @@ works
 nicely
 with
 oneplus
-8t
+0t
 great
 sound
 and
@@ -72212,7 +72134,7 @@ noise
 for
 something
 under
-$50
+$0
 works
 great
 for
@@ -72296,7 +72218,7 @@ working
 out
 recommend
 them
-10/10
+0/0
 not
 had
 them
@@ -73012,7 +72934,7 @@ is
 pretty
 good
 for
-$30
+$0
 headphones
 sound
 quality
@@ -73533,7 +73455,7 @@ for
 better
 quality
 than
-$20
+$0
 earbuds
 with
 poor
@@ -73571,7 +73493,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 good
 sound
@@ -73746,7 +73668,7 @@ in
 good
 condition
 with
-85%
+0%
 charge
 was
 able
@@ -74593,7 +74515,7 @@ great
 and
 are
 durable
-10/10
+0/0
 love
 my
 new
@@ -75133,7 +75055,7 @@ earbud
 won
 get
 above
-50%
+0%
 charge
 and
 won
@@ -75591,7 +75513,6 @@ battery
 lasts
 less
 then
-48
 hours
 it
 maybe
@@ -75839,7 +75760,7 @@ super
 comfy
 they
 came
-87%
+0%
 charged
 great
 quality
@@ -76257,7 +76178,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 very
 nice
@@ -76270,7 +76191,6 @@ they
 are
 worth
 the
-35
 so
 far
 only
@@ -77691,7 +77611,7 @@ instead
 of
 buying
 the
-$100
+$0
 ones
 no
 complaints
@@ -78084,7 +78004,7 @@ and
 the
 customer
 service
-10/10
+0/0
 like
 that
 they
@@ -78366,7 +78286,7 @@ ears
 the
 sound
 is
-a1
+a0
 like
 the
 product
@@ -78510,7 +78430,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 great
 sound,
@@ -78777,7 +78697,7 @@ service
 and
 awesome
 bass
-100%
+0%
 recommend
 headphones
 are
@@ -78968,7 +78888,7 @@ last
 me
 all
 day
-10/10
+0/0
 would
 buy
 again
@@ -78997,7 +78917,7 @@ and
 they
 last
 an
-8hr
+0hr
 shift
 exactly
 what
@@ -79052,7 +78972,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 thumbs
 up
@@ -79178,7 +79098,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 comfortable,
 good
@@ -79225,7 +79145,6 @@ to
 pair
 with
 iphone
-12
 easy
 to
 use,
@@ -79291,7 +79210,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 awesome
 product
@@ -79347,7 +79266,6 @@ to
 my
 phone
 note
-10
 very
 comfortable
 to
@@ -81413,7 +81331,7 @@ they
 work
 super
 well
-100%
+0%
 recommend
 great
 customer
@@ -82620,7 +82538,6 @@ these
 earbuds
 would
 give
-10
 stars
 if
 that
@@ -82888,7 +82805,7 @@ came
 neatly
 packaged
 with
-75%charge
+0%charge
 for
 immediate
 use
@@ -84722,7 +84639,6 @@ setup
 in
 less
 than
-60
 sec
 excellent
 wireless
@@ -84776,7 +84692,6 @@ since
 received
 it
 for
-25
 days
 working
 fine
@@ -85759,7 +85674,7 @@ very
 comfortable
 forget
 paying
-$200
+$0
 for
 air
 pods
@@ -86889,7 +86804,6 @@ daywhen
 got
 home,
 about
-10
 hours
 later,
 went
@@ -86922,7 +86836,7 @@ the
 case
 only
 had
-38%
+0%
 charge
 left
 this
@@ -87186,7 +87100,7 @@ up
 replaced
 my
 lost
-200$
+0$
 earphones
 with
 these
@@ -87324,7 +87238,6 @@ working
 out
 after
 about
-10
 minutes
 one
 or
@@ -87439,7 +87352,7 @@ when
 it
 gets
 to
-100%
+0%
 do
 the
 headphones
@@ -87458,7 +87371,7 @@ the
 case
 drops
 to
-99%
+0%
 from
 the
 headphones
@@ -87521,7 +87434,6 @@ is
 horrible
 got
 maybe
-10
 feet
 away
 and
@@ -87745,7 +87657,7 @@ the
 earphones
 are
 at
-100%
+0%
 the
 case
 will
@@ -87783,7 +87695,7 @@ case,
 both
 were
 at
-100%
+0%
 came
 back
 the
@@ -87794,7 +87706,6 @@ the
 case
 was
 at
-02
 randomly
 the
 case
@@ -87924,10 +87835,10 @@ just
 bought
 these
 headphones
-10/29/2020
+0/0/0
 and
 my
-$11
+$0
 earbuds
 are
 better
@@ -87979,13 +87890,13 @@ exactly
 hours
 started
 at
-8:30
+0:0
 this
 morning
 halloween
 they
 died
-11:29
+0:0
 am
 i'm
 so
@@ -88008,7 +87919,7 @@ make
 headphones,
 but
 charge
-$30
+$0
 gar
 bage
 do
@@ -88093,7 +88004,6 @@ will
 deplete
 itself
 in
-24
 hours
 so,
 you
@@ -88313,7 +88223,7 @@ full
 battery
 down
 to
-60%
+0%
 within
 hours,
 even
@@ -88329,7 +88239,7 @@ drops
 at
 most
 to
-90%
+0%
 with
 constant
 music
@@ -88536,7 +88446,7 @@ are
 some
 downsides
 to
-these1
+these0
 sometimes
 the
 sound
@@ -88552,7 +88462,7 @@ have
 to
 impair/turn
 of
-earpiece2
+earpiece0
 when
 placing
 in
@@ -88604,7 +88514,7 @@ just
 be
 my
 pairedit
-2:seems
+0:seems
 the
 issue
 has
@@ -89351,7 +89261,7 @@ only
 talking
 for
 few
-hourslastly5
+hourslastly0
 star
 review
 required
@@ -89492,7 +89402,7 @@ people
 headphones
 for
 good
-5star
+0star
 review
 and
 these
@@ -89691,7 +89601,6 @@ short
 can
 get
 about
-35
 to
 hours
 out
@@ -89709,9 +89618,9 @@ take
 away
 somewhere
 around
-18%
+0%
 to
-22%
+0%
 of
 the
 big
@@ -90247,7 +90156,7 @@ and
 sometimes
 up
 to
-10,
+0,
 and
 even
 stayed
@@ -90501,7 +90410,7 @@ ear
 buds
 from
 my
-apekxbe1028w
+apekxbe0w
 that
 highly
 recommend
@@ -90548,7 +90457,7 @@ buds
 were
 charged
 to
-56%
+0%
 kinda
 strange
 and
@@ -90570,7 +90479,7 @@ box
 wouldn't
 charge
 past
-38%
+0%
 again,
 strange
 and
@@ -90584,14 +90493,12 @@ charger
 for
 more
 than
-24
 hours
 some
 reviews
 said
 they
 took
-48
 hours
 to
 charge,
@@ -90601,7 +90508,7 @@ charge
 never
 went
 past
-38%
+0%
 sent
 an
 email
@@ -90627,7 +90534,7 @@ and
 am
 leaving
 this
-1star
+0star
 review
 so
 that
@@ -90682,14 +90589,14 @@ both
 buds
 are
 at
-100%
+0%
 but
 the
 left
 doesn't
 function
 edit:
-90%
+0%
 of
 the
 time
@@ -90721,7 +90628,6 @@ or
 hours
 not
 ever
-48
 hours
 total
 waste
@@ -90851,7 +90757,7 @@ battery
 when
 it
 reached
-100%
+0%
 would
 drain
 down
@@ -90859,7 +90765,6 @@ to
 0%
 in
 about
-24
 hours
 after
 being
@@ -90888,7 +90793,7 @@ and
 they
 sent
 me
-2nd
+0nd
 set
 purchased
 this
@@ -90902,7 +90807,7 @@ playback
 time
 received
 my
-1st
+0st
 one
 and
 charged
@@ -90914,7 +90819,7 @@ the
 earbuds
 were
 at
-100%
+0%
 by
 the
 next
@@ -90923,7 +90828,7 @@ the
 case
 was
 at
-22%
+0%
 had
 not
 even
@@ -90943,7 +90848,7 @@ pack
 to
 loose
 over
-75%
+0%
 of
 its
 life
@@ -90952,7 +90857,7 @@ returned
 it,
 and
 received
-2nd
+0nd
 one
 of
 the
@@ -90971,7 +90876,7 @@ have
 flaws
 received
 my
-2nd
+0nd
 case,
 of
 the
@@ -90983,7 +90888,7 @@ so
 it
 was
 at
-100%
+0%
 before
 bed
 the
@@ -91000,7 +90905,7 @@ the
 case
 was
 at
-39%
+0%
 slight
 improvement,
 but
@@ -91032,7 +90937,6 @@ to
 have
 total
 of
-40
 hours
 of
 playtime,
@@ -91095,7 +90999,7 @@ the
 product
 for
 the
-2nd
+0nd
 time
 for
 full
@@ -91701,7 +91605,6 @@ service
 maybe
 was
 in
-1000
 defective
 product
 recipient
@@ -92025,7 +91928,6 @@ say
 power
 off
 but
-10
 seconds
 later
 they
@@ -92145,7 +92047,7 @@ and
 buy
 the
 cheaper
-$20
+$0
 earbuds,
 you
 ll
@@ -92185,7 +92087,7 @@ them
 out
 mid
 run
-1000%
+0%
 do
 not
 buy
@@ -92324,7 +92226,7 @@ when
 move
 around
 about
-15ft
+0ft
 radius,
 with
 phone
@@ -92422,7 +92324,7 @@ digital
 battery
 level
 shows
-96%
+0%
 will
 be
 returning
@@ -92431,7 +92333,7 @@ spend
 littlemorefor
 name
 brandadded
-1/19/21
+0/0/0
 have
 received
 repeated
@@ -92445,7 +92347,7 @@ review
 in
 exchange
 for
-$35
+$0
 say
 no
 have
@@ -92632,7 +92534,6 @@ only
 to
 get
 about
-30
 minutes
 of
 talk
@@ -92660,7 +92561,7 @@ is
 excellent
 can
 get
-16+
+0+
 hrs
 depending
 on
@@ -92823,7 +92724,6 @@ run
 for
 more
 than
-1015
 minutes
 and
 start
@@ -92889,7 +92789,6 @@ say
 "power
 on"
 every
-10
 seconds
 i'm
 giving
@@ -92960,7 +92859,7 @@ case
 battery
 charge
 drops
-50%
+0%
 if
 the
 fully
@@ -93099,7 +92998,6 @@ stars
 are
 due
 the
-48
 hr
 run
 time
@@ -93141,7 +93039,7 @@ ear
 buds
 in
 the
-30$
+0$
 range
 and
 so
@@ -93177,7 +93075,7 @@ the
 stated
 distance
 of
-30'
+0'
 is
 pretty
 darn
@@ -93306,7 +93204,6 @@ well
 however,
 after
 about
-45
 minutes
 of
 use,
@@ -93470,11 +93367,10 @@ overnight
 and
 it
 showed
-100%
+0%
 in
 less
 than
-10
 minutes
 set
 up
@@ -93485,7 +93381,7 @@ was
 was
 already
 at
-90%
+0%
 in
 less
 than
@@ -93555,7 +93451,7 @@ batter
 was
 less
 than
-85%;
+0%;
 returned
 pros:
 fits
@@ -93658,7 +93554,7 @@ could
 be
 louder
 for
-$20
+$0
 dollars,
 it's
 alright
@@ -93809,7 +93705,7 @@ even
 for
 product
 under
-$50
+$0
 initially
 the
 headphones
@@ -93833,7 +93729,6 @@ was
 able
 to
 get
-4045
 minutes
 before
 recharging
@@ -94101,7 +93996,7 @@ minutes
 at
 time
 the
-2nd
+0nd
 pair
 got
 after
@@ -94140,7 +94035,7 @@ easily
 have
 small
 earsupdate
-1:removing
+0:removing
 one
 star
 because
@@ -94161,7 +94056,7 @@ will
 remove
 another
 starupdate
-2:removed
+0:removed
 another
 star
 getting
@@ -94220,10 +94115,10 @@ case
 had
 drained
 from
-100%
+0%
 battery
 to
-60%
+0%
 battery
 by
 the
@@ -94273,7 +94168,6 @@ charge
 for
 longer
 than
-24
 hoursocciam
 sent
 me
@@ -94298,21 +94192,20 @@ same
 in
 the
 first
-24
 hours
 after
 charging
 the
 case
 to
-100%
+0%
 the
 case
 had
 drained
 to
 just
-41%,
+0%,
 without
 using
 the
@@ -94359,7 +94252,6 @@ charge
 doesn't
 last
 past
-48
 hours
 the
 headphones
@@ -94804,7 +94696,7 @@ listened
 to
 my
 preferred
-70's
+0's
 music
 thought
 sound
@@ -94857,7 +94749,7 @@ charged
 once
 again
 to
-100%
+0%
 and
 retired
 for
@@ -94877,7 +94769,7 @@ they
 had
 discharged
 almost
-40%
+0%
 overnight
 without
 being
@@ -94901,7 +94793,6 @@ customer
 support
 within
 the
-24
 hours
 response
 time
@@ -94924,7 +94815,7 @@ once
 again
 recharged
 to
-100%
+0%
 ,
 with
 the
@@ -94953,7 +94844,6 @@ top,
 and
 waited
 the
-24
 hours
 for
 response,
@@ -95157,7 +95047,6 @@ fall
 off
 during
 use
-11
 btw,
 not
 child
@@ -95298,16 +95187,16 @@ quality
 is
 fantastic
 at
-$2899
+$0
 these
 earbuds
 literally
 blow
 away
 my
-$12900
+$0
 jabra
-65t
+0t
 active
 elite
 earbuds
@@ -95337,7 +95226,6 @@ charging
 block/adaptor
 but
 for
-29
 bucks,
 that's
 ok
@@ -95804,7 +95692,6 @@ disconnects
 and
 takes
 about
-3040
 sec
 to
 reconnect
@@ -95819,7 +95706,7 @@ life
 is
 an
 easy
-10hrs
+0hrs
 the
 earbud
 set
@@ -95902,7 +95789,7 @@ it
 went
 down
 to
-72%
+0%
 after
 couple
 of
@@ -95930,7 +95817,7 @@ because
 really
 like
 these
-earbuds21/01/21
+earbuds0/0/0
 update:kept
 using
 them
@@ -96240,7 +96127,7 @@ enough
 volume
 even
 at
-100%
+0%
 they
 do
 not
@@ -96330,11 +96217,11 @@ over
 year
 that
 paid
-$15
+$0
 for
 they
 lasted
-8+
+0+
 hours
 this
 headset
@@ -96560,7 +96447,6 @@ it
 it
 only
 for
-25
 seconds
 only
 use
@@ -96624,7 +96510,6 @@ connection
 on
 my
 windows
-10
 computer
 otherwise,
 there
@@ -96874,7 +96759,7 @@ need
 battery
 life
 of
-5+
+0+
 hours
 these
 lasted
@@ -96995,7 +96880,6 @@ use
 it
 provided
 almost
-48
 hrs
 of
 charge
@@ -97518,7 +97402,7 @@ changed
 my
 review
 to
-4/5
+0/0
 because
 already
 thought
@@ -97846,14 +97730,13 @@ these
 again
 before
 my
-$120
+$0
 earbuds
 not
 bad
 at
 all
 for
-30
 bucks
 horrible
 road
@@ -97872,7 +97755,6 @@ road
 noise,
 driving
 over
-40
 miles
 an
 hour
@@ -97900,7 +97782,6 @@ no
 noise
 less
 than
-40
 miles
 an
 hour,
@@ -98522,7 +98403,6 @@ in
 row
 i'm
 out
-80
 and
 amazon
 doesn't

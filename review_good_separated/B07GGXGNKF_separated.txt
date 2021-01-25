@@ -1,9 +1,9 @@
-ps4スリム初期タイプ付属コントローラ
+ps0スリム初期タイプ付属コントローラ
 usb端子修理
-ためjds040
+ためjds0
 購入
 ボタンゴム
-交換等幾度
+交換等0度
 分解
 せい
 ケーブル
@@ -25,7 +25,7 @@ usb端子修理
 参考
 為
 レビュー
-1ライト
+0ライト
 色味
 変わる
 他
@@ -72,7 +72,7 @@ usb端子修理
 ある
 注意
 必要
-3ケーブル接続端子
+0ケーブル接続端子
 両面型これ
 一番
 問題
@@ -107,7 +107,7 @@ usb端子修理
 ラー
 基盤
 usb接続
-ps4本体
+ps0本体
 悪影響
 出る
 かねる
@@ -150,7 +150,7 @@ url
 みる
 こと
 勧める
-4付属ドライバー
+0付属ドライバー
 磁石機能
 ない
 ドライバー
@@ -169,7 +169,7 @@ url
 磁力
 一切
 ある
-デュアルショック4
+デュアルショック0
 ネジ
 小さい
 ためドライバー
@@ -272,16 +272,14 @@ port
 kitshoweveri
 replaced
 this
-jds011
+jds0
 charging
 port
 in
 may
-2020
 and
 by
 september
-2020
 had
 to
 replace
@@ -298,7 +296,6 @@ it
 is
 currently
 november
-2020
 and
 the
 second
@@ -313,7 +310,7 @@ the
 purchase
 of
 another
-jds011
+jds0
 kit
 this
 makes
@@ -389,7 +386,6 @@ controller
 in
 less
 than
-60
 secondsto
 start
 off
@@ -410,13 +406,13 @@ teh
 new
 charging
 pot
-jds040
+jds0
 and
 and
 connected
 to
 my
-ps4
+ps0
 pro
 and
 the
@@ -426,7 +422,6 @@ turned
 on,
 after
 about
-30
 seconds
 the
 light
@@ -528,7 +523,7 @@ genuine
 dual
 shock
 is
-44,
+0,
 have
 not
 doubt
@@ -568,7 +563,7 @@ worked
 well
 for
 my
-ps4
+ps0
 dualshock
 controller
 the
@@ -585,7 +580,7 @@ them
 in
 my
 dualshock
-4s
+0s
 easily
 noticed
 that
@@ -669,7 +664,6 @@ better
 than
 forking
 out
-50
 for
 new
 controller
@@ -707,7 +701,6 @@ these,
 and
 saved
 splurging
-50
 on
 new
 controllervery
@@ -808,10 +801,9 @@ do
 &
 took
 about
-10
 minutes
 would
-100%
+0%
 order
 again
 quality
@@ -854,7 +846,7 @@ me
 to
 fix
 both
-ps4
+ps0
 pads
 for
 under
@@ -976,7 +968,7 @@ charging
 issues
 with
 my
-ds4
+ds0
 controller
 are
 now
@@ -984,7 +976,7 @@ gone
 to
 fix
 my
-ps4
+ps0
 pad
 works
 great
@@ -992,9 +984,9 @@ unfortunately
 they
 don't
 work
-10/10
+0/0
 worked
-100%
+0%
 plus
 you
 get
@@ -1073,7 +1065,7 @@ versión
 del
 mando
 de
-ps4
+ps0
 en
 mi
 caso
@@ -1089,7 +1081,7 @@ sin
 problema
 funciona
 al
-100%
+0%
 lo
 bueno
 es
@@ -1297,7 +1289,7 @@ di
 ricambio
 per
 controller
-ps4
+ps0
 in
 particolare
 è
@@ -1344,7 +1336,7 @@ riparare
 il
 joystick
 della
-ps4
+ps0
 dei
 miei
 fratellil
@@ -1549,7 +1541,7 @@ difettosi
 danneggiati
 dei
 controller
-ps4
+ps0
 attenzione
 al
 pezzo
@@ -1617,7 +1609,7 @@ conector,el
 mando
 de
 la
-ps4
+ps0
 me
 funciona
 carga
@@ -1658,7 +1650,7 @@ del
 mando
 de
 la
-ps4
+ps0
 de
 mi
 sobrino,
@@ -1782,7 +1774,7 @@ per
 aggiustare
 un
 joystick
-ps4
+ps0
 prima
 di
 acquistare
@@ -1867,7 +1859,7 @@ celle
 de
 ma
 manette
-ps4
+ps0
 qui
 ne
 chargeait
@@ -1881,7 +1873,7 @@ youtube,
 ca
 m'a
 demandé
-10min
+0min
 ma
 manette
 charge
@@ -1891,7 +1883,7 @@ c'est
 parfait
 j'ai
 économisé
-50€
+0€
 vérifiez
 bien
 la
@@ -2018,7 +2010,6 @@ paziente
 si
 riesce
 risparmiare
-40
 euro
 llevo
 un
@@ -2115,7 +2106,7 @@ wireless
 del
 mio
 joystick
-ps4state
+ps0state
 attenti
 ai
 codici
@@ -2588,7 +2579,7 @@ perfettamente
 ma
 manette
 de
-ps4
+ps0
 ne
 se
 rechargeait
@@ -2652,7 +2643,7 @@ el
 mando
 de
 la
-ps4
+ps0
 perfecto,
 muy
 fácil
@@ -2705,7 +2696,7 @@ le
 pack
 comprends
 carte
-+2
++0
 nappe,
 ce
 qui
@@ -2771,9 +2762,9 @@ arreglar
 tu
 mando
 de
-ps4
+ps0
 dualshock
-v2
+v0
 muy
 contento
 con
@@ -2827,7 +2818,7 @@ para
 los
 mandos
 de
-ps4
+ps0
 perfecto
 so
 good
@@ -2840,7 +2831,7 @@ pièce
 pour
 une
 manette
-ps4,
+ps0,
 produits
 livrés
 rapidement,mais
@@ -2860,7 +2851,7 @@ il
 mio
 dualshock
 per
-ps4
+ps0
 in
 un
 attimo
@@ -2868,7 +2859,7 @@ colocado
 probado,
 perfecto
 recomendado
-100%
+0%
 funciona
 perfectamente
 le
@@ -2989,7 +2980,6 @@ qui
 est
 quand
 même
-60
 €,
 on
 changer
@@ -3002,7 +2992,7 @@ très
 bien
 super
 manettes
-ps4
+ps0
 comme
 neuve
 :
@@ -3104,7 +3094,7 @@ conforme
 remplacement
 sur
 console
-ps4
+ps0
 ai
 achete
 sa
@@ -3112,7 +3102,7 @@ pour
 ma
 manette
 dualshok
-v2
+v0
 qcar
 elle
 ne
@@ -3126,7 +3116,7 @@ se
 qui
 on
 le
-jds040
+jds0
 parfait
 parfait
 nul
@@ -3245,7 +3235,7 @@ haven
 connected
 to
 my
-ps4
+ps0
 since
 not
 at
@@ -3533,7 +3523,7 @@ normally
 after
 replacing
 the
-ps4
+ps0
 controller
 can
 be
@@ -3570,7 +3560,7 @@ am
 really
 happy
 my
-$60
+$0
 controller
 is
 now
@@ -3611,7 +3601,7 @@ happen
 to
 like
 this
-jds055
+jds0
 replacement
 charging
 port
@@ -3728,7 +3718,6 @@ least
 once
 worked
 great,looked
-98
 percent
 like
 the
@@ -3846,7 +3835,7 @@ perfect
 replacement
 for
 my
-ps4
+ps0
 controller
 charging
 port
@@ -3880,7 +3869,6 @@ tutorial
 includes
 precision
 phillips
-000
 screwdriver
 if
 needed,
@@ -3904,7 +3892,6 @@ careful
 as
 there
 are
-45
 different
 model
 of
@@ -3931,7 +3918,7 @@ able
 to
 fix
 some
-ps4
+ps0
 controllers
 that
 no
@@ -3971,7 +3958,7 @@ depending
 on
 what
 generation
-ps4
+ps0
 controller
 you
 have
@@ -4463,7 +4450,7 @@ as
 diy
 fix
 for
-ps4
+ps0
 micro
 usb
 fix
@@ -4620,12 +4607,12 @@ you
 get
 from
 the
-ps4
+ps0
 slim
 which
 is
 the
-gen5
+gen0
 controller
 thats
 probably
@@ -4643,7 +4630,7 @@ have
 the
 model
 name
-jds055
+jds0
 it
 was
 the
@@ -4749,7 +4736,6 @@ kept
 me
 from
 blowing
-45
 on
 new
 controllerit
@@ -4814,7 +4800,6 @@ fixed
 the
 controller
 in
-20
 min
 make
 sure
@@ -4903,7 +4888,6 @@ this
 help
 someone
 save
-14
 bucks
 followed
 easy,step
@@ -4913,7 +4897,7 @@ youtube
 video
 just
 google
-"ps4
+"ps0
 controller
 repair"
 and
@@ -4951,7 +4935,7 @@ my
 oldest,
 dead
 controller
-3yrs
+0yrs
 its
 alive
 and
@@ -4993,15 +4977,15 @@ couple
 of
 youtube
 videos
-$5
+$0
 fix
 for
-$50
+$0
 controller
-10$
+0$
 can
 repair
-gen1/2
+gen0/0
 controllers,
 old
 but
@@ -5049,7 +5033,7 @@ anymore
 lot
 better
 than
-120$
+0$
 for
 new
 remotes
@@ -5111,7 +5095,7 @@ happily
 again
 found
 my
-ps4
+ps0
 controller
 not
 charge
@@ -5149,11 +5133,10 @@ by
 opening
 up
 my
-ps4
+ps0
 controller
 and
 within
-15
 mins
 was
 up
@@ -5179,7 +5162,6 @@ of
 the
 controller
 for
-35
 seconds
 in
 order
@@ -5193,9 +5175,8 @@ that
 with
 my
 kids
-10
 and
-9yr
+0yr
 old
 as
 project
@@ -5287,7 +5268,7 @@ exactly
 what
 needed
 my
-ps4
+ps0
 controller
 stopped
 charging
@@ -5364,7 +5345,7 @@ had
 to
 order
 gen
-1&2
+0&0
 because
 took
 apart
@@ -5391,7 +5372,7 @@ me
 from
 throwing
 away
-$60
+$0
 controller
 worked
 perfectly
@@ -5455,7 +5436,7 @@ complaints
 fixed
 my
 older
-ps4
+ps0
 controller
 right
 up
@@ -5476,7 +5457,7 @@ easy
 install
 fixed
 my
-ps4
+ps0
 controller,
 so
 now
@@ -5643,7 +5624,7 @@ the
 original
 piece
 the
-ps4
+ps0
 controller
 had
 would
@@ -5760,7 +5741,7 @@ model
 ordered
 replacement
 for
-jds055,
+jds0,
 took
 about
 minutes
@@ -5791,7 +5772,7 @@ great
 value
 saved
 me
-$60
+$0
 for
 new
 controller
@@ -5826,7 +5807,7 @@ as
 well
 and
 yes
-jds011
+jds0
 are
 the
 ports
@@ -5956,7 +5937,7 @@ fits
 perfect
 in
 the
-psp4
+psp0
 controller
 now
 am
@@ -5973,7 +5954,7 @@ salvar
 mi
 contro
 de
-ps4
+ps0
 nice
 product
 came
@@ -6019,7 +6000,7 @@ cliente
 muchisimas
 gracias
 producto
-100%
+0%
 recomendado
 great
 easy
@@ -6064,7 +6045,7 @@ able
 to
 fix
 my
-ps4
+ps0
 controller
 with
 these
@@ -6133,7 +6114,7 @@ advertisedfirst
 step
 to
 troubleshoot
-ps4
+ps0
 controller
 usb
 charging
@@ -6141,7 +6122,7 @@ issue:
 try
 shorter
 cable
-3ft
+0ft
 or
 less
 save
@@ -6216,12 +6197,11 @@ to
 fix
 my
 kids
-ps4
+ps0
 remotes
 in
 less
 than
-10
 minutes
 recommend
 got
@@ -6284,7 +6264,7 @@ but
 not
 soworks
 great
-jds030
+jds0
 resolved
 my
 charge/sync
@@ -6365,14 +6345,14 @@ charm
 way
 better
 than
-$45
+$0
 for
 new
 controller
 revived
 an
 old
-ds4
+ds0
 controller
 had
 works
@@ -6414,7 +6394,7 @@ charging
 port
 on
 my
-ds4/ps4
+ds0/ps0
 controller
 product
 was
@@ -6428,7 +6408,7 @@ easy
 installl
 for
 my
-ps4
+ps0
 controllers
 saved
 me
@@ -6477,7 +6457,7 @@ as
 expected
 not
 for
-ps4
+ps0
 as
 it
 says

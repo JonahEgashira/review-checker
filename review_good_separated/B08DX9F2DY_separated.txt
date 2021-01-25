@@ -1,4 +1,4 @@
-5日
+0日
 持つ
 バッテリー切れ
 screw
@@ -57,8 +57,8 @@ per
 il
 mio
 joypad
-ps4
-v2
+ps0
+v0
 per
 intenderci
 quello
@@ -162,7 +162,6 @@ durata
 è
 ottima,
 dopo
-10
 ore
 di
 utilizzo
@@ -170,7 +169,7 @@ utilizzo
 ancora
 carica
 al
-60%
+0%
 no
 me
 ha
@@ -201,7 +200,7 @@ compatibile
 funzionante
 con
 controller
-ps4
+ps0
 infatti
 ne
 ho
@@ -231,14 +230,13 @@ testung
 funktioniert
 der
 akku
-1adie
+0adie
 laufzeiten
 verlängern
 sich
 locker
 auf
 über
-68
 stundenich
 hatte
 vorher
@@ -372,7 +370,7 @@ ahora
 va
 perfecto
 batterie
-ps4
+ps0
 arrivate
 in
 tempi
@@ -385,7 +383,7 @@ dimensioni
 attacco
 compatibili
 al
-100%
+0%
 acabado
 que
 parece
@@ -592,7 +590,7 @@ recommande
 j'ai
 deux
 manetts
-cuhzct2u
+cuhzct0u
 et
 c'est
 un

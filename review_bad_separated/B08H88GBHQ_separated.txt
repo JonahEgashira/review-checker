@@ -27,7 +27,7 @@
 分かる
 まだ
 買う
-二週間
+0週間
 経つ
 音楽
 聴く
@@ -36,7 +36,7 @@
 声
 聴こえる
 なる
-00均
+0均
 イヤホン方
 ます
 電話
@@ -97,7 +97,7 @@ goodチェーン
 コード
 コスパ
 優れる
-1ヶ月
+0ヶ月
 自然故障
 当たりハズレ
 もの
@@ -106,17 +106,16 @@ goodチェーン
 設計
 もの
 不明
-11/19
+0/0
 追加
 星
-5個
+0個
 減らす
 bought
 house
 sign
 in
 february
-2018
 from
 ksmart
 sign
@@ -196,7 +195,6 @@ all
 weather
 types
 for
-25
 years,
 there
 was
@@ -524,7 +522,6 @@ road
 on
 new
 estate
-12
 ave
 the
 house
@@ -541,7 +538,6 @@ number
 up
 from
 us,
-13
 st,
 so
 everyone
@@ -549,7 +545,6 @@ keeps
 thinking
 we
 are
-12
 st,
 which
 is
@@ -591,7 +586,6 @@ sign
 arrived
 less
 that
-24
 hours
 after
 ordering,
@@ -674,7 +668,7 @@ these
 difficult
 times
 of
-covid19
+covid0
 this
 company
 said
@@ -806,7 +800,6 @@ had
 delivery
 time
 of
-710
 days
 which
 was
@@ -1146,7 +1139,6 @@ order
 was
 delivered
 within
-48
 hours
 and
 so
@@ -2260,7 +2252,7 @@ great
 piece
 of
 kit
-a1
+a0
 easy
 to
 fit
@@ -2868,17 +2860,17 @@ money,
 ordered
 this
 on
-23rd
+0rd
 june,
 just
 had
 it
 delivered
 at
-815am
+0am
 on
 the
-26th,
+0th,
 very
 happy
 with
@@ -2963,7 +2955,6 @@ the
 letters
 again
 number
-12
 how
 much
 do
@@ -3185,7 +3176,6 @@ and
 up
 up
 in
-15
 minutes
 very
 happy
@@ -3625,7 +3615,6 @@ prompt
 delivery,
 had
 it
-24
 hours
 after
 ordering
@@ -3637,7 +3626,7 @@ plaque
 ordered
 on
 thursday
-2nd
+0nd
 july
 and
 delivered
@@ -3806,14 +3795,13 @@ buy
 and
 looks
 fab
-5*
+0*
 great
 product
 easy
 to
 install
 took
-10
 minutes
 looks
 great
@@ -3892,7 +3880,7 @@ super
 fastvery
 impressedthank
 you
-x5
+x0
 star
 rating
 very
@@ -4072,7 +4060,6 @@ ordered
 this
 in
 summer
-2019
 and
 it
 is
@@ -4843,7 +4830,6 @@ my
 tap
 water
 is
-70
 and
 waiakea
 alkaline
@@ -4851,7 +4837,6 @@ water
 has
 ph
 of
-65
 am
 pretty
 pod
@@ -4884,9 +4869,7 @@ manufacturer
 packed
 box
 of
-24
 with
-22
 bottles
 this
 is
@@ -5220,7 +5203,7 @@ interested
 and
 have
 the
-$30ish
+$0ish
 to
 try
 it
@@ -5380,7 +5363,7 @@ and
 don't
 liike
 getting
-1/2
+0/0
 bottles
 of
 water
@@ -5402,7 +5385,7 @@ not
 happy
 that
 paid
-$12
+$0
 for
 pounds
 of
@@ -5760,11 +5743,9 @@ these
 issues
 while
 drinking
-45
 bottles
 day
 yup,
-45
 bottles
 filled
 with
@@ -5808,9 +5789,8 @@ this
 it's
 like
 over
-$30
+$0
 for
-24
 pack
 of
 water,
@@ -6686,10 +6666,10 @@ getting
 deer
 park
 at
-$399
+$0
 or
 for
-$10
+$0
 at
 giant
 lol
@@ -6811,7 +6791,7 @@ and
 am
 not
 disappointed
-10/10
+0/0
 would
 recommend
 super
@@ -7050,7 +7030,7 @@ have
 to
 add
 extra
-1/4th
+0/0th
 cup
 of
 store
@@ -7129,10 +7109,9 @@ strip
 and
 it
 registered
-60625,
+0,
 far
 from
-7682
 as
 described
 considering
@@ -7462,7 +7441,6 @@ make
 sure
 it
 is
-7682
 as
 stated
 on
@@ -8166,7 +8144,7 @@ wish
 it
 wasn
 over
-$30
+$0
 for
 case
 probably
@@ -8185,7 +8163,6 @@ my
 water
 discipline
 of
-64
 0z
 day,
 buy
@@ -8971,10 +8948,8 @@ house
 is
 clearly
 posted
-235
 and
 not
-232
 nice
 quality
 tastes
@@ -9373,7 +9348,7 @@ scents
 and
 bottled
 in
-10oz
+0oz
 jars
 pleased
 for
@@ -10517,7 +10492,7 @@ love
 it
 on
 my
-3rd
+0rd
 order
 now
 great
@@ -10637,7 +10612,7 @@ very
 good
 and
 it's
-100%
+0%
 pure
 organic
 to
@@ -10726,7 +10701,7 @@ consistency,
 and
 taste
 are
-100%
+0%
 raw
 unprocessed
 sugar

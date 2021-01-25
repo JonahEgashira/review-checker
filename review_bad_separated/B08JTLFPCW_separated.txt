@@ -34,7 +34,7 @@ bluetooth
 とても
 良い
 あっという間に
-10分
+0分
 過ぎる
 しまう
 トータル的
@@ -69,7 +69,7 @@ bluetooth
 取る
 こちら
 購入
-毎日10分間ケア
+毎日0分間ケア
 心地よい
 振動
 じんわり
@@ -85,10 +85,10 @@ bluetooth
 色々
 機能
 つく
-10分間
+0分間
 アイケア
 私
-十分
+0分
 役立つ
 長時間パソコン
 見る
@@ -104,7 +104,7 @@ bluetooth
 きっかけ
 買う
 週
-三回
+0回
 使う
 てる
 結構
@@ -206,7 +206,7 @@ bluetooth
 購入
 まず
 使用
-一印象
+0印象
 作動音
 結構
 大きい
@@ -444,7 +444,7 @@ bluetooth
 パソコン仕事
 多い
 時
-12時間以上パソコン
+0時間以上パソコン
 前
 座る
 いる
@@ -1403,7 +1403,6 @@ quality,
 packed
 well
 believe
-13
 inch
 is
 suitable
@@ -1471,7 +1470,6 @@ use
 it,
 not
 for
-64
 year
 old,
 maybe
@@ -1783,7 +1781,7 @@ for
 my
 back;
 would
-100%
+0%
 recommend
 this
 product
@@ -2450,7 +2448,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 die
 packung

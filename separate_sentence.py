@@ -81,7 +81,7 @@ def separate(path, review_type, noun=True, verb=True, adj=True, adv=True):
 
     # 単語に対する処理のまとめ
     token_filters = [
-                     #NumericReplaceFilter(),                        # 名詞中の漢数字を含む数字を0に置換
+                     NumericReplaceFilter(),                        # 名詞中の漢数字を含む数字を0に置換
                      CompoundNounFilter(),                           # 名詞が連続する場合は複合名詞にする
                      POSKeepFilter(filter_list),                     # 名詞・動詞・形容詞・副詞のみを取得する
                      POSStopFilter('記号'),                          # 記号は取り除く 

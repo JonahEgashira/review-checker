@@ -75,7 +75,7 @@ uetooth
 強める
 印象
 暖かい
-2段階
+0段階
 ある
 暖める
 機能
@@ -122,7 +122,7 @@ uetooth
 なれる
 私
 時
-1000円オフ
+0円オフ
 クーポン
 使える
 すごい
@@ -137,9 +137,9 @@ uetooth
 良い
 モード
 ある
-5分
-10分
-15分
+0分
+0分
+0分
 分かれる
 エアマッサージ
 振動
@@ -153,7 +153,7 @@ uetooth
 温度
 エア
 強い
-3段階
+0段階
 分かれる
 好み
 強い
@@ -163,7 +163,7 @@ uetooth
 今
 よく
 スリープモード
-15分
+0分
 する
 こと
 多い
@@ -229,7 +229,7 @@ tooth
 大きい
 聞こえる
 にくい
-マイナス1
+マイナス0
 基本的
 良い
 マッサージ機
@@ -261,7 +261,7 @@ tooth
 ある
 usb充電
 できる
-何度
+0度
 気軽
 使える
 思う
@@ -270,8 +270,8 @@ bluetooth接続
 切り替える
 こと
 できる
-5分
-15分のモード
+0分
+0分のモード
 終了
 する
 たび
@@ -403,7 +403,7 @@ bluetooth
 よう
 気
 まだ
-数回
+0回
 使用
 使う
 続ける
@@ -631,11 +631,11 @@ usbケーブルはつ
 ない
 思う
 アイウォーマー
-2台目
+0台目
 なる
 最初
 物
-数年前
+0年前
 もの
 なる
 それ
@@ -651,7 +651,7 @@ usbケーブルはつ
 温かい
 なる
 温度
-二段階
+0段階
 調節
 できる
 程よい
@@ -736,7 +736,7 @@ usbケーブルはつ
 手元
 届く
 およそ
-一ヶ月使用
+0ヶ月使用
 暖かい
 振動
 強い
@@ -862,7 +862,7 @@ bluetooth
 タッチ
 ほぼ
 反応
-一度
+0度
 電源
 つく
 それっきり充電
@@ -934,7 +934,7 @@ bluetooth
 長押
 電源on
 /off
-1タップ毎
+0タップ毎
 モード
 切り替え
 モード
@@ -1057,13 +1057,13 @@ bluetooth
 不思議
 納得
 これ
-5000円弱
+0円弱
 安い
 すぎる
 私
 仕事
 it系
-月2日
+月0日
 疲れる
 目
 頭痛
@@ -1119,7 +1119,7 @@ it系
 効く
 わかる
 体験
-5000円弱
+0円弱
 払う
 価値
 ある
@@ -1163,7 +1163,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 je
 viens
@@ -1762,7 +1762,7 @@ charge
 remaininglow
 volume
 for
-mp3pros:ability
+mp0pros:ability
 to
 adjust
 temperature
@@ -1830,7 +1830,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 she
 loves
@@ -2339,7 +2339,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 ayant
 acheté
@@ -3095,7 +3095,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 hace
 unos
@@ -3283,7 +3283,7 @@ for
 someone
 that
 wants
-10minute
+0minute
 chill
 out
 at
@@ -3315,7 +3315,6 @@ in
 box
 somewhere
 but
-2020
 has
 been
 crazy
@@ -3559,7 +3558,6 @@ you
 have
 to
 wait
-1020
 secs
 to
 cycle
@@ -3590,10 +3588,8 @@ help
 the
 first
 say
-14
 out
 of
-20
 times
 used,
 had
@@ -3606,7 +3602,7 @@ the
 time
 the
 approx
-1015min
+0min
 programme
 had
 finishedso
@@ -4011,7 +4007,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 je
 recommande
@@ -4058,7 +4054,7 @@ au
 crane
 cela
 fait
-10jours
+0jours
 que
 je
 l'ai
@@ -4070,7 +4066,7 @@ le
 top
 je
 passe
-1015mn
+0mn
 par
 soir
 en
@@ -4264,7 +4260,6 @@ and
 nice
 experience
 after
-15
 mins
 the
 program
@@ -4325,7 +4320,7 @@ given
 the
 eye
 massager
-5*
+0*
 as
 overall
 really
@@ -4391,7 +4386,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 ottimo
 prodotto
@@ -5255,7 +5250,6 @@ is
 on
 for
 approx
-10
 mins
 as
 often
@@ -5387,7 +5381,7 @@ and
 the
 features
 it
-offerspros———1
+offerspros———0
 loaded
 with
 great
@@ -5408,7 +5402,7 @@ connectivity
 to
 change
 default
-music2
+music0
 great
 built
 quality
@@ -5420,7 +5414,7 @@ body
 with
 pu
 leather
-touch3
+touch0
 packaging
 is
 also
@@ -5434,7 +5428,7 @@ it
 in
 its
 original
-boxcons———1
+boxcons———0
 noneoverall,
 am
 really
@@ -6321,7 +6315,6 @@ ora
 è
 il
 vitalità
-10
 mininuti
 di
 massaggio
@@ -6346,7 +6339,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 ottimo
 per
@@ -6634,13 +6627,13 @@ your
 phone
 once
 connected
-pro:1
+pro:0
 the
 build
 quality
 is
 really
-good2
+good0
 the
 heat
 and
@@ -6656,15 +6649,15 @@ my
 threshold
 is
 quite
-high3
+high0
 comfortable
 to
-wearcon:1
+wearcon:0
 the
 control
 is
 bit
-fussy2
+fussy0
 don't
 feel
 much
@@ -6766,7 +6759,6 @@ positiv
 überrascht,
 wie
 angenehm
-15
 min
 augen
 massage
@@ -7236,7 +7228,7 @@ good
 after
 session
 of
-15mins
+0mins
 just
 sit
 back
@@ -7784,7 +7776,6 @@ oder
 einschlafstörungen
 leiden
 einfach
-15
 minuten
 ruhig
 da
@@ -7824,7 +7815,6 @@ anstrengenden
 arbeitstag
 einfach
 mal
-15
 minuten
 abzuschaltenklare
 kaufempfehlung
@@ -7877,7 +7867,6 @@ bought
 when
 on
 offer
-40
 for
 my
 wife
@@ -8629,7 +8618,7 @@ this
 would
 defo
 be
-4/5
+0/0
 star
 product
 and
@@ -9179,7 +9168,7 @@ ai
 eu
 raison
 est
-15mn
+0mn
 de
 bonheur
 pur
@@ -9269,7 +9258,6 @@ and
 regular
 headaches
 usually
-23
 per
 week
 have
@@ -9489,7 +9477,7 @@ things
 just
 another
 or
-4cm
+0cm
 an
 inch
 more
@@ -9691,7 +9679,6 @@ if
 you
 just
 need
-10
 minutes
 relaxation
 for
@@ -9991,7 +9978,6 @@ bestellt
 benutze
 sie
 täglich
-1015
 minuten
 die
 brille
@@ -10109,7 +10095,6 @@ beschreibung
 hält
 sich
 mit
-34
 kleinen
 seiten
 sehr
@@ -10118,7 +10103,7 @@ aber
 vollkommen
 ausreichendein/aus
 intensität
-wärme,3
+wärme,0
 tasten
 reichen
 und
@@ -10447,12 +10432,12 @@ box
 packagerechargeable
 with
 cable
-provided5
+provided0
 settings/modes
-1pressure
+0pressure
 &
 heat,
-2pressure,
+0pressure,
 heat
 &
 vibrationnot
@@ -10476,14 +10461,14 @@ massage
 session
 waves,
 rainbluetooth
-connection1
+connection0
 full
 charge
 takes
 approximately
-25hours
+0hours
 for
-15mins
+0mins
 sessiongreen
 light
 advising
@@ -10502,11 +10487,11 @@ get
 one
 for
 under
-3$
+0$
 must
 be
 under
-2v
+0v
 as
 indicatedcan
 connect
@@ -10514,7 +10499,6 @@ to
 bluetooth
 before
 the
-15
 minutes
 session
 starts
@@ -10595,7 +10579,7 @@ sensitivelow
 battery
 during
 my
-4th
+0th
 session
 ☹
 and
@@ -10613,7 +10597,7 @@ might
 tough
 out
 for
-5th
+0th
 sessionbest
 investment
 for
@@ -10626,7 +10610,7 @@ at
 computer
 screen
 for
-10hrs
+0hrs
 day
 &
 do
@@ -11622,7 +11606,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 really
 wanted
@@ -12237,7 +12221,7 @@ of
 the
 box
 to
-100%
+0%
 guarantee
 that
 the
@@ -12446,7 +12430,7 @@ chair
 would
 have
 given
-4/5
+0/0
 stars,
 however
 given
@@ -12459,7 +12443,7 @@ use
 could
 only
 justify
-3/5
+0/0
 interesting
 contraption,
 and
@@ -12482,7 +12466,6 @@ fall
 asleep
 after
 only
-15
 minutes
 the
 soft
@@ -12526,8 +12509,7 @@ it
 generally
 lasts
 uses
-4x
-15
+0x
 minutes=
 hour
 before
@@ -12576,7 +12558,7 @@ gefordert
 sind
 ich
 arbeite
-810h
+0h
 am
 tag
 am
@@ -13060,7 +13042,7 @@ the
 fit
 is
 not
-100%
+0%
 perfect
 in
 me
@@ -13572,7 +13554,7 @@ thing
 still
 giving
 it
-4*
+0*
 but
 would
 recommend
@@ -13666,7 +13648,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 beautifully
 packaged
@@ -13764,7 +13746,6 @@ blepharitis,
 my
 ophthalmologist
 suggested
-10
 mins
 of
 heat
@@ -13960,7 +13941,6 @@ telefono
 ed
 il
 bluetoothdopo
-10
 minuti
 di
 massaggio
@@ -15609,7 +15589,6 @@ masaje
 mas
 tiempo
 de
-1015
 minutos
 lo
 recomendaría
@@ -15848,7 +15827,7 @@ was
 really
 skeptical
 paying
-70$
+0$
 for
 product
 that
@@ -15905,7 +15884,6 @@ love
 it
 use
 it
-20
 minutes
 before
 bed
@@ -15927,7 +15905,6 @@ you
 wanna
 stay
 or
-10
 minutes
 on
 it
@@ -15945,7 +15922,6 @@ thing
 only
 thing
 after
-20
 minutes
 on
 soft
@@ -15969,7 +15945,6 @@ is
 best
 used
 for
-515
 minutes
 anyway
 im
@@ -16219,7 +16194,6 @@ charging
 it
 only
 takes
-23
 hours
 to
 chargephysical
@@ -16557,7 +16531,6 @@ mask
 turns
 off
 after
-15
 minutes
 maximum
 time
@@ -16734,7 +16707,7 @@ hope
 the
 company
 consider
-them;1
+them;0
 the
 elastic
 is
@@ -16773,7 +16746,7 @@ to
 get
 tighter
 not
-loose2
+loose0
 when
 you
 wear
@@ -16824,7 +16797,7 @@ if
 they
 could
 place
-3bottoms
+0bottoms
 separately
 in
 better
@@ -16913,7 +16886,6 @@ cada
 modo
 dura
 unos
-15
 mn
 aprox
 se
@@ -17166,7 +17138,7 @@ is
 why
 gave
 it
-4/5
+0/0
 for
 comfortdefinitely
 would
@@ -17288,7 +17260,6 @@ that
 didn
 move
 for
-10
 minutes
 hahabottom
 line,
@@ -17443,7 +17414,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 c'est
 genial
@@ -17464,7 +17435,7 @@ terribleje
 le
 recommande
 à
-200%
+0%
 bought
 this
 as
@@ -17852,7 +17823,6 @@ machinery
 bit
 noisy
 after
-12
 uses
 it
 still
@@ -18495,7 +18465,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 fall
 asleep
@@ -19048,7 +19018,6 @@ your
 eyes
 only
 within
-15
 minsas
 an
 addition
@@ -19232,7 +19201,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 ok
 truth
@@ -20398,7 +20367,7 @@ to
 you
 received
 it
-yesterday1st
+yesterday0st
 issue
 was
 connecting
@@ -20417,13 +20386,13 @@ at
 particular
 angle
 not
-easy2nd
+easy0nd
 noisyyour
 music
 is
 playing
 over
-'whirring'3rd
+'whirring'0rd
 hard
 to
 tell
@@ -20432,7 +20401,7 @@ it
 needs
 charging
 or
-not4th
+not0th
 careful
 not
 to
@@ -20844,7 +20813,6 @@ positiv
 überrascht,
 wie
 angenehm
-15
 min
 augen
 massage
@@ -20912,7 +20880,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 super
 excited
@@ -20972,7 +20940,7 @@ mode
 superfast
 delivery
 about
-18hrs
+0hrs
 anfangs
 konnte
 ich
@@ -21447,7 +21415,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 in
 general,
@@ -21699,7 +21667,6 @@ even
 if
 you
 have
-10
 or
 so
 songs
@@ -21773,7 +21740,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 j'ai
 essayé
@@ -21782,7 +21749,7 @@ dans
 deux
 circonstances
 la
-1re
+0re
 pendant
 une
 migraine
@@ -21877,7 +21844,7 @@ this
 product
 would
 rate
-5/5
+0/0
 stars
 if
 it
@@ -21998,7 +21965,6 @@ timer
 is
 set
 to
-15
 minutes
 just
 enough
@@ -22354,11 +22320,11 @@ bianca
 rigida
 con
 all
-interno:1
+interno:0
 cavo
-usb1
+usb0
 massaggiatore
-oculare1
+oculare0
 manuale
 istruzioni
 la
@@ -22401,7 +22367,6 @@ vitalità
 dalla
 durata
 di
-10
 minuti,
 con
 pressione
@@ -22465,7 +22430,7 @@ ricevuto
 il
 massaggiatore
 in
-24h
+0h
 dall
 acquisto
 great
@@ -22904,7 +22869,6 @@ on
 the
 button
 for
-45
 second
 it
 took
@@ -23348,7 +23312,7 @@ itsome
 tips
 that
 might
-help:1
+help:0
 the
 box
 doesn't
@@ -23362,7 +23326,7 @@ it
 needs
 at
 least
-1a
+0a
 to
 charge
 which
@@ -23378,7 +23342,7 @@ plug
 and
 it
 worked
-great2
+great0
 make
 sure
 you
@@ -23405,7 +23369,7 @@ face
 little
 bit
 while
-massaging3
+massaging0
 the
 heat
 is
@@ -23423,7 +23387,7 @@ to
 clean
 the
 eye
-pads4
+pads0
 because
 it
 goes
@@ -23480,7 +23444,7 @@ time
 you
 use
 the
-device5
+device0
 the
 air
 pressure
@@ -23825,7 +23789,7 @@ but
 was
 in
 the
-$200
+$0
 range
 which
 was
@@ -24257,7 +24221,7 @@ this
 device
 there
 are
-5,
+0,
 would
 have
 to
@@ -24870,7 +24834,7 @@ this
 usually
 spend
 around
-10+
+0+
 hours
 in
 front
@@ -24955,7 +24919,7 @@ after
 using
 initially
 thought
-15mins
+0mins
 for
 sleep
 mode
@@ -24982,7 +24946,7 @@ realize
 that
 those
 extra
-15mins
+0mins
 before
 sleep
 are
@@ -24998,7 +24962,6 @@ allows
 basically
 for
 around
-45
 mins
 of
 the
@@ -25098,7 +25061,6 @@ already
 used
 it
 around
-30
 times
 first
 was
@@ -25305,7 +25267,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 have
 been
@@ -25365,7 +25327,7 @@ use
 it
 daily
 about
-15mins,
+0mins,
 it
 can
 relief
@@ -25540,7 +25502,6 @@ the
 longest
 setting
 is
-15
 min
 can
 always
@@ -25823,7 +25784,7 @@ battery
 last
 for
 about
-15mins
+0mins
 use
 default
 massage
@@ -25871,7 +25832,7 @@ it
 on
 discount
 at
-$60,
+$0,
 and
 used
 this
@@ -26030,7 +25991,6 @@ different
 modes
 from
 to
-15
 minutes
 durationa
 highly
@@ -26055,7 +26015,6 @@ this
 machine
 out
 of
-10
 times
 for
 single
@@ -26158,7 +26117,7 @@ it
 every
 day
 for
-15min
+0min
 before
 sleep
 not
@@ -26454,7 +26413,6 @@ myself
 run
 it
 for
-15
 minutes
 at
 bed
@@ -26554,7 +26512,7 @@ am
 looking
 at
 screens
-24/7
+0/0
 so
 what
 wanted
@@ -26569,7 +26527,6 @@ looking
 at
 screen
 for
-10
 hours
 but
 feel
@@ -26761,7 +26718,6 @@ ranging
 from
 min
 to
-15
 min
 all,
 heat,
@@ -26783,7 +26739,6 @@ is
 needed
 roughly
 after
-15
 min
 session
 uses
@@ -26917,7 +26872,7 @@ massager
 then
 gave
 myself
-5/10
+0/0
 minute
 head
 neck
@@ -27655,7 +27610,7 @@ que
 de
 más
 de
-100€
+0€
 te
 permite
 oir
@@ -27909,7 +27864,7 @@ amenée
 à
 travailler
 en
-12h
+0h
 de
 nuit
 ce
@@ -27917,7 +27872,6 @@ petit
 moment
 détente
 de
-15
 min
 est
 savouré
@@ -28012,7 +27966,6 @@ même
 car
 durant
 les
-1015
 min
 de
 massage,
@@ -28604,7 +28557,6 @@ backupdate
 didn't
 use
 it
-10
 times
 and
 not
@@ -28751,7 +28703,7 @@ each
 took
 turns
 enjoying
-20minute
+0minute
 session
 while
 simply
@@ -29237,7 +29189,7 @@ of
 the
 screen
 time
-5star
+0star
 would
 recommend
 great

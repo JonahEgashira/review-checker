@@ -74,20 +74,17 @@ the
 range
 using
 bluetooth
-50
 is
 phenomenal
 they
 stay
 connected
 perhaps
-34
 times
 farther
 than
 my
 older
-42
 buds
 making
 phone
@@ -234,7 +231,6 @@ them
 watching
 tv
 for
-45
 hours
 at
 stretch
@@ -426,12 +422,12 @@ airpods
 against
 the
 jabra
-65t
+0t
 for
 while
 have
 pixel
-2,
+0,
 but
 neither
 of
@@ -450,7 +446,7 @@ found
 these
 with
 aptx,
-bt5,
+bt0,
 and
 all
 the
@@ -461,7 +457,7 @@ the
 newer
 qualcomm
 chipset
-qcc3026i
+qcc0i
 had
 to
 give
@@ -496,7 +492,7 @@ coming
 from
 the
 sennheiser
-hd450
+hd0
 btnc,
 these
 are
@@ -770,7 +766,6 @@ on
 my
 dell
 windows
-10
 laptop
 with
 an
@@ -870,7 +865,7 @@ in
 sea
 of
 other
-sub$60
+sub$0
 earbuds
 that
 are
@@ -1138,7 +1133,7 @@ music
 for
 more
 than
-3~4hrs
+0~0hrs
 without
 put
 it
@@ -1151,7 +1146,7 @@ and
 it
 still
 remains
-75%
+0%
 when
 check
 the
@@ -1221,7 +1216,7 @@ the
 jabra
 elite
 active
-65t
+0t
 still,
 always
 went
@@ -1230,7 +1225,6 @@ to
 my
 bose
 quietcontroll
-30
 until
 now,
 every
@@ -1358,7 +1352,7 @@ now
 i've
 bought
 some
-qcy/qy8
+qcy/qy0
 headphones
 while
 back
@@ -1506,11 +1500,10 @@ all
 their
 claims
 of
-10
 hours
 of
 battery,
-100ft
+0ft
 bt
 range,
 and
@@ -1648,7 +1641,7 @@ but
 what
 am
 averaging
-5060%
+0%
 volume
 on
 my
@@ -1685,13 +1678,12 @@ claims
 that
 you
 get
-10%
+0%
 better
 battery
 life
 with
 snapdragon
-845
 powered
 mobile
 phone
@@ -2031,7 +2023,7 @@ to
 connect
 to
 my
-s9
+s0
 plus
 putting
 them
@@ -2063,9 +2055,8 @@ my
 other
 twessummary:
 in
-2019
 at
-$140
+$0
 the
 airxs
 face
@@ -2092,7 +2083,6 @@ airpods
 case
 is
 about
-09
 thick,
 where
 the
@@ -2126,12 +2116,11 @@ which
 are
 now
 under
-$80about
+$0about
 me:
 have
 at
 least
-10
 bluetooth
 headphones
 around
@@ -2189,10 +2178,10 @@ and
 own
 us
 version
-s9+
+s0+
 with
 sd
-845,
+0,
 which
 is
 why
@@ -2205,7 +2194,7 @@ headphones
 are
 the
 sony
-xm3s,
+xm0s,
 which
 probably
 listen
@@ -2257,7 +2246,7 @@ they
 re
 only
 about
-$80
+$0
 but
 then
 saw
@@ -2398,7 +2387,6 @@ which
 even
 with
 bt
-42
 delivers
 really
 stable
@@ -2417,9 +2405,7 @@ buds
 to
 your
 sd
-845
 or
-855
 phone
 this
 is
@@ -3086,11 +3072,11 @@ right
 bud
 battery
 around
-50%
+0%
 so,
 at
 about
-3050%
+0%
 volume
 ten
 hours
@@ -3107,10 +3093,9 @@ case
 battery
 life
 from
-100%
+0%
 to
 about
-8090
 percent
 to
 flasheswrapup:
@@ -3155,7 +3140,7 @@ something
 from
 more
 established
-brand2
+brand0
 week
 update:
 had
@@ -3168,7 +3153,6 @@ whole
 day
 with
 nearly
-12
 hours
 of
 music
@@ -3176,7 +3160,7 @@ playing
 constantly
 at
 about
-50%
+0%
 volume
 the
 left
@@ -3188,7 +3172,7 @@ to
 my
 phone
 reported
-2%
+0%
 battery
 life
 around
@@ -3213,7 +3197,7 @@ after
 it
 connected
 showed
-72%
+0%
 battery
 listened
 to
@@ -3250,9 +3234,8 @@ right's
 battery
 at
 about
-50%
+0%
 after
-12
 hours
 so,
 the
@@ -3325,7 +3308,7 @@ the
 case
 case
 at
-60%
+0%
 overnight
 charged
 them
@@ -3333,7 +3316,7 @@ up
 fully
 with
 about
-30%
+0%
 case
 battery
 still
@@ -3345,7 +3328,7 @@ now
 being
 sold
 at
-$125,
+$0,
 which
 is
 seriously
@@ -3378,7 +3361,6 @@ live
 up
 to
 it's
-10
 hours
 never
 bothered
@@ -3388,7 +3370,7 @@ than
 hoursi
 had
 about
-25%
+0%
 left
 and
 the
@@ -3478,7 +3460,7 @@ guides
 yes
 there
 is
-2,
+0,
 the
 one
 under
@@ -3527,7 +3509,7 @@ on
 my
 great
 sennheiser
-m2's
+m0's
 are
 just
 not
@@ -3616,7 +3598,7 @@ to
 my
 samsung
 galaxy
-s8
+s0
 thought
 it
 was
@@ -3742,7 +3724,7 @@ it
 much,
 but
 the
-ipx5
+ipx0
 rating
 seems
 to
@@ -3944,7 +3926,7 @@ tips
 slight
 soreness
 after
-2+
+0+
 hours,
 but
 much
@@ -4383,7 +4365,6 @@ and
 use
 daily
 for
-46
 hours
 day,
 but
@@ -4455,7 +4436,7 @@ miss
 genuinely
 perfect
 product
-$89
+$0
 bucks
 new
 earbuds
@@ -4557,7 +4538,7 @@ with
 my
 daughters
 jabra
-65t
+0t
 elite
 actives
 minus
@@ -4702,7 +4683,7 @@ all
 my
 boxes
 for
-$89
+$0
 bucksi
 inquired
 to
@@ -4719,7 +4700,7 @@ on
 amazon
 listed
 for
-$209,
+$0,
 whetheror
 not
 these
@@ -4735,7 +4716,7 @@ no
 difference
 between
 their
-$209
+$0
 ship
 from
 jp
@@ -4745,7 +4726,7 @@ hot
 sale
 pricing
 of
-$89
+$0
 in
 us"sure
 enough,
@@ -4876,7 +4857,6 @@ can't
 wait
 for
 version
-20
 i've
 tried
 few
@@ -4968,9 +4948,9 @@ listen
 to
 amazon
 music,
-60's,
-70',
-80's
+0's,
+0',
+0's
 musicsome
 club
 music
@@ -4985,7 +4965,7 @@ as
 good
 as
 the
-$300
+$0
 pair
 of
 bose
@@ -5038,7 +5018,7 @@ of
 memory
 foam
 tips
-56mm
+0mm
 inlet
 for
 better
@@ -5099,7 +5079,6 @@ these
 buds
 the
 manufacturer's
-100
 feet
 bluetooth
 connectivity
@@ -5112,7 +5091,6 @@ open
 space
 observed
 roughly
-35
 feet
 indoor
 walk
@@ -5146,7 +5124,7 @@ deal
 unlike
 the
 mifo
-05,
+0,
 which
 liked
 very
@@ -5162,7 +5140,7 @@ to
 return
 two
 units
-mifo05
+mifo0
 due
 to
 pairing
@@ -5178,7 +5156,7 @@ resistance
 but
 they're
 rated
-ipx5
+ipx0
 don't
 think
 you
@@ -5473,7 +5451,7 @@ no
 but
 they
 sound
-95%
+0%
 as
 good
 ,
@@ -5598,7 +5576,6 @@ solid
 whether
 its
 bluetooth
-50
 or
 the
 fact
@@ -5790,7 +5767,6 @@ its
 stupid
 good
 the
-10
 hour
 claim
 per
@@ -5812,10 +5788,8 @@ note
 which
 has
 snapdragon
-845
 processor
 snapdragon
-845
 onward
 gets
 extra
@@ -6032,7 +6006,6 @@ length
 of
 time
 minutes
-10
 minutes
 they
 hurt
@@ -6099,7 +6072,6 @@ headset
 for
 the
 past
-15
 years
 beats
 held
@@ -6432,7 +6404,6 @@ are
 based
 on
 qualcomm
-3026
 chipset
 which
 is
@@ -6446,7 +6417,7 @@ good
 each
 earbud
 lasts
-9+
+0+
 hours
 playtime,
 actually
@@ -6478,7 +6449,7 @@ use
 each
 earbud
 approx
-4hrs
+0hrs
 day
 days
 week
@@ -6496,7 +6467,7 @@ math
 haha
 essentially
 get
-80+
+0+
 hours
 of
 playback
@@ -6899,7 +6870,6 @@ fatigue
 wore
 these
 on
-45
 hour
 flight
 plus
@@ -6934,7 +6904,7 @@ the
 battery
 read
 below
-50%
+0%
 and
 still
 haven't
@@ -6962,7 +6932,6 @@ flight
 wear
 them
 about
-15
 hrs
 day
 for
@@ -7181,7 +7150,7 @@ is
 on
 my
 note
-9,
+0,
 aptx
 protocol
 enabled
@@ -7194,7 +7163,6 @@ to
 sync
 up
 around
-1020
 seconds
 after
 the
@@ -7229,7 +7197,6 @@ able
 to
 wear
 them
-10
 hours
 straight
 ended
@@ -7274,7 +7241,7 @@ line,
 had
 the
 and
-x3
+x0
 models
 over
 the
@@ -7389,7 +7356,7 @@ center
 of
 my
 house
-~4000sq
+~0sq
 ft
 and
 go
@@ -7519,7 +7486,7 @@ so
 far
 it's
 about
-1/2
+0/0
 hours
 straight
 on
@@ -7552,7 +7519,6 @@ live
 up
 to
 the
-100
 ft
 range
 cons
@@ -7747,7 +7713,7 @@ the
 money
 only
 spent
-$140
+$0
 and
 have
 spent
@@ -7888,12 +7854,12 @@ in
 stock
 on
 the
-5th
+0th
 expecting
 delivery
 on
 the
-7th
+0th
 or
 later
 and
@@ -7901,7 +7867,7 @@ received
 them
 on
 the
-2ndmy
+0ndmy
 only
 complaint
 is
@@ -7936,7 +7902,7 @@ it
 to
 fit
 like
-have5/5
+have0/0
 hope
 these
 get
@@ -8095,7 +8061,7 @@ year
 ago
 the
 qualcomm
-qcc3026
+qcc0
 chip
 really,
 really
@@ -8136,7 +8102,6 @@ of
 both
 the
 bt
-50
 and
 the
 fact
@@ -8230,14 +8195,12 @@ features
 is
 that
 the
-qcc3026
+qcc0
 requires
 either
 the
 snapdragon
-845
 or
-855
 processor
 on
 board
@@ -8249,7 +8212,7 @@ fully
 utilized
 have
 lg
-g7
+g0
 thinq
 so
 my
@@ -8269,15 +8232,14 @@ two
 will
 have
 the
-845
 galaxy
-s9,
+s0,
 pixel
-3,
+0,
 oneplus
-6/6t,
+0/0t,
 xperia
-zx2/3
+zx0/0
 etc
 this
 may
@@ -8492,9 +8454,7 @@ you
 must
 have
 snapdragon
-845
 or
-855
 chipset
 for
 all
@@ -8567,7 +8527,7 @@ is
 pretty
 good
 about
-50ft
+0ft
 for
 me
 was
@@ -8576,7 +8536,7 @@ better
 but
 was
 only
-50ft
+0ft
 away
 to
 test
@@ -8585,7 +8545,7 @@ no
 reason
 to
 be
-50ft
+0ft
 away
 from
 your
@@ -8630,10 +8590,10 @@ like
 putting
 in
 earplugs
-por1
+por0
 was
 standing
-2ft
+0ft
 away
 from
 running
@@ -8653,11 +8613,11 @@ he
 could
 hear
 me
-clearly2
+clearly0
 fully
 charged
 in
-hours3
+hours0
 really
 small
 does
@@ -8673,7 +8633,7 @@ it
 on
 &
 fell
-sleep4
+sleep0
 has
 many
 different
@@ -8688,7 +8648,7 @@ so
 we
 never
 get
-confusedcon1
+confusedcon0
 battery
 indicator
 in
@@ -8698,7 +8658,7 @@ ear
 piece
 is
 bit
-confusing2
+confusing0
 control
 option
 doesn't
@@ -8706,11 +8666,11 @@ work
 when
 used
 as
-mono3
+mono0
 closing
 could
 be
-better4
+better0
 could
 use
 some
@@ -8871,7 +8831,7 @@ the
 earbud
 is
 over
-8mm
+0mm
 in
 diameter
 don't
@@ -8983,7 +8943,7 @@ considering
 they
 cost
 over
-$13000
+$0
 sound
 is
 important
@@ -8999,11 +8959,9 @@ no
 were
 close
 to
-100
 ft
 more
 like
-30
 but
 most
 of
@@ -9414,7 +9372,7 @@ the
 ear
 buds
 past
-65%
+0%
 unless
 it
 is
@@ -9513,7 +9471,6 @@ can't
 say
 that
 is
-100
 ft
 range,
 little
@@ -9875,7 +9832,7 @@ to
 replace
 my
 mifo
-o5
+o0
 would
 have
 to
@@ -9898,7 +9855,7 @@ buds
 only
 is
 not
-12hrs
+0hrs
 bought
 these
 specifically
@@ -9909,13 +9866,13 @@ runtime
 its
 more
 like
-75hrs
+0hrs
 have
 not
 tested
 the
 supposed
-80hr
+0hr
 recharge
 capability
 of
@@ -9938,10 +9895,10 @@ good
 as
 the
 mifo
-o5
+o0
 the
 mifo
-o5
+o0
 initial
 connecting
 was
@@ -9976,7 +9933,6 @@ them
 the
 battery
 lasted
-85
 hours
 at
 moderate
@@ -10000,7 +9956,7 @@ left
 earbud
 maintained
 its
-8+hour
+0+hour
 life
 hope
 that
@@ -10018,7 +9974,7 @@ with
 my
 jabra
 elite
-65t's
+0t's
 they
 need
 to
@@ -10183,7 +10139,7 @@ not
 like
 my
 jabra
-65t
+0t
 only
 problem
 is
@@ -10297,7 +10253,6 @@ for
 the
 range
 of
-100
 feet
 because
 that
@@ -10314,7 +10269,6 @@ start
 cutting
 out
 after
-30
 feet
 talk
 quality
@@ -10340,7 +10294,6 @@ and
 out
 so
 for
-14000
 i'm
 sending
 these
@@ -10709,7 +10662,6 @@ have
 only
 get
 about
-50
 ft
 on
 clear
@@ -10971,7 +10923,7 @@ company
 not
 answerand
 have
-1year
+0year
 warranty
 and
 its

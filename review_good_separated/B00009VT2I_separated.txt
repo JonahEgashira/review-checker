@@ -152,7 +152,6 @@ had
 in
 february
 of
-2015
 and
 have
 to
@@ -247,7 +246,7 @@ brite
 buds,
 short
 buds,
-1bud,
+0bud,
 and
 the
 like
@@ -352,20 +351,19 @@ this
 product
 the
 sony
-me83
+me0
 mono
 earphones
 code
-3m
-me83
+0m
+me0
 +
 monoprice
-107160
-35mm
+0mm
 stereo
 plug
 to
-35mm
+0mm
 mono
 jack
 adaptor
@@ -376,7 +374,7 @@ adaptor
 since
 the
 sony
-me83
+me0
 mono
 earphone
 is
@@ -493,7 +491,7 @@ use
 this
 product
 with
-35mm
+0mm
 mono
 jack
 adaptor
@@ -518,7 +516,6 @@ second
 order
 arrived
 almost
-10
 days
 earlier
 good
@@ -602,7 +599,7 @@ more
 good
 quality
 like
-the3
+the0
 meter
 cord
 good
@@ -631,7 +628,7 @@ as
 in
 more
 than
-6',
+0',
 which
 works
 well
@@ -681,7 +678,7 @@ like
 the
 old
 transistor
-9v
+0v
 radios
 from
 few
@@ -698,7 +695,7 @@ far
 and
 not
 being
-90°
+0°
 attachment,
 it
 is

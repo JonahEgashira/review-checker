@@ -6,7 +6,7 @@ even
 charges
 when
 your
-ps4
+ps0
 is
 on
 rest
@@ -21,7 +21,7 @@ mode
 見る
 見栄え
 いい
-普段ps4
+普段ps0
 あまり
 使う
 ずっと
@@ -34,9 +34,9 @@ mode
 なる
 満足
 steamゲーム用
-ps4コントローラー
+ps0コントローラー
 使用
-ps4コントローラー
+ps0コントローラー
 結構
 充電
 づらい
@@ -120,7 +120,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 wie
 erwartet
@@ -154,7 +154,7 @@ aus
 einfach
 an
 die
-ps4
+ps0
 stecken
 und
 es
@@ -336,7 +336,7 @@ gerät,
 was
 für
 die
-ps4
+ps0
 controller
 bestens
 geeignet
@@ -694,7 +694,7 @@ absolutes
 musthave
 für
 jeden
-ps4
+ps0
 besitzer,
 vor
 allem
@@ -738,10 +738,10 @@ ladestation
 direkt
 in
 die
-ps4
+ps0
 anschließen
 kannfuer
-ps4
+ps0
 spieler
 eigentlich
 ein
@@ -824,7 +824,7 @@ ausan
 geklemmt
 an
 die
-ps4
+ps0
 lässt
 sich
 das
@@ -1007,12 +1007,12 @@ getestet
 wir
 haben
 sowohl
-ps4
-v1
+ps0
+v0
 controller
 wie
-ps4
-v2
+ps0
+v0
 controller
 im
 einsatz
@@ -1179,7 +1179,7 @@ kaufempfehlung
 geben
 j'ai
 une
-ps4
+ps0
 depuis
 quelques
 mois
@@ -1388,7 +1388,7 @@ das
 original
 für
 ca
-30,00€
+0,0€
 zu
 kaufenerfüllt
 seinen
@@ -1404,7 +1404,7 @@ ausgepackt,
 angeschlossen
 fertig
 zwei
-ps4wirelesscontroller
+ps0wirelesscontroller
 passen
 haargenau
 in
@@ -1546,7 +1546,7 @@ usb
 kabel
 ist
 mit
-1m
+0m
 länge
 immer
 noch
@@ -1865,7 +1865,7 @@ usb
 uitgang
 van
 de
-ps4
+ps0
 display
 is
 prettig,
@@ -2086,7 +2086,7 @@ que
 les
 manettes
 de
-ps4
+ps0
 des
 enfants
 traînent
@@ -2231,7 +2231,7 @@ steht
 schön
 neben
 der
-ps4
+ps0
 und
 die
 dinger
@@ -2342,7 +2342,7 @@ platz
 in
 anspruch
 nach
-1,5
+0,0
 jahren
 ging
 unsere
@@ -2363,7 +2363,7 @@ service
 super
 ladestation
 für
-ps4
+ps0
 controller
 funktioniert
 bis
@@ -2482,7 +2482,7 @@ utilisation
 de
 la
 version
-2020,
+0,
 j'ai
 pu
 constater
@@ -2769,7 +2769,7 @@ los
 mandos
 de
 la
-ps4
+ps0
 funciona
 perfecto
 finalmente
@@ -2892,7 +2892,7 @@ wir
 verwenden
 es
 für
-ps4
+ps0
 controllerlässt
 sich
 mit
@@ -3041,7 +3041,7 @@ günstiges
 ladegerät
 für
 die
-ps4controller
+ps0controller
 sie
 sind
 somit
@@ -3066,7 +3066,7 @@ besser
 sein
 hat
 ca
-1\2
+0\0
 std
 gedauert
 bis
@@ -3462,7 +3462,7 @@ läd
 leider
 erst
 unter
-70%
+0%
 akkustand
 genau
 so
@@ -3597,7 +3597,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 colis
 reçu
@@ -3748,7 +3748,7 @@ de
 recharger
 les
 manettes
-ps4
+ps0
 avait
 le
 fil
@@ -3890,7 +3890,6 @@ rapidement
 je
 recommande
 à
-200
 %
 sehr
 schnelle
@@ -3992,7 +3991,7 @@ bien
 coté
 de
 ma
-ps4,avec
+ps0,avec
 ce
 chargeur
 vos
@@ -4118,7 +4117,7 @@ manette
 se
 fait
 en
-1hla
+0hla
 manette
 tiens
 facilement
@@ -4209,7 +4208,7 @@ directement
 relié
 à
 la
-ps4
+ps0
 belle
 finition
 indicateur
@@ -4353,7 +4352,7 @@ charger
 simultanément
 manettes
 de
-ps4
+ps0
 avec
 charge
 rapide

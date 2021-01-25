@@ -57,8 +57,8 @@
 装用感
 良い
 快適
-2個購入
-1週間程度
+0個購入
+0週間程度
 使う
 ところ
 電波
@@ -78,7 +78,7 @@
 消灯
 接続
 とき
-90%
+0%
 フル
 充電
 充電器
@@ -188,7 +188,7 @@ __
 金
 返せる
 言う
-3回目
+0回目
 使用
 壊れる
 音
@@ -1366,7 +1366,7 @@ figured
 try
 them
 for
-$10
+$0
 since
 reviews
 looked
@@ -1400,7 +1400,6 @@ stays
 connected
 up
 to
-150
 ft
 battery
 life
@@ -1752,7 +1751,7 @@ cargado
 no
 dura
 ni
-1hr
+0hr
 your
 instructions
 manual
@@ -1810,7 +1809,7 @@ it
 only
 lasts
 about
-3hrs
+0hrs
 size
 is
 great
@@ -1870,7 +1869,7 @@ out
 pair
 with
 iphone
-6s
+0s
 plus
 it's
 was
@@ -2081,7 +2080,7 @@ for
 usa
 users
 came
-60%
+0%
 charged
 enough
 to
@@ -2092,7 +2091,7 @@ works
 amazon
 description
 stated
-x15
+x0
 but
 when
 pairing
@@ -2101,7 +2100,7 @@ shows
 device
 name
 was
-x12
+x0
 sound
 seems
 good
@@ -2130,7 +2129,7 @@ surprisei
 review
 can
 get
-2nd
+0nd
 device
 free
 perfect
@@ -2527,7 +2526,6 @@ last
 for
 at
 least
-45
 hours
 have
 of
@@ -2638,7 +2636,7 @@ the
 battery
 lasts
 about
-1/2
+0/0
 hours
 with
 the

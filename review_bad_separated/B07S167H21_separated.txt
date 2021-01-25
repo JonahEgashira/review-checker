@@ -335,7 +335,7 @@ wasn't
 expecting
 much
 from
-$20
+$0
 bluetooth
 headphones
 in
@@ -347,7 +347,6 @@ wore
 them
 for
 complete
-40
 minute
 elliptical
 workout
@@ -739,7 +738,7 @@ when
 taking
 off
 my
-40pound
+0pound
 backpack
 while
 traveling
@@ -758,10 +757,10 @@ who
 pay
 more
 than
-$50
+$0
 or
 even
-$100
+$0
 for
 wireless
 headphones
@@ -1007,7 +1006,6 @@ earbuds
 for
 just
 over
-10
 days
 nowoverall
 impressions
@@ -1184,13 +1182,12 @@ every
 secondsboltune
 bluetooth
 headphones,
-16
 hours
 playtime
-ipx7
+ipx0
 waterproof
 bluetooth
-v50
+v0
 wireless
 headphones
 i've
@@ -1493,7 +1490,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 initial
 reaction
@@ -1529,7 +1526,6 @@ phone
 was
 less
 than
-20
 seconds
 put
 on
@@ -1642,7 +1638,6 @@ favourites
 and
 highly
 recommended
-10
 stars
 really
 wanted
@@ -2038,7 +2033,6 @@ listen
 to
 music
 about
-46
 hours
 day
 at
@@ -2254,7 +2248,7 @@ for
 at
 least
 year
-overall7/10
+overall0/0
 it
 comes
 with
@@ -2282,7 +2276,7 @@ acceptable
 for
 gym
 ear
-fitting8/10
+fitting0/0
 it
 comes
 with
@@ -2340,7 +2334,7 @@ but
 not
 big
 deal
-design8/10
+design0/0
 quite
 thoughtful
 design
@@ -2370,7 +2364,7 @@ can
 go
 around
 neck
-usability10/10
+usability0/0
 iphone
 user
 might
@@ -2433,7 +2427,7 @@ quite
 solid
 ux
 sound
-quality7/10
+quality0/0
 volume
 range
 is
@@ -2500,8 +2494,8 @@ with
 flat
 eq
 setup
-price8/10
-$29
+price0/0
+$0
 worth
 of
 wireless
@@ -2510,14 +2504,14 @@ is
 not
 bad,
 assume
-5/10:
-~7w
+0/0:
+~0w
 of
 daily
 use
 of
 replacement
-1:
+0:
 device
 doesn't
 hold
@@ -2536,9 +2530,9 @@ via
 amazon
 messages
 for
-2nd
-replacement3/22
-~7w
+0nd
+replacement0/0
+~0w
 of
 daily
 use
@@ -2550,7 +2544,6 @@ failed
 to
 power
 on
-20
 days
 after
 amazon
@@ -2576,7 +2569,7 @@ unit
 was
 defectivepairs
 with
-2+
+0+
 devices
 simultaneously
 plays
@@ -2636,7 +2629,7 @@ are
 snug
 but
 not
-100%
+0%
 stable
 while
 running
@@ -2650,7 +2643,7 @@ run
 multiple
 timeswould
 give
-5/5
+0/0
 otherwise
 the
 chrome
@@ -2756,7 +2749,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 update
 blown
@@ -2786,9 +2779,8 @@ they
 were
 they
 offer
-12
 month
-100%
+0%
 customer
 satisfaction
 guarantee
@@ -2883,7 +2875,7 @@ ran
 anywhere
 between
 and
-20+
+0+
 miles
 in
 these
@@ -2988,7 +2980,7 @@ and
 blue,
 and
 boltune
-btbh001
+btbh0
 should
 pop
 up
@@ -3212,7 +3204,7 @@ my
 old
 sennheiser
 cx
-300ii
+0ii
 compare
 all
 my
@@ -3297,7 +3289,7 @@ in
 place
 of
 the
-$18
+$0
 best
 sellers
 sent
@@ -3515,9 +3507,7 @@ ran
 them
 them
 maybe
-15
 times
-20
 at
 the
 mosti
@@ -3541,7 +3531,7 @@ can't
 even
 make
 it
-1/2
+0/0
 yeari'm
 requesting
 that
@@ -4021,7 +4011,6 @@ rating,
 would
 give
 these
-45
 stars
 pros:great
 battery
@@ -4101,7 +4090,7 @@ made
 changes
 to
 the
-ipx7
+ipx0
 and
 sent
 new
@@ -4109,7 +4098,7 @@ pair
 of
 wireless
 earbuds
-bh020
+bh0
 as
 replacements
 it's
@@ -4138,7 +4127,7 @@ instant
 to
 my
 oneplus
-6t
+0t
 phone
 these
 sound
@@ -4483,14 +4472,14 @@ pair
 of
 airpod
 pros
-$250
+$0
 and
 purchased
 the
 boltune
 bluetooth
 headphones
-$25
+$0
 totally
 different
 price
@@ -4641,7 +4630,7 @@ can
 lose
 connection
 beyond
-25'
+0'
 my
 spouse's
 airpod
@@ -4696,7 +4685,6 @@ extended
 work
 day
 over
-16
 hrs
 i've
 had
@@ -4709,7 +4697,6 @@ those
 days
 i've
 gotten
-812
 hours
 of
 use
@@ -4731,7 +4718,7 @@ use
 on
 changeoverall,
 for
-$25
+$0
 pair
 of
 bluetooth
@@ -5815,7 +5802,7 @@ think
 so
 far:sound
 quality:
-4/5
+0/0
 don
 know
 ton
@@ -5873,7 +5860,7 @@ when
 music
 is
 playingfit:
-4/5
+0/0
 these
 feel
 pretty
@@ -5938,7 +5925,7 @@ pair
 of
 skullcandy
 earbudsbattery:
-5/5
+0/0
 the
 battery
 life
@@ -5952,13 +5939,12 @@ farmine
 do
 have
 the
-16hour
+0hour
 battery
 life
 advertised
 got
 around
-15
 hours
 out
 of
@@ -6322,7 +6308,6 @@ have
 your
 phone
 within
-2030
 ft
 of
 you
@@ -6364,7 +6349,7 @@ in
 my
 cart
 and
-80$
+0$
 more
 update
 read
@@ -6444,7 +6429,6 @@ these
 had
 the
 last
-10
 months,
 then
 it
@@ -6544,7 +6528,7 @@ and
 no
 change,
 but
-1star
+0star
 review
 is
 just
@@ -6562,7 +6546,7 @@ really
 addicted
 to
 or
-5star
+0star
 reviews,
 and
 that
@@ -6834,7 +6818,6 @@ your
 phone
 anywhere
 within
-25
 feet
 or
 probably
@@ -7198,11 +7181,11 @@ really
 like
 about
 these
-headphones:1
+headphones:0
 the
 magnetic
 featuresuper
-convenient2
+convenient0
 the
 simplicity
 and
@@ -7212,14 +7195,14 @@ use
 on
 the
 control
-bar3
+bar0
 the
 instructional
 manual
 is
 very
 straight
-forward4
+forward0
 the
 ear
 pieces
@@ -7244,7 +7227,7 @@ of
 the
 earbuds
 see
-pictures5
+pictures0
 likewise,
 the
 earbuds
@@ -7262,13 +7245,12 @@ their
 respective
 sides
 see
-pictures6
+pictures0
 the
 warranty
 it
 comes
 with
-12
 month
 warranty,
 and
@@ -7281,11 +7263,10 @@ of
 extending
 that
 to
-30
 months
 which
 absolutely
-recommend7
+recommend0
 noisecancelling
 or
 at
@@ -7294,7 +7275,7 @@ as
 far
 as
 can
-tell8
+tell0
 once
 connected,
 your
@@ -7331,7 +7312,7 @@ of
 the
 headphonessomething
 to
-improve:1
+improve:0
 know
 this
 is
@@ -7533,14 +7514,14 @@ if
 you
 get
 the
-$3
+$0
 year
 protection
 plan
 from
 amazon
 for
-$3
+$0
 you
 have
 ease
@@ -7752,7 +7733,7 @@ was
 put
 on
 hold
-covid19
+covid0
 related
 as
 many
@@ -8555,7 +8536,6 @@ for
 my
 needs,
 usually
-78
 hours
 at
 time
@@ -8755,7 +8735,6 @@ have
 to
 charge
 every
-34
 days
 i'm
 impressed,
@@ -8883,7 +8862,7 @@ they
 have
 more
 than
-50%
+0%
 battery
 to
 go
@@ -9447,7 +9426,7 @@ to
 hold
 charge
 for
-12+
+0+
 hours
 impressive
 have
@@ -9536,7 +9515,7 @@ different
 sets
 that
 advertised
-6,7,8
+0,0,0
 hours
 of
 life
@@ -9549,7 +9528,6 @@ always
 about
 the
 same
-45
 hours
 of
 battery
@@ -9602,7 +9580,7 @@ yesterday,
 and
 had
 about
-70%
+0%
 charge
 so
 started
@@ -9741,14 +9719,13 @@ started
 another
 test
 around
-11pm,
+0pm,
 played
 tunes
 all
 night,
 and
 at
-11
 am
 they
 were
@@ -9784,7 +9761,7 @@ but
 their
 claim
 of
-16+
+0+
 hours
 of
 playback
@@ -9911,7 +9888,7 @@ to
 even
 using
 up
-50%
+0%
 of
 the
 battery
@@ -9978,7 +9955,7 @@ pretty
 good
 for
 under
-$30
+$0
 they
 have
 plenty
@@ -10121,7 +10098,7 @@ worth
 it
 for
 under
-$30
+$0
 pros
 very
 good
@@ -10138,7 +10115,7 @@ and
 mostly
 up
 to
-30%
+0%
 sound
 is
 already
@@ -10281,13 +10258,13 @@ the
 price,
 would
 considered
-$30
+$0
 dollars
 bit
 overpriced,
 but
 with
-$10
+$0
 discount
 coupon
 it
@@ -10710,7 +10687,7 @@ one
 available
 everywhere
 need
-one1
+one0
 have
 terrible
 sweaty
@@ -10744,16 +10721,16 @@ it
 is
 not
 at
-all2
+all0
 the
 sound
 is
-amazing3
+amazing0
 super
 light,
 bearly
 feel
-them4
+them0
 battery
 life
 is
@@ -10770,14 +10747,14 @@ them
 last,
 im
 very
-pleased5
+pleased0
 had
 lg
 before,
 bought
 for
 around
-$100,
+$0,
 and
 these
 one
@@ -10785,7 +10762,7 @@ are
 by
 far
 the
-best6
+best0
 lets
 not
 talk
@@ -10799,7 +10776,7 @@ anything
 better
 for
 this
-price7
+price0
 forgot,
 they
 are
@@ -10829,7 +10806,7 @@ isn't
 amazing,
 but
 they're
-$30
+$0
 don't
 expect
 the
@@ -11182,7 +11159,7 @@ try
 these
 before
 spent
-$200
+$0
 am
 so
 glad
@@ -11766,7 +11743,7 @@ life
 instead
 of
 the
-41/2
+0/0
 hours
 get
 with
@@ -11988,7 +11965,7 @@ advertised
 as
 noise
 cancelling—there
-$38
+$0
 pair
 by
 boltune
@@ -12019,7 +11996,7 @@ was
 chosen
 to
 receive
-$10
+$0
 amazon
 gift
 card
@@ -12388,7 +12365,7 @@ to
 be
 at
 least
-30ft
+0ft
 in
 different
 rooms
@@ -12505,7 +12482,6 @@ to
 podcasts
 while
 walk
-6090
 minutes
 in
 the
@@ -12894,7 +12870,6 @@ but
 nothing
 detrimentalwith
 ios
-14
 the
 battery
 level
@@ -13145,7 +13120,7 @@ months
 on
 my
 new
-a71
+a0
 samsung
 phone
 and
@@ -13730,7 +13705,7 @@ low
 price
 and
 have
-16hour
+0hour
 battery
 life
 that
@@ -13877,7 +13852,7 @@ want
 to
 spend
 over
-$100
+$0
 on
 apple
 air
@@ -14084,7 +14059,7 @@ they
 are
 all
 of
-10+
+0+
 hours
 on
 charge
@@ -14270,7 +14245,6 @@ yesterday
 did
 cardio
 for
-40
 minutes
 and
 they
@@ -14367,7 +14341,7 @@ since
 they
 are
 wireless
-10/10
+0/0
 recommend
 i've
 never
@@ -14593,7 +14567,6 @@ bt
 to
 my
 iphone
-11
 promax
 the
 magnetic
@@ -14889,7 +14862,7 @@ into
 the
 evening,
 listening
-5080%
+0%
 of
 that
 timeedited:
@@ -14977,7 +14950,6 @@ and
 still
 be
 above
-25
 percent
 the
 ear
@@ -15115,13 +15087,13 @@ battery
 has
 lasted
 weeks
-~10
+~0
 hours
 and
 is
 only
 at
-50%
+0%
 they
 connect
 to
@@ -15164,7 +15136,7 @@ bluetooth
 headphones
 costing
 around
-$25
+$0
 you
 can
 go
@@ -15217,7 +15189,6 @@ is
 pretty
 close
 to
-16
 hours
 depending
 on
@@ -15249,7 +15220,6 @@ outside
 and
 cars
 within
-15
 feet
 could
 barely
@@ -15298,7 +15268,6 @@ an
 extended
 warranty
 to
-30
 months
 by
 registering
@@ -15598,7 +15567,7 @@ up
 on
 sale
 for
-$20
+$0
 these
 are
 very
@@ -15636,7 +15605,7 @@ extraneous
 soundsthey
 came
 with
-90%
+0%
 charge,
 which
 was
@@ -15647,7 +15616,7 @@ easily
 with
 my
 pixel
-2xlone
+0xlone
 thing
 didn't
 notice
@@ -15777,7 +15746,6 @@ for
 me
 was
 the
-16
 hrs
 play
 time
@@ -15851,7 +15819,6 @@ book
 listener
 for
 almost
-20
 years
 can
 count
@@ -15899,11 +15866,11 @@ all
 day,
 weather
 buy
-$200
+$0
 dollar
 pair
 or
-$30
+$0
 pairwell,
 these
 headphones
@@ -15966,7 +15933,7 @@ using
 them
 from
 around
-10am
+0am
 to
 around
 midnight
@@ -15994,8 +15961,8 @@ headphones
 before
 previously
 bought
-$43
-mx10
+$0
+mx0
 headphones
 and
 they
@@ -16128,7 +16095,7 @@ make
 sure
 they're
 at
-100%
+0%
 when
 need
 themoverall,
@@ -16212,7 +16179,6 @@ it
 worked
 for
 solid
-34
 weeks
 and
 went
@@ -16610,7 +16576,7 @@ that
 retailed
 for
 approximately
-$99
+$0
 that
 headset
 had
@@ -16747,12 +16713,12 @@ out
 of
 my
 ears,
-2nd
+0nd
 they
 have
 quality
 sound,
-3rd
+0rd
 the
 lasting
 charge
@@ -16768,7 +16734,7 @@ playing
 when
 wake
 hours
-later:4th
+later:0th
 with
 them
 being
@@ -16949,7 +16915,6 @@ so
 far,
 and
 estimate
-20
 hours
 of
 audiobooks
@@ -16961,7 +16926,6 @@ with
 them
 the
 advertised
-16
 hours
 of
 playtime
@@ -17498,7 +17462,7 @@ own
 pair
 of
 jaybird
-x4
+x0
 headphones,
 which
 loved
@@ -17529,7 +17493,7 @@ as
 good
 as
 jaybird
-x4
+x0
 however,
 given
 the
@@ -17577,7 +17541,7 @@ move
 around
 the
 jaybird
-x4
+x0
 had
 adjustable
 wings
@@ -17604,7 +17568,6 @@ light
 that
 blinks
 every
-15
 seconds
 or
 so
@@ -17661,7 +17624,7 @@ and
 it's
 still
 at
-60%
+0%
 magnetic
 thingies:
 when
@@ -17745,7 +17708,6 @@ does
 meet
 the
 expected
-16
 hours
 they
 have
@@ -17796,7 +17758,6 @@ break
 in
 the
 next
-90
 days
 if
 something
@@ -18159,7 +18120,7 @@ wireless
 earbuds
 were
 the
-powerbeats3,
+powerbeats0,
 so
 was
 pretty
@@ -18182,7 +18143,7 @@ had
 accidently
 put
 the
-powerbeats3
+powerbeats0
 into
 the
 dryer
@@ -18313,7 +18274,7 @@ lasted
 from
 am
 to
-10:30
+0:0
 pm
 for
 me
@@ -18435,7 +18396,7 @@ acha,
 and
 helping
 with
-18u
+0u
 scrimmages,
 which
 they
@@ -18488,7 +18449,7 @@ coach,
 tending
 net
 at
-41yrs
+0yrs
 old
 tending
 versus
@@ -18786,7 +18747,7 @@ do
 you
 expect
 for
-$30
+$0
 earbuds
 you
 can't
@@ -18972,7 +18933,7 @@ great
 buy
 for
 under
-$30
+$0
 tried
 three
 different
@@ -19074,7 +19035,6 @@ life,
 use
 them
 for
-24
 hours
 straight
 and
@@ -19536,7 +19496,6 @@ had
 been
 using
 since
-2018
 was
 hesitant
 to
@@ -19626,7 +19585,7 @@ them
 with
 my
 galaxy
-s9
+s0
 simply
 hold
 the
@@ -19682,7 +19641,7 @@ intensity
 run
 for
 around
-30mins,
+0mins,
 am
 happy
 to
@@ -19760,7 +19719,7 @@ comfortable
 level
 is
 around
-25%33%
+0%0%
 at
 most
 of
@@ -19949,7 +19908,7 @@ as
 good
 as
 my
-$100
+$0
 wired
 earbuds
 that
@@ -20132,7 +20091,7 @@ quality
 for
 less
 than
-$30
+$0
 received
 these
 earphones
@@ -20189,7 +20148,7 @@ the
 box,
 these
 lasted
-~14hrs,
+~0hrs,
 though
 may
 be
@@ -20202,7 +20161,7 @@ to
 time
 it
 accurately
-225hrs
+0hrs
 to
 charge
 fully
@@ -20221,7 +20180,7 @@ among
 models
 in
 the
-$30
+$0
 rangethe
 charging
 cord
@@ -20435,7 +20394,7 @@ as
 good
 as
 the
-$200+
+$0+
 headphonesthe
 sound
 quality
@@ -20943,7 +20902,7 @@ broke
 my
 most
 recent
-$10
+$0
 pair,
 my
 husband
@@ -21021,7 +20980,7 @@ quality
 to
 my
 husband's
-$200
+$0
 pair
 the
 cord
@@ -21163,7 +21122,7 @@ another
 this
 is
 my
-2nd
+0nd
 set
 of
 these
@@ -21211,7 +21170,7 @@ would
 receive
 them
 on
-july13
+july0
 now,
 there
 is
@@ -21851,7 +21810,6 @@ but
 use
 it
 for
-24
 hours
 continuously
 and
@@ -22019,13 +21977,12 @@ and
 they
 still
 have
-~80%
+~0%
 charge
 hopefully
 this
 keeps
 upbluetooth
-50
 is
 quick
 to
@@ -22041,7 +21998,7 @@ low
 lag
 when
 watching
-videosipx7
+videosipx0
 waterproofing
 means
 they
@@ -22717,7 +22674,6 @@ which
 takes
 all
 of
-10
 seconds
 but
 it
@@ -22953,7 +22909,7 @@ purchased
 them
 in
 january
-2020,
+0,
 and
 wore
 them
@@ -22970,8 +22926,8 @@ fell
 sleep
 yesterday
 nov
-2,
-2020,
+0,
+0,
 the
 right
 side
@@ -23852,7 +23808,6 @@ remodeling
 my
 house
 the
-16
 hour
 battery
 life
@@ -23868,7 +23823,6 @@ takes
 any
 where
 from
-24
 hours
 for
 full
@@ -23889,7 +23843,6 @@ and
 you
 have
 about
-10
 minutes
 left
 until
@@ -24049,11 +24002,11 @@ product
 my
 jabra
 elite
-65t
+0t
 are
 my
 current
-5star
+0star
 benchmark
 for
 music
@@ -24155,9 +24108,9 @@ four
 headphones
 ranging
 from
-$30
+$0
 to
-$200
+$0
 and
 have
 returned
@@ -24173,7 +24126,7 @@ especially
 disappointed
 with
 the
-$200
+$0
 set;
 really
 haven't
@@ -24726,7 +24679,6 @@ it
 works
 more
 than
-16
 hrs
 with
 all
@@ -24739,7 +24691,7 @@ pricestrongly
 recommend
 for
 under
-$30,
+$0,
 these
 are
 great
@@ -24778,7 +24730,7 @@ won't
 fall
 outfour
 stars
-because:1
+because:0
 they
 cannot
 be
@@ -24811,7 +24763,7 @@ charge
 and
 use
 them
-simultaneously2
+simultaneously0
 sound
 quality
 is
@@ -24861,7 +24813,6 @@ acceptable
 the
 seller
 offers
-20
 dollar
 gift
 card
@@ -25377,13 +25328,13 @@ as
 good
 as
 advertised,
-~14
+~0
 hrs
 charging
 time
 as
 advertised,
-~90
+~0
 minutes
 for
 full
@@ -25768,7 +25719,7 @@ my
 computer
 am
 receiving
-$2000
+$0
 dollar
 gift
 card
@@ -26443,7 +26394,7 @@ monththis
 is
 about
 the
-10th
+0th
 pair
 of
 bluetooth
@@ -26477,7 +26428,6 @@ try
 to
 stay
 around
-20
 bucks
 this
 is
@@ -26587,7 +26537,6 @@ battery
 life
 is
 solid
-68
 hours
 they
 fit
@@ -26730,7 +26679,7 @@ price
 put
 them
 under
-$20
+$0
 when
 picked
 them
@@ -27033,7 +26982,7 @@ for
 the
 other,
 no
-solution1
+solution0
 the
 earphones
 did
@@ -27110,7 +27059,6 @@ the
 on
 button
 for
-2030
 seconds
 and
 restarted
@@ -27119,7 +27067,7 @@ phone
 it
 works
 fine
-now2
+now0
 the
 other
 more
@@ -27309,7 +27257,6 @@ battery
 life
 yet,
 but
-15
 hours
 didn't
 really
@@ -27329,7 +27276,6 @@ up
 i've
 been
 getting
-36
 months
 out
 of
@@ -27389,7 +27335,6 @@ the
 battery
 lasts
 about
-13
 hours
 what
 like
@@ -27633,7 +27578,7 @@ them
 to
 everybody
 for
-$28
+$0
 they
 are
 steal
@@ -27917,7 +27862,6 @@ earphones
 was
 little
 longer
-23
 inches
 would
 work
@@ -28044,7 +27988,6 @@ this
 sometime
 late
 february
-2020
 lasted
 for
 months
@@ -28180,7 +28123,7 @@ that
 last
 longer
 than
-$10
+$0
 gift
 cardfor
 those
@@ -28451,7 +28394,7 @@ this
 headphones
 for
 my
-70yo
+0yo
 mom
 she
 loves
@@ -28634,7 +28577,6 @@ for
 bluetooth,
 well
 over
-50
 feetupdate:
 the
 seller
@@ -28905,7 +28847,6 @@ use
 them
 for
 over
-10
 hours
 before
 charged
@@ -29118,7 +29059,7 @@ this
 review
 is
 for
-btbh001
+btbh0
 pro
 which
 is
@@ -29126,7 +29067,7 @@ the
 upgrade
 to
 the
-btbh001
+btbh0
 my
 first
 review
@@ -29186,10 +29127,9 @@ stars
 purchased
 my
 boltune
-btbh001
+btbh0
 in
 february
-2020
 and
 could
 not
@@ -29297,7 +29237,6 @@ then
 fully
 is
 about
-16
 hrs
 the
 light
@@ -29739,7 +29678,6 @@ run
 only
 made
 it
-50
 feet
 before
 they
@@ -29791,7 +29729,6 @@ but
 used
 them
 for
-20
 seconds
 before
 they
@@ -29855,7 +29792,7 @@ fork
 out
 at
 least
-$75
+$0
 more
 for
 other
@@ -30186,7 +30123,7 @@ so
 nice
 bought
 them
-12/11/19
+0/0/0
 and
 today
 they
@@ -30778,7 +30715,7 @@ like
 to
 pay
 almost
-$30
+$0
 for
 such
 product
@@ -31148,7 +31085,6 @@ get
 week
 of
 workouts
-60
 min
 each
 outta
@@ -31213,7 +31149,7 @@ wasn't
 expecting
 much
 from
-$20
+$0
 bluetooth
 headphones
 but
@@ -31308,7 +31244,7 @@ money
 original
 review
 september
-2020:
+0:
 not
 for
 small
@@ -31321,7 +31257,7 @@ the
 smaller
 earpiecesreview
 october
-2020:
+0:
 amazing
 customer
 service
@@ -31815,7 +31751,7 @@ there,
 this
 is
 the
-3rd
+0rd
 set
 of
 boltune
@@ -32481,7 +32417,6 @@ from
 his
 phone
 about
-35
 ft,
 the
 connection
@@ -33277,7 +33212,6 @@ battery
 life
 is
 solid
-16
 hours
 do
 not
@@ -33484,14 +33418,14 @@ beats
 and
 after
 the
-2nd
+0nd
 pair
 broke
 didn
 want
 to
 pay
-$100+
+$0+
 so
 bought
 these
@@ -33679,7 +33613,7 @@ to
 my
 samsung
 galaxy
-s9
+s0
 have
 worn
 them
@@ -33754,8 +33688,7 @@ outside
 of
 earbud
 is
-24
-1/4"
+0/0"
 took
 the
 wing
@@ -33909,7 +33842,7 @@ this
 would
 go
 for
-$150
+$0
 brand
 by
 company
@@ -33935,7 +33868,7 @@ meal
 the
 base
 is
-5/5
+0/0
 for
 anyone
 that's
@@ -34057,7 +33990,7 @@ had
 pair
 of
 phaiser
-bhs730s
+bhs0s
 that
 finally
 kicked
@@ -34084,7 +34017,6 @@ is
 superb,
 and
 the
-16
 hour
 battery
 life
@@ -34212,7 +34144,7 @@ value
 was
 considering
 purchasing
-$200+
+$0+
 earbuds
 for
 my
@@ -34286,7 +34218,7 @@ point
 noise
 cancellation
 isn't
-100%,
+0%,
 but
 it's
 about
@@ -34344,7 +34276,6 @@ my
 tv
 has
 bluetooth
-50
 capability
 and
 so
@@ -34544,7 +34475,7 @@ me
 with
 about
 an
-8hour
+0hour
 charge
 life
 knowing
@@ -34661,7 +34592,6 @@ me
 and
 took
 about
-30
 practice
 swings
 pleased
@@ -34709,7 +34639,6 @@ of
 earbuds
 for
 under
-30
 bucks
 the
 battery
@@ -34742,7 +34671,7 @@ arrived
 they
 were
 at
-50%
+0%
 when
 charged
 them
@@ -34753,7 +34682,7 @@ only
 made
 it
 to
-60%
+0%
 my
 husband
 has
@@ -34763,7 +34692,7 @@ pair
 and
 said
 that
-60%
+0%
 would
 last
 hours
@@ -34777,22 +34706,20 @@ me
 and
 they
 died
-30
 minutes
 later
 after
 they
 charged
 to
-90%
-15
+0%
 minutes
 of
 listening
 brought
 them
 to
-60%
+0%
 if
 they
 are
@@ -35136,8 +35063,7 @@ used
 this
 since
 april
-15,
-2020
+0,
 and
 think
 this
@@ -35213,7 +35139,6 @@ then
 it
 depleted
 only
-30
 percent
 of
 battery
@@ -35318,7 +35243,7 @@ them
 at
 an
 overall
-45,
+0,
 though
 will
 update
@@ -35346,7 +35271,6 @@ week
 alternating
 between
 &
-10
 on
 my
 run/walks
@@ -35415,7 +35339,7 @@ what
 you
 expect
 from
-$30
+$0
 headphones
 good
 enough,
@@ -35483,7 +35407,6 @@ full
 charge
 after
 about
-45
 minutes
 of
 use
@@ -35494,7 +35417,6 @@ if
 they
 truly
 last
-16
 hours
 purchased
 for
@@ -35533,7 +35455,6 @@ thus
 far
 was
 for
-75
 hours
 and
 charge
@@ -35656,7 +35577,6 @@ where
 it
 takes
 about
-510
 seconds
 before
 you
@@ -35730,7 +35650,7 @@ from
 my
 aging
 skullcandy
-sb2s
+sb0s
 more
 battery
 life,
@@ -35958,7 +35878,6 @@ used
 it
 for
 over
-15
 hours
 when
 the
@@ -35966,7 +35885,6 @@ battery
 is
 dying
 have
-10
 minutes
 left
 before
@@ -36012,8 +35930,8 @@ pause,
 forward,
 rewind
 by
-1,
-2,
+0,
+0,
 or
 presses
 this
@@ -36532,7 +36450,6 @@ bluetooth
 earbuds
 about
 every
-18
 months
 was
 going
@@ -36660,7 +36577,6 @@ my
 original
 pair
 lasted
-1516
 hrs
 day
 days
@@ -37161,13 +37077,13 @@ other
 pair,
 one
 at
-4x
+0x
 the
 price
 and
 another
 at
-7x
+0x
 the
 price
 they
@@ -37279,7 +37195,7 @@ pair
 of
 these
 about
-10months
+0months
 ago
 and
 decided
@@ -37300,7 +37216,7 @@ them
 everyday
 for
 my
-8hr
+0hr
 shift
 and
 they
@@ -37590,7 +37506,6 @@ for
 my
 wifei
 work
-10
 hour
 night
 shifts
@@ -37614,7 +37529,6 @@ and
 last
 the
 entire
-10
 shift
 on
 one
@@ -37699,15 +37613,15 @@ favorite
 so
 far
 what
-love:1
+love:0
 low
-price2
+price0
 great
-sound3
+sound0
 stay
 in
 my
-ears4
+ears0
 easy
 pairingthese
 arrived
@@ -37917,7 +37831,7 @@ does
 not
 work
 with
-1/8
+0/0
 inch
 jacki've
 been
@@ -38544,7 +38458,7 @@ finished
 they
 still
 had
-80%
+0%
 battery
 life
 left
@@ -38692,7 +38606,6 @@ quality
 for
 more
 than
-10
 hours
 of
 music
@@ -38740,7 +38653,6 @@ can
 be
 play
 over
-10
 hours,
 greatthird,
 it
@@ -39032,12 +38944,12 @@ them
 or
 give
 me
-$40
+$0
 credit
 paid
 less
 than
-$40
+$0
 for
 them
 their
@@ -39351,7 +39263,7 @@ really
 fast
 overall
 for
-$25
+$0
 these
 are
 really
@@ -39477,7 +39389,7 @@ had
 with
 these
 headphones
-1st
+0st
 the
 cord
 is
@@ -39808,7 +39720,7 @@ you
 can
 get
 with
-$200+
+$0+
 headphones
 haven't
 tested
@@ -39897,7 +39809,6 @@ and
 the
 price
 work
-1213
 hour
 shifts
 and
@@ -40009,7 +39920,7 @@ connected
 to
 my
 samsung
-a20
+a0
 they
 do
 tell
@@ -40057,7 +39968,6 @@ great
 the
 battery
 lasts
-16
 hours
 on
 one
@@ -40276,7 +40186,7 @@ based
 on
 the
 many
-5star
+0star
 reviews
 overall,
 these
@@ -40288,7 +40198,7 @@ can't
 quite
 give
 them
-5stars
+0stars
 starting
 with
 the
@@ -40508,7 +40418,6 @@ earbuds,
 some
 well
 over
-6000
 yes
 know,
 they
@@ -40539,7 +40448,7 @@ the
 headphones
 died
 after
-5mo
+0mo
 they
 were
 polite,
@@ -41071,7 +40980,7 @@ they
 have
 all
 been
-86'd
+0'd
 due
 to
 sucking
@@ -41172,7 +41081,6 @@ getting
 battery
 low
 after
-12
 hrs
 use
 so
@@ -41656,7 +41564,6 @@ i've
 gotten
 close
 to
-20
 hours
 of
 use
@@ -41868,7 +41775,6 @@ headphones,
 these
 don't
 have
-100
 buttons,
 just
 three
@@ -42083,7 +41989,7 @@ following
 day
 it
 became
-80%i
+0%i
 also
 faced
 another
@@ -42388,7 +42294,7 @@ incapable
 of
 exceeding
 about
-50%,
+0%,
 even
 when
 set
@@ -42508,7 +42414,6 @@ battery
 lasting
 at
 least
-12
 hours
 the
 sound
@@ -42902,7 +42807,6 @@ music
 throughout
 wall
 i'm
-28
 and
 have
 used
@@ -42934,7 +42838,7 @@ and
 pair
 of
 wireless
-20's
+0's
 the
 pro
 version
@@ -42943,7 +42847,7 @@ little
 better,
 but
 the
-20s
+0s
 are
 way
 better
@@ -43032,7 +42936,6 @@ using
 these
 for
 last
-15
 days
 now
 excellent
@@ -43051,7 +42954,7 @@ still
 be
 improved
 but
-95%
+0%
 of
 cases
 it
@@ -43065,7 +42968,6 @@ life
 is
 more
 than
-12
 hrs
 that's
 the
@@ -43337,7 +43239,6 @@ replace
 my
 headphones
 every
-36
 months
 have
 had
@@ -43606,7 +43507,7 @@ majority
 of
 the
 time
-95%
+0%
 don't
 even
 know
@@ -43657,7 +43558,7 @@ not
 superaudiophile,
 but
 for
-$30
+$0
 you
 can't
 complainpairing
@@ -43833,7 +43734,7 @@ was
 great
 like
 the
-16hour
+0hour
 charge
 can
 use
@@ -44194,7 +44095,6 @@ ears
 were
 sore
 after
-12
 hours
 with
 them
@@ -44270,7 +44170,7 @@ work
 great
 for
 under
-$25
+$0
 i'm
 so
 impressed
@@ -44360,7 +44260,6 @@ to
 be
 close
 to
-16
 hours
 but
 have
@@ -44460,7 +44359,6 @@ battery
 life
 is
 about
-17
 hours
 and
 yes
@@ -44476,7 +44374,6 @@ last
 that
 long
 in
-56
 minutes
 of
 charging,
@@ -44739,7 +44636,7 @@ clear
 sound
 as
 the
-$12000
+$0
 earbuds
 bought
 him,
@@ -44948,7 +44845,7 @@ do
 much
 noise
 cancelling
-either9/2020
+either0/0
 updatethis
 seller
 will
@@ -44983,7 +44880,7 @@ your
 crappy
 item
 &
-$40
+$0
 paypal
 no
 thanks
@@ -45287,7 +45184,6 @@ close
 to
 these
 work
-10
 hour
 shift
 and
@@ -45329,7 +45225,7 @@ still
 said
 they
 had
-10%
+0%
 battery
 left
 work
@@ -45466,7 +45362,7 @@ wasn't
 expecting
 much
 from
-$20
+$0
 bluetooth
 headphones
 was
@@ -45652,7 +45548,6 @@ expected
 can't
 beat
 the
-16
 hrs
 of
 playtime
@@ -45777,7 +45672,6 @@ they
 truly
 last
 for
-16
 hour
 and
 they
@@ -45821,7 +45715,7 @@ but
 this
 one
 is
-1/5
+0/0
 of
 what
 airpods
@@ -46029,7 +45923,6 @@ see
 if
 there's
 really
-16
 hours
 of
 battery
@@ -46266,7 +46159,7 @@ people
 know
 you're
 playafor
-$30,
+$0,
 these
 headphones
 can't
@@ -46440,13 +46333,13 @@ that
 these
 headphones
 achieve
-9095%
+0%
 of
 the
 sound
 quality
 at
-~20%
+~0%
 of
 the
 price
@@ -46592,7 +46485,6 @@ different
 size
 ear
 tips
-45
 inch
 micro
 usb
@@ -46633,7 +46525,6 @@ with
 my
 iphone
 in
-10
 or
 less
 seconds
@@ -46683,7 +46574,7 @@ need
 to
 purchase
 those
-$100+
+$0+
 earphones
 ok,
 so
@@ -47052,7 +46943,7 @@ quality
 sound
 have
 had
-20+
+0+
 conversations
 while
 on
@@ -47275,7 +47166,6 @@ they
 shut
 off
 after
-10
 minutes
 of
 inactivity
@@ -47412,7 +47302,7 @@ almost
 going
 to
 spend
-$150
+$0
 on
 another
 brand
@@ -47483,7 +47373,6 @@ soft,
 comfortable,
 and
 snugwalking
-35
 yards
 away
 from
@@ -47725,7 +47614,7 @@ this
 is
 my
 second
-ipx7
+ipx0
 bought
 the
 first
@@ -47788,14 +47677,14 @@ to
 resume,
 there
 is
-50%
+0%
 chance
 to
 get
 good
 earbuds
 and
-50%
+0%
 chance
 to
 get
@@ -47814,7 +47703,7 @@ thru
 many
 in
 the
-$100
+$0
 range
 one
 thing
@@ -49054,7 +48943,6 @@ the
 price
 would
 say
-35
 star
 am
 still
@@ -49297,7 +49185,7 @@ for
 these
 you
 need
-5v/1a
+0v/0a
 charger
 these
 are
@@ -49358,7 +49246,6 @@ have
 had
 them
 for
-10
 months
 and
 they
@@ -49496,7 +49383,7 @@ regular
 airpods
 unbearable
 after
-10mins
+0mins
 can
 wear
 these
@@ -49976,7 +49863,7 @@ is
 nice
 item
 for
-$25
+$0
 the
 sound
 quality
@@ -50048,7 +49935,7 @@ bluetooth
 headphones
 are
 under
-$30,
+$0,
 so
 don't
 expect
@@ -50395,7 +50282,7 @@ are
 nice
 headphones
 for
-$30
+$0
 they
 are
 lightweight,
@@ -50546,7 +50433,6 @@ ears
 during
 workout
 bluetooth
-50
 connection
 pairs
 with
@@ -51024,7 +50910,6 @@ headphone
 have
 more
 than
-10
 hours
 playtime,
 sound
@@ -51108,7 +50993,7 @@ pairs
 don't
 spend
 over
-$100
+$0
 on
 pair
 of
@@ -51116,7 +51001,7 @@ expensive
 earbuds
 when
 these
-$25
+$0
 boltune
 bluetooth
 headphones
@@ -51126,7 +51011,7 @@ as
 good
 they
 are
-100%
+0%
 water
 resistant
 as
@@ -51240,7 +51125,7 @@ good
 in
 the
 under
-$50
+$0
 catagory;
 combined
 with
@@ -51262,7 +51147,7 @@ better
 for
 less
 than
-$50
+$0
 will
 make
 great
@@ -51640,11 +51525,10 @@ my
 macbook
 pro
 from
-2015,
+0,
 macos
 high
 sierra
-10136
 they
 did
 at
@@ -51697,7 +51581,6 @@ amazing
 use
 them
 on
-12
 hour
 shifts
 at
@@ -51717,7 +51600,7 @@ also
 charge
 really
 fast
-10/10
+0/0
 would
 recommend
 this
@@ -51738,7 +51621,7 @@ is
 faulty,
 working
 around
-60%
+0%
 of
 the
 timethe
@@ -51993,7 +51876,6 @@ rated
 battery
 life
 work
-12
 hour
 shift
 and
@@ -52013,7 +51895,7 @@ to
 books,
 still
 have
-60%
+0%
 battery
 life
 after
@@ -52024,7 +51906,7 @@ at
 higher
 volumes,
 about
-40%
+0%
 left
 after
 my
@@ -52342,7 +52224,6 @@ luckily,
 only
 out
 about
-20
 bucks
 so
 it
@@ -52440,7 +52321,7 @@ while
 teleworking
 during
 the
-covid19
+covid0
 quarantine
 thanks
 for
@@ -52521,14 +52402,13 @@ good
 sweat
 resistance
 is
-100%
+0%
 and
 the
 sound
 quality
 rivals
 some
-50
 dollar
 headphones
 noise
@@ -53006,7 +52886,7 @@ running
 they
 were
 about
-$13000
+$0
 the
 botune's
 are
@@ -53396,7 +53276,7 @@ or
 turning
 on
 completely
-100%
+0%
 would
 not
 purchase
@@ -53657,7 +53537,7 @@ sets
 of
 expensive
 headphones
-$100+
+$0+
 that
 last
 barely
@@ -53733,7 +53613,6 @@ clear
 and
 can
 walk
-150
 feet
 away
 from
@@ -53799,7 +53678,6 @@ pair
 with
 the
 equalizer
-50
 bluetooth
 is
 awesome
@@ -53820,9 +53698,7 @@ work
 out
 for
 roughly
-45
 to
-65
 minutes,
 to
 days
@@ -54029,7 +53905,7 @@ adapter
 on
 my
 lg
-4k
+0k
 tv
 for
 better
@@ -54168,7 +54044,7 @@ anyone
 who
 loves
 music
-2nd
+0nd
 pair
 i've
 bought,
@@ -54436,7 +54312,7 @@ ago,
 and
 still
 have
-60%
+0%
 left
 with
 plenty
@@ -54891,7 +54767,7 @@ battery
 doesn't
 die
 for
-$30,
+$0,
 don't
 really
 know
@@ -55302,7 +55178,7 @@ mines
 lasted
 for
 whole
-12hrs
+0hrs
 ,
 charging
 it
@@ -55311,9 +55187,9 @@ its
 dead
 took
 about
-1/2
+0/0
 to
-2hrs
+0hrs
 to
 charge
 the
@@ -55574,7 +55450,7 @@ was
 skeptical,
 but
 am
-100%
+0%
 thrilled
 with
 my
@@ -55792,7 +55668,6 @@ day
 long
 at
 my
-12
 hr
 job
 and
@@ -56200,7 +56075,7 @@ over
 year
 now
 am
-100%
+0%
 satisfied
 with
 my
@@ -56224,7 +56099,7 @@ with
 them
 for
 the
-1st
+0st
 time
 am
 very
@@ -56418,7 +56293,7 @@ wasn't
 expecting
 much
 for
-$20
+$0
 headphones
 had
 the
@@ -56637,7 +56512,7 @@ us
 bought
 these
 feb
-2020,
+0,
 and
 just
 like
@@ -56660,7 +56535,7 @@ different
 brand
 had
 tried
-$10
+$0
 wireless
 headset
 that
@@ -56798,7 +56673,6 @@ the
 battery
 life
 is
-16
 hours
 as
 opposed
@@ -56878,7 +56752,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 got
 these
@@ -57035,7 +56909,6 @@ together
 if
 could
 do
-45
 stars,
 would,
 will
@@ -57167,7 +57040,7 @@ fit
 in
 ear
 perfectly
-2nd
+0nd
 evalcustomer
 service
 did
@@ -57180,7 +57053,7 @@ concerns
 on
 the
 product
-reviewed1st
+reviewed0st
 eval
 not
 great
@@ -58081,7 +57954,7 @@ in
 my
 ears
 the
-16hour
+0hour
 battery
 life
 is
@@ -58514,7 +58387,7 @@ is
 not
 exaggerated,
 about
-16hrs
+0hrs
 listening
 time
 this
@@ -58545,7 +58418,7 @@ earbuds
 in
 s/m/l
 and
-1230month
+0month
 warranty
 which
 really
@@ -58683,7 +58556,7 @@ problems
 with
 the
 phones
-35mm
+0mm
 jack
 the
 soft
@@ -58800,7 +58673,7 @@ the
 bass
 quality
 is
-a1
+a0
 and
 hearing
 new
@@ -58835,8 +58708,8 @@ to
 my
 phone
 from
-7:00am
-6pm
+0:0am
+0pm
 at
 work
 had
@@ -59025,7 +58898,6 @@ definitely
 recommend
 bought
 nov
-2019
 will
 update
 this
@@ -59289,7 +59161,6 @@ brand
 bought
 this
 around
-34
 months
 ago
 the
@@ -59355,7 +59226,6 @@ week
 during
 the
 past
-34
 months
 also,
 it
@@ -59377,7 +59247,6 @@ these
 back
 in
 march
-2020
 after
 trying
 out
@@ -59405,7 +59274,7 @@ battery
 life
 is
 about
-3x
+0x
 as
 long,
 they
@@ -59897,7 +59766,6 @@ using
 one
 for
 over
-18
 months
 and
 just
@@ -59926,7 +59794,6 @@ when
 you
 can
 get
-16
 hours
 of
 battery
@@ -59977,7 +59844,7 @@ normally
 will
 cost
 you
-100+
+0+
 bucks,
 great
 battery
@@ -60019,7 +59886,7 @@ and
 value
 for
 under
-$30
+$0
 use
 these
 for
@@ -60048,12 +59915,12 @@ with
 the
 battery
 life
-20min
+0min
 charge
 will
 give
 about
-2hrs
+0hrs
 of
 play
 time,
@@ -60512,14 +60379,12 @@ battery
 played
 almost
 continuous
-12
 hours,
 off
-24,
+0,
 then
 played
 another
-56
 before
 low
 battery
@@ -60866,7 +60731,7 @@ in
 my
 earsupdate
 april
-2020:
+0:
 the
 earbuds
 stopped
@@ -61879,7 +61744,7 @@ are
 amazing
 have
 had
-$100+
+$0+
 dollar
 bt
 buds
@@ -61897,9 +61762,9 @@ this
 is
 probably
 the
-4th
+0th
 or
-5th
+0th
 bluetooth
 headphones
 i'm
@@ -61970,7 +61835,7 @@ it
 on
 sale
 for
-$22well
+$0well
 worth
 it
 haven
@@ -62040,7 +61905,7 @@ these
 after
 my
 last
-$100bluetooth
+$0bluetooth
 headset
 stopped
 workingi
@@ -62139,7 +62004,7 @@ sports
 yet
 hence
 the
-4/5
+0/0
 review
 but
 it's
@@ -62156,7 +62021,7 @@ bose
 headphones
 which
 were
-23x
+0x
 more
 expensive
 these
@@ -62465,7 +62330,6 @@ them,
 charging
 them
 for
-510
 mins
 is
 enough
@@ -62601,7 +62465,7 @@ at
 this
 price
 range
-2compare
+0compare
 to
 ear
 buds,
@@ -62944,7 +62808,6 @@ well
 as
 getting
 the
-30
 month
 warranty
 no
@@ -63294,7 +63157,6 @@ headphones,
 they
 compare
 to
-100
 dollar
 headphones
 that
@@ -63624,7 +63486,7 @@ produce
 for
 set
 under
-$3000
+$0
 they
 are
 very
@@ -63693,7 +63555,7 @@ ones
 i've
 bought
 costing
-3x
+0x
 the
 amount
 this
@@ -63983,7 +63845,7 @@ of
 top
 class
 mean
->100$
+>0$
 brands,
 especially
 the
@@ -64206,7 +64068,6 @@ it
 lasts
 for
 atleast
-78
 hoursoverall
 it
 was
@@ -64671,7 +64532,7 @@ have
 my
 headphones
 in
-8+
+0+
 hours
 day
 listening
@@ -64792,7 +64653,7 @@ than
 most
 of
 the
-$100+
+$0+
 similar
 headphones
 don't
@@ -64920,7 +64781,7 @@ and
 had
 only
 lost
-10%
+0%
 battery,
 and
 they
@@ -64959,7 +64820,6 @@ charge
 them
 about
 every
-34
 days
 this
 is
@@ -65461,14 +65321,12 @@ bought
 these
 in
 feb
-2020
 purchased
 cause
 of
 battery
 life
 is
-16
 hrs
 they
 are
@@ -65672,7 +65530,7 @@ and
 just
 now
 hitting
-50%
+0%
 power
 left
 have
@@ -65853,14 +65711,12 @@ and
 easily
 outlasts
 full
-89
 hour
 workday
 if
 they
 last
 full
-12
 months
 ill
 be
@@ -66093,7 +65949,6 @@ all
 usually
 run
 for
-30
 minutes
 at
 time,
@@ -66103,7 +65958,7 @@ barely
 lasted
 weeks
 of
-23x
+0x
 per
 week
 of
@@ -66385,7 +66240,6 @@ charge
 does
 not
 last
-16
 hours
 as
 stated,
@@ -67207,7 +67061,6 @@ the
 cord
 could
 be
-34
 inches
 longer
 but
@@ -67247,7 +67100,7 @@ returned
 so
 took
 the
-$10
+$0
 amazon
 giftcard
 instead
@@ -67586,7 +67439,6 @@ bateery
 life
 last
 for
-12
 =
 hours
 dont
@@ -67693,7 +67545,6 @@ pair
 bought
 for
 my
-13
 yr
 old
 grd
@@ -68028,7 +67879,6 @@ with
 iphone
 and
 windows
-10
 computer
 some
 hiss
@@ -69140,7 +68990,7 @@ convenient
 these
 are
 my
-2nd
+0nd
 pair
 lost
 the
@@ -69197,7 +69047,7 @@ still
 have
 more
 than
-50%
+0%
 battery
 left
 noise
@@ -69294,7 +69144,6 @@ them
 for
 more
 than
-20
 mins
 so
 ended
@@ -69361,7 +69210,6 @@ also
 does
 last
 for
-16
 hours
 and
 lastly
@@ -69609,7 +69457,6 @@ purchased
 these
 in
 march,
-2020
 and
 they
 worked
@@ -69677,7 +69524,7 @@ bought
 this
 for
 my
-8yr
+0yr
 old
 and
 she
@@ -70059,7 +69906,7 @@ you
 believe
 less
 than
-$30
+$0
 would
 buy
 again
@@ -70210,7 +70057,7 @@ buy
 for
 the
 money
-100%
+0%
 great
 fit,
 great
@@ -70485,7 +70332,6 @@ headphones
 used
 them
 for
-15
 hours
 straight,
 no
@@ -70496,7 +70342,7 @@ easy
 to
 use
 and
-charge55+
+charge0+
 user
 the
 sound
@@ -70516,7 +70362,7 @@ to
 pair
 to
 my
-mp3
+mp0
 player
 and
 have
@@ -70937,7 +70783,7 @@ connect
 to
 my
 garmin
-645m
+0m
 they
 sound
 great
@@ -73096,7 +72942,6 @@ sound
 battery
 good
 for
-23
 nights
 great
 product
@@ -73186,7 +73031,6 @@ value
 highly
 recommend
 purchased
-25
 months
 ago
 no
@@ -73416,7 +73260,6 @@ to
 minnesota
 straight
 through
-14
 hours
 while
 listening
@@ -73564,7 +73407,7 @@ store
 this
 is
 the
-2nd
+0nd
 time
 ordering
 this
@@ -73618,7 +73461,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 it
 is
@@ -73877,7 +73720,7 @@ them
 on
 for
 roughly
-12+
+0+
 hours
 using
 them
@@ -74357,7 +74200,6 @@ charge
 for
 more
 than
-40
 minutes
 so
 disappointed
@@ -74493,7 +74335,6 @@ sound,
 amazing
 battery
 life,
-30
 month
 warranty,
 and
@@ -74717,7 +74558,6 @@ on
 me
 after
 only
-12
 months
 not
 sure
@@ -75612,7 +75452,7 @@ one
 can
 be
 beat
-16hrs
+0hrs
 off
 one
 charge
@@ -75630,7 +75470,7 @@ myself
 and
 it
 over
-16hrs
+0hrs
 of
 play
 timeamazing
@@ -75674,7 +75514,7 @@ earphones
 were
 already
 at
-100%
+0%
 no
 time
 wasted
@@ -75974,7 +75814,7 @@ money
 this
 is
 the
-5th
+0th
 pair
 have
 ordered
@@ -76514,7 +76354,7 @@ quality
 and
 battery
 life
-4+
+0+
 hours
 of
 music
@@ -77086,7 +76926,7 @@ recommend
 to
 anyone
 for
-$25
+$0
 bucks
 good
 price
@@ -77262,7 +77102,7 @@ use
 these
 for
 over
-8hrs
+0hrs
 talking
 on
 the
@@ -77283,7 +77123,7 @@ if
 the
 night
 for
-$20
+$0
 wasn't
 expecting
 much
@@ -77346,7 +77186,7 @@ these
 are
 anything
 resembling
-ipx7
+ipx0
 and
 definite
 hazard
@@ -77378,7 +77218,6 @@ his
 ears
 well,
 he's
-11
 yrs
 old
 everything
@@ -77445,7 +77284,7 @@ about
 the
 quality
 of
-$20
+$0
 headphones,
 but
 these
@@ -77454,7 +77293,7 @@ with
 other
 pairs
 paid
-$60+
+$0+
 for
 the
 bass
@@ -77488,7 +77327,7 @@ these
 headphones
 feel
 like
-$100
+$0
 headphones
 to
 me
@@ -78686,7 +78525,6 @@ work
 great
 for
 my
-12
 year
 old
 to
@@ -79092,7 +78930,6 @@ product
 they
 are
 like
-100
 dollar
 pods
 great
@@ -79146,7 +78983,7 @@ to
 operateand
 comfortable
 to
-wear5
+wear0
 stars
 comfortable,
 great
@@ -79461,7 +79298,7 @@ purchased
 these
 headphones
 feb
-5,
+0,
 they
 stopped
 taking
@@ -79488,7 +79325,7 @@ the
 price
 for
 just
-1/2
+0/0
 months
 cardboard
 eco
@@ -79556,7 +79393,7 @@ would
 last
 at
 least
-8hr
+0hr
 this
 last
 the
@@ -79597,7 +79434,7 @@ well
 worth
 it
 for
-$2700
+$0
 have
 pair
 of
@@ -79606,7 +79443,6 @@ tera
 pro's
 that
 paid
-16000
 for
 and
 these
@@ -79845,7 +79681,7 @@ as
 can
 discern
 at
-50+
+0+
 years
 comfortable
 either
@@ -80192,7 +80028,7 @@ child
 this
 is
 the
-3rd
+0rd
 one
 have
 bought
@@ -80424,7 +80260,7 @@ but
 honestly
 for
 under
-$30
+$0
 you
 get
 some
@@ -80597,7 +80433,6 @@ batteries
 stay
 charged
 for
-16
 hours
 wow
 battery
@@ -81342,7 +81177,7 @@ price
 leagues
 above
 my
-$20
+$0
 pair
 had
 before
@@ -82074,7 +81909,7 @@ it
 sounded
 like
 crappy
-mp3
+mp0
 download
 returned
 this
@@ -82103,7 +81938,6 @@ headphones
 while
 working
 my
-12
 hour
 shifts
 and
@@ -82236,7 +82070,6 @@ hold
 charge
 after
 about
-10
 months
 excellent
 phone,
@@ -82432,7 +82265,7 @@ are
 incredibly
 clear
 would
-100%
+0%
 reccomend
 these
 to
@@ -82459,7 +82292,6 @@ life
 is
 at
 least
-910
 hours
 ,
 the
@@ -82534,7 +82366,6 @@ enjoyed
 this
 product
 it
-16
 hours
 battery
 life
@@ -83100,7 +82931,7 @@ randomly
 this
 is
 my
-2nd
+0nd
 boltune
 use
 and
@@ -83504,7 +83335,6 @@ not
 charge
 after
 only
-30
 days
 strongly
 recommend
@@ -84159,7 +83989,7 @@ what
 to
 expect
 for
-$30,
+$0,
 but
 it
 was
@@ -84244,7 +84074,7 @@ especially
 for
 set
 under
-$30
+$0
 battery
 life
 is
@@ -84352,11 +84182,10 @@ it
 to
 my
 iphone
-8+
+0+
 and
 lenovo
 flex
-15
 computer
 very
 comfortable,
@@ -84514,7 +84343,6 @@ stop
 working
 after
 about
-40
 days
 excellent
 value
@@ -85885,7 +85713,7 @@ to
 amend
 my
 previous
-5star
+0star
 review
 as
 these
@@ -86205,7 +86033,7 @@ happy
 with
 it
 have
-100$
+0$
 earphone
 and
 it
@@ -86458,7 +86286,6 @@ good
 use
 them
 about
-810
 hours
 week
 and
@@ -87199,7 +87026,6 @@ long
 life
 battery
 worked
-10
 shift
 it
 never
@@ -87665,7 +87491,6 @@ great
 bought
 in
 november
-2019
 headphones
 stopped
 holding
@@ -87673,7 +87498,6 @@ charge
 as
 or
 april
-2020
 once
 again
 you
@@ -87716,7 +87540,6 @@ the
 same
 price
 lasted
-23
 hours
 pro:
 the
@@ -87725,7 +87548,6 @@ life
 really
 lasts
 the
-16
 hourscon:
 the
 sound
@@ -87743,7 +87565,6 @@ the
 battery
 lasted
 almost
-17
 hours
 in
 row,
@@ -88017,7 +87838,7 @@ this
 is
 our
 family's
-2nd
+0nd
 pair
 just
 received
@@ -88852,7 +88673,7 @@ browser
 does
 not
 support
-html5
+html0
 video
 good
 sound
@@ -89013,7 +88834,7 @@ ask
 for
 more
 for
-27$
+0$
 great
 battery
 life
@@ -89059,7 +88880,6 @@ yourself
 pair
 broke
 after
-10
 months
 of
 use
@@ -89097,7 +88917,6 @@ is
 good
 for
 around
-1415
 hours
 earbuds
 are
@@ -89494,7 +89313,7 @@ beats
 was
 little
 better
-10/10
+0/0
 would
 recommend,
 they
