@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.euc) (TeX Live 2020) (preloaded format=platex 2021.1.24)  27 JAN 2021 01:00
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.euc) (TeX Live 2020) (preloaded format=platex 2021.1.24)  27 JAN 2021 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -72,8 +72,7 @@ File: l3backend-dvips.def 2021-01-09 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count186
 \g__pdf_backend_link_int=\count187
 \g__pdf_backend_link_sf_int=\count188
-)
-No file wip_jonah.aux.
+) (./wip_jonah.aux)
 \openout1 = `wip_jonah.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -114,26 +113,8 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 13.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 13.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 29.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 29.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 29.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 29.
-
-LaTeX Warning: Citation `benford' on page 1 undefined on input line 29.
-
-
-LaTeX Warning: Citation `sakura' on page 1 undefined on input line 39.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Citation `amazon' on page 1 undefined on input line 54.
 
 File: ./bad_result.png Graphic file (type bmp)
 <./bad_result.png>
@@ -150,25 +131,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+Underfull \hbox (badness 1831) in paragraph at lines 104--105
+[]\OT1/cmr/m/n/10 https://self-development.info/amazon \JY1/mc/m/n/10 のス
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 105--106
 []\OT1/cmr/m/n/10 https://web-kiwami.com/count-words-
  []
 
-[2] (./wip_jonah.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[2] (./wip_jonah.aux) ) 
 Here is how much of TeX's memory you used:
- 1058 strings out of 479776
- 15946 string characters out of 5879605
+ 1056 strings out of 479776
+ 15925 string characters out of 5879605
  306872 words of memory out of 5000000
- 18495 multiletter control sequences out of 15000+600000
- 413309 words of font info for 72 fonts, out of 8000000 for 9000
+ 18492 multiletter control sequences out of 15000+600000
+ 412720 words of font info for 69 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  68i,7n,74p,238b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on wip_jonah.dvi (2 pages, 8068 bytes).
+Output written on wip_jonah.dvi (2 pages, 8032 bytes).
