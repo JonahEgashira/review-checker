@@ -1,0 +1,450 @@
+    ZoeeTreeスピーカーはこれで３機目購入です。１つは高評価でレビュー済み、１つはやや低評価につきレビューしていませんが、こちらについてはしてみます。
+音は普通です。重低音も殆ど効果を感じず音質にうるさい人がメインで使うにはおすすめできません。まあ価格相応ということです。でも言い方を変えれば無難な音でイージーリ
+スニング派なら「このほうが好き」という人もいると思います。あとボリュームボタンと進退ボタンはそれぞれ独立させて欲しい。使い勝手が悪く特に機械の弱い人には不親切で
+す。ところでラジオの件が気になる方も多いようなので…  デジタルチューナーで感度のある周波数を片っ端からスキャンして記憶し、進退ボタンで選局する方法です。ディス
+プレイが無いので周波数はわからないし、チューナーが誤ってスキャンして記憶させてしまった全く音の聴けない周波数は後で消すことはできません。これを許容できるかどうか
+です。なお受信可能周波数範囲で情報が錯綜してますが、実際に使用してみると76MHzから105MHzまでスキャン記憶されていました。これは日本向けに最新アップデー
+トがされてる商品がちゃんと送られてきたということです。もしそうでない商品がきてしまったら必ずメーカーに問い合わせて下さい。
+    まずは、接続がかんたんでした。電源入れて、スマホ側Bluetooth側、接続一覧から選ぶだけで、即、繋がりました。家の中でも、テレビがBlu-rayなど
+再生してる時でも、スマホをプロジェクターにつなげ、プロジェクターのスピーカーが貧弱でも、音は、Bluetoothで、このスピーカーから出せば、即席映画館。子供た
+ちは、Amazonプライムでアニメなんかを見ています。
+    今まで使っていたスピーカーが壊れて、こちらを購入。値段が安いのでどうかと思ったけど、会社でPCからradikoを流すのに音質などは申し分ないです。気にな
+る点は、ON OFFのスイッチが今時カチッとスライドするタイプなのと、充電中や電池残量が減った時などの目印になるライトみたいなのが非常に見えにくい仕様なところ。
+それと前面のメッシュの部分が一部凹んでいたのが残念でした。でもこの値段ではそこまでのクオリティは求めていないので概ね満足です。因みにラジオは全然受信できませんで
+した（笑）
+    内蔵スピーカーが2つなのにまさかのモノラル！「2x4Wのステレオスピーカーと2x40mmの高精度オーディオドライバースにより、優れたステレオサウンドが提
+供します」と記載されてますけど、間違いですね。どうやってもステレオにならない。このスピーカー単体だとモノラルです。Bluetooth(iPhone, Andro
+id)だけでなく、USBやAUX入力で試してもモノラル。TWS機能で2台使えばステレオになるんでしょうけど、1台でステレオになる機種を探していたので当てが外れて
+残念でした。どうやら、近いスペックの製品は軒並みスピーカー2個でもモノラルのようです。同じチップ使ってるのかな…。各種紹介サイトやレビューでもモノラルダブルスピ
+ーカーをステレオと間違えてることが非常に多いですね。気をつけましょう。というわけで総合評価は、表記と異なりモノラルだったので星2つ、でも同様のものは皆同じくモノ
+ラルだった＆モノ自体は良かったので星戻して、品質は価格相応と考えると十分なので星5にしてます。気を取り直してモノラルスピーカーとしてレビュー。悪くないですよ！音
+質は、一言で言うとラジオのトーク向き。らじことの相性が最高。中音域重視のバランスの良い音で、良くできたモノラルラジカセみたいと言うと伝わるかな。トークがとても聞
+きやすい。重低音はありません。でも低音が出てないわけでもない。スイープアプリで確認すると50Hzぐらいから音は出てますが、振動として効いてくるのは80Hzぐらい
+から。落ち着いた低音と言えますね。高音は14kHz付近までは出てましたがそれ以上は自分の耳が信用できないので分からない(笑)。全体として低域高域は弱いですが音の
+バランスは良くて疲れないですね。音楽を聴くならボーカル重視のポップス。ボーカルがよく聞こえるよ。クラシックには向きません。ロックも微妙かなー。音楽をガッツリ聴く
+には向かないけど、ながらで流すには心地よい。音のキレ自体は良いので、スマホ側のイコライザをいじるとよりよい音になるかも。ドラマなどの動画にも悪くないかも。遅延は
+ありますが少ない方なので動画見て違和感はあまり感じないかな。操作性。悪くないです。ペアリングなどは最近の機器の例に漏れず特に難しいことなし。電源はスライドなので
+わかりやすい。特に高齢者に使わせる場合などはこの方がいいのよ。ただし耐久性が不明で少し不安はある。上面のボタンはプラスチックのカチカチっとした感触で使いやすい。
+ボリュームが独立しておらず長押しなのは良くないけれど、前曲/次曲ボタンでradikoの選局ができるので善し悪しかな…。通話ボタンが独立してるのも良いね。操作がわ
+かりやすい。通話は使ったことが無いけど、リダイアルは素早く二回押しなので誤操作も起きにくいと思う。(リダイヤル機能って不要だと思うのだけどね…。スピーカーから発
+信したい人ほとんど居ないでしょ。)デザイン。小型で良いですが、縦型にするのが意外と良いよ。モノラルなので縦置きでも問題なくて、音の広がりが良くなる。ボーカルなど
+特に顕著でヌケが良くなる印象。リスニングポジションを変えた場合での音の安定性も格段に上がります。座ってて体動かした時とかね。TWSで二台ステレオにする場合も縦置
+きすると良いかも。動作インジケーターがスピーカーメッシュの奥でほのかに青く点滅してる。点滅が気になる人には嫌かな。ただ目立たないので、動作状況がよく分からないか
+も。主張しすぎるより良いけどね。起動時の音。「ポポプーン ブルートゥースモード」って女性の声でしゃべりますが、爆音ではないので大抵の人は問題にしないと思う。アナ
+ウンス無くても良いと思うんだけどね…。オフにする時はしゃべりません。音量は前回設定した通りで、リセットされる等の問題はありません。というか音量はスマホ側で管理し
+てるかも。音量は小さく絞れます。夜でも大丈夫。ただし寝るとき枕元に置けるほど小さくはならない。この辺りの配慮はSONYなどに追いつけてない所。最大音量はこのクラ
+スなら十分。室内で使う程度なら不自由しない。大音量を期待する人は20W以上の機種にしよう。※ボリュームステップについてはiPhone固有の問題かもしれない。(A
+ndroidではスピーカー本体とスマホ個別に調整が可能だった。)FMラジオ、AUX、USB、microSDなどはほとんど試してません。どうせ使わないので。このス
+ピーカーはBluetoothで使うのが一番だと思う。ただ、USBをちょっと試した感じでは、mp3を突っ込めば再生されるので、少量の曲を単純に聞くには良いかもしれ
+ない。バッテリーの持ちは未確認だけど、説明書に充電しながら使用しないよう注意があった。バッテリー劣化が早まるとのこと。覚悟して使うなら自己責任かな？ 充電しなが
+らの使用自体はできます。結論。2千円ぐらいでTWS対応、コスパ最高！ただし音質に妥協が必要。良い音質で音楽聞きたいなー、という場合は5倍ぐらいの値段がするソニー
+のを買うと幸せになれます。本機種はスマホ本体だけで使ってた人の、最初のBluetoothスピーカーに最適かな。気に入ったら追加で買ってステレオにすればいい。自分
+も買い足し検討中。
+    バスブーストを売りにしてる割りには、ビックリするくらい低音は無い。充電も満タンなのに、結構ノイズが乗るのは、値段的に仕方がないのか？まあ、返品するほどの
+ノイズでは無い(と思い込んでる)ので、このまま使うけど。１年以上は使いたいなぁ。リピは、半額にならない限り無いな。昭和の軽トラのラジオをイメージして、それでも良
+いよ！って人にだけ勧めます(笑)追記：　結局、音割れというかノイズが我慢出来ずに返品しました。　もう故障のレベル。聞けば聞くほど、我慢出来なくなっていきました。
+　このコメント欄、サクラだらけじゃないの？　で、返品手続き中に、ハーマンカードンのトラベラー？を買ったのですが、　さすがこの商品の２．５倍するだけあって、ノイズ
+は私の耳には聞こえず、　もちろん音割れも無く、この商品より薄いけど、低音ももっと出ます。　悪いことは言いません。ハーマンカードンのトラベラーにするべき。
+    20%offクーポンがあったので駄目元覚悟で購入しました。が、意外と音が鳴ります。スマホとの接続も直ぐに繋がりますしラジオも野外なら入りました。ラジオは
+感度が今一で小学生の時作った工作キット位のレベルかな。しかしBluetoothでの音楽を聴くには値段を考えると良いです。ポケットラジオでFMラジオを聴くよりいい
+です。1万クラスの物には当然及びませんが、作りもわりとしっかりしてました。取説も日本語表記ありました。気軽に使えるので買って良かったです。スマホの音設定をかえた
+ら迫力が増します。
+    ヒップホップとかEDMとか、ああいった低音重視な音楽を聴くのには向いてないけど、映画とか動画みたり、適当に音楽流したりするには丁度いいなスピーカーだと思
+う。音質は高音強めかも。低音はあまり感じられない。でもシャカシャカしすぎてることはない。本体は比較的軽い。低音重視スピーカーは低音強化のために重くなってるけど、
+これはそれがないから軽めにできてる。持ち運びには良さげ。大きさは筆箱くらいかそれに収まるくらいのサイズ。某林檎社のピルと比べたら少し小さいかなーくらい。めちゃ良
+い〜ってほどでは無いけど、作業の傍ら音楽とかをサラーっと聞くには良い品だと思う。販売元のサービスもとても良いので、信頼して買える。（けどここは個人差あると思うか
+ら判断は個々に任せる）
+    スマホに繋げて使用。途端にコンポに進化！音量や音質はスマホ側で調整する。低音は価格並みで過度な期待は禁物。普段使いなら満足！FMラジオやmicroSDや
+USBでの再生機能付きは嬉しい。Bluetoothは相性あり。PCとは接続できないこともありましたが、PC再起動でつながりました。AUX は音量差がデバイスによ
+り激しく違うのでテレビにつなげるとほとんど聞こえず、パソコンにつなげると大音量でビックリ。ボリュームは物理的な「つまみ」の方が良かったかな。追加。よく聞くとまさ
+かの「モノラル」でした。★マイナス1。
+    外でのアウトドアで使用するため、お買い得なスピーカを探していて、この商品にたどり着きました正直、価格的に全く期待していなかったんですが、コスパを考えると
+、なかなかの音の良さにびっくり私にはこれで十分です後は、耐久性ですね早く壊れたら、星は減らします
+    車用＆キャンプ用スピーカーとして購入。　通勤用に購入した安い軽自動車にはCDプレイヤーしか搭載されておらず、Bluetoothの利用＆USBかSDカード
+に曲を入れて聞きたいと思っていたので注文してみました。　結論から言うと購入してよかったと思っています。Bluetoothは問題なく繋がり、USB及びSDカードも
+試してみましたが問題なく使えます。選曲がフォルダ単位で出来なく、一曲ずつしか出来ませんが値段を考慮すると納得しています。　音に関しては拘りが無いほうですが、値段
+を考慮すると十分な音質ではないでしょうか。以前、うちの家族が買った3000円のラジカセよりはよい音がします。　充電はMicro USB Micro-Bなのが残念
+ですが、これも価格を考慮すると納得しています。これで充電電池の寿命と本体の寿命が長ければ非常にお買い得なスピーカーです。今後、使用していく中で早期に不具合が出た
+場合は☆をマイナスにさせて頂きます。現時点では☆5つです。　
+    まずBluetooth接続についてですが、この商品に限らずこれまでもクセというか相性というか？スムーズに接続できたことがありません。今回はこのスピーカー
+と一対一であればうまく接続できました。近くにほかのBluetooth機器があると上手くつながりませんでした。ちょっと残念なのは音質についてです。そんなにいい音を
+期待してはおりませんでしたが、用途としてタブレットで動画鑑賞をするのですが、セリフが聞き取りづらく音が割れています。ボリュームもそんなに大きくしていません。せめ
+てもう少し品質の良いスピーカーであれば幾分かましになったと思います。でも価格とトレードオフですよね。大きさは枕元で使用してちょうどよくそれなりに重量もあって安定
+しています。操作性はボリュームの調整が独立しているとありがたかったです。バッテリーは７～８時間は持つと思います。
+    AUX接続のケーブルとMicro USBケーブルが付いていました。ハンズフリー、SDスロットまで付いてこの価格とは…Bluetoothは簡単につながりま
+した。ちょっと低音が出ていないかなぁと感じます。寝るときに聴くにはちょうど良いかもボタンが同形状で等配で並んでいるので、ボタンのアイコンを見ないと、なんのボタン
+かわからない。形状が違う（◀︎▶︎とか）とパッと見で分かりやすいかなぁ。
+    価格が安いので、期待していなかった分、とてもよかったです。音色は、似たようなソニー製品や、ボーズ製品ももっていますが、並べて比べないと不満には思わないレ
+ベルだと思いました。（自分だけかもしれませんが(笑)）スライドのスイッチも高齢者の自分には意外と便利です。ぽっぱら挿しっぱなしのUSBのMP3を直接流しています
+が、入力選択や音量、曲等も前回の設定を引き継いでいたりして手間が省けていいです。ただし、値段相応で、スイッチ類は少々安っぽい感じはします・・・が、価格が価格なの
+で全然問題無いです。
+    まあ　スマホで　radiko
+が、あるので　こちらを　使って　ラジオ放送は、まあ　我慢しますが、　BT　スピーカーとしては、いいと思います　FM受信の件があるので　総合評価は、3にしました
+    キャンプに持ってってタブレットで映画見る時用に購入しました、正直値段が値段なのであまり期待してませんでしたが必要十分に感じました。このサイズだと、アンプ
+部が貧弱で出る音も小さくて薄っぺらい事が多いと思いますが、低音がちゃんと鳴ってて結構広い空間でも使えると思います
+    値段が高いのは当然音質もいいと思うけど、たまにしか使わないのでなるべく安く、そこそこ音質もよく、音量もある程度大きくなるものはないかと探していました。こ
+のZoeeTree S1はお値段もお手頃な割に音質もいいと思います。音量に関しては、この大きさで大迫力は望めませんが、パソコンやスマホのスピーカーに比べたらとて
+も聞きやすく大満足です。
+    2台でステレオのように使うことが出来るということで購入しました。音はそんなに悪くないです。とてもお買得だと思います。ただ、商品によってはTWS通信機能が
+使えないのがあるので、販売店に聞いてデータファイルを受け取る必要があるのは、ちょっと残念です。でも、それをインストールしたら、ミニコンポようにして楽しめます。
+    以前使っていた物が、時々音が切れたり割れたりするのでそこそこのメーカーの物でしたがもう一台購入する事に。安いので、チョット不安でしたがお値段以上のクオリ
+ティでした。Bluetooth接続も簡単ですし、以前の物よりも音は良かったです。今のところ何ら問題なく、使用できてきます。もう一台、購入を検討中です。
+    色違いにて2台購入しました。1台毎では、音質と機能は昨今のBluetoothスピーカーの中では、平気点レベル。しかしTWSによる接続性とステレオ再生時の
+音質は、非常に良いです。1600円台で購入出来るスピーカーとしては、非常に使い勝手が良いと思います。
+    Bluetooth機能のあるスピーカーが1つは有ると良いなあと思い、こちらを購入。到着後、早速Bluetooth接続。簡単に接続出来ます。1つの端末が接
+続していると他の端末が繋がりませんが、これはこの値段なら仕方ないかと。他にもAUxやUSB接続もあり、家族で色々なものを繋げて楽しんでいます。リビングで使用して
+いますが、音質・音量とも十分余裕があります。また、FMやスマホのハンズフリー通話も出来、この値段でこれだけの機能なら充分元が取れます。もっと早く買えば良かったで
+す。
+    音量を、最大にしても音割れが気にならないレベルですね。ラジオ機能は、おまけ程度のものです。ただ、梱包された状態で落とした跡があり、製品の角に小さな凹みが
+あったのが残念でした。もう少し丁寧に扱って欲しい。
+    海外製品なので説明書も英語と思いきや、ちゃんと日本語の説明書もありました。ボタンはスピーカーにあわせてあるのでラジオの操作に違和感ありますが慣れれば感覚
+的に操作できます。音質はクリアで低音は得意ですが、高音にこだわるならやや違和感を感じるかも。そこは値段相応といった印象です。とはいえ、ラジオ・スピーカー（有線無
+線）・USB/microSD対応なのでコスパは高いです。汎用性を重視されたい方にオススメです。
+    値引きでリーズナブルに購入できました。ワイドFMにも対応していてばっちり受信もできました。ラジオとして使うのにも○です。USB-
+Cだったらよりよかったですね。
+    2.0のBlueTooth音楽プレーヤーで試行。ちゃんと音が出て満足。音の割れもなくボリュームの強弱もちゃんとできる。BlueTooth設定も簡単にでき
+楽。音質は高価なスピーカーと比べたら比ではないけど値段以上の品質。
+    意外と言っては失礼だが音質が良い。価格含めこの手の商品は高音のキンキン、シャカシャカ音が目立つことが多いが、この商品は気にならない。BT接続はiPhon
+eで確認し、特に問題なし。ハンズフリー機能は使うことはないと思うので試してはいない。ラジオはちゃんと電波を拾えた。ただ聞いているのがどの局なのかわからないのが難
+点だが、自身はラジオはほぼ使わないため全く問題なし。
+    Bluetooth接続は簡単にできました。電源入れて接続一覧から選ぶだけで、即、繋がりました。それまで別のスピーカー１台だったのですが、今回こちらを２台
+購入しました。２方向から音が出ることで、音の奥行きが広がったような気がします。私にはこちらの性能で十分です。今は音楽だけですが、今後はテレビとつないでAmazo
+nプライムなどをみたいと思います。
+    色々使えるので重宝してる、特に携帯電話ハンドフリーは便利、も少し音域が広ければなおよし、電池のなくなるのがわからない、ゲージが欲しい。
+    小さいながらにして音量も大きくキャンプやBBQとを盛り上げてくれました。Bluetooth5.0機器は初めてですが、家中どこに居ても繋がります。TWSの
+機能があるようなので、もう一台買ってみて試すのも良いかと思いました。コスパは凄く良いです。
+    ワイヤレススピーカーの中ではかなり安いものなので音質はそこまで期待していませんでした。ですが意外とよかったです。クリアに聞こえます。重低音は妥当なクオリ
+ティです。軽いので持ち運びやすいかと思います。充電コードがかなり短いので少し不便さを感じるかもしれません。
+    使用しているオーディオのスピーカーの音が良く出なくなり、スピーカーを探していて本商品を見つけました。私はBluetoothでの使用ではなく、AUXで繋ぎ
+使っています。満足しています。老眼の私には説明書の字が小さく、困りました。
+    模様のようなデザインがいいなと思い購入しました。値段の割には音もしっかり出てAmazonプライムの映画を見るときは接続して映画館気分で見ています。いい商
+品だと思います
+    電源ボタンは上部ではなく、背面にあります。直感的に操作できますね。Bluetoothのペアリングもすぐにできました。ハンズフリーでの利用はこれからですが
+、スマホの音楽はとても良好に聞こえます。ワイトバントFMも我が家ではクリアに入り、非常時にも使えそうです。バッテリーの持ちは、これから試してみたいと思いますか、
+いい買い物てした。
+    Echo Dot、スマホともにBluetooth接続に問題なし。テレビとの有線接続ももちろん問題なし。低音が軽い感じはするものの全体的な音質としては問題
+ないと思う。何万もする製品と比較したら劣るかもしれないが、この価格ならOK。
+    テレビにトランスミッターを取り付け、bluetooth接続。テレビをオン・オフしても問題なく接続できる。音の遅れは否めない。スピーカーの音量を最大にして
+も、キッチンの他の音(加熱音、水流音)にかき消される。料理を作りながら聞くには難あり。外装がつぶれていた。梱包難あり。
+    音質他は値段相応で悪くはない、若干接続に苦労した。我が家は機器が多数あるので混線？
+    音楽を聴くのに、使用しましたがもう少し良い音を想像してました安価なので、こんなもんかな
+    勢い余って2個購入。ステレオ状態で聞いています。値段以上の音質。期待以上
+    有効フォーマットのMP3に変換し、無事マイクロSDカードによりOUTDOORで活用してます。写真の様にメッシュ袋に入れて持ち出してますw袋も付帯してくれ
+ると嬉しいですね。現在12時間稼働しましたが、バッテリーの持ちも良さそうです\(^^)
+    機械音痴を自負してますが、充電して簡単に接続できるので、ストレスなく使い始められました。ボタンのオモチャ感はありますが、値段からしたら可愛いデザインです
+。以前使ってたものが充電の接続部が1年ちょっとで不安定になってきたので、今回は長く使えることを祈って。
+    テレビの音声を手元で聞くために購入しましたが、よくBluetoothが切断され使い物になりません。改善方法があれば教えてほしいです。遮蔽物なし、テレビと
+は3メートルくらいの距離です。
+    音質もよく、それほど大きくもないので便利です。ボリューム調整が本体で出来ないのが残念です。
+    プロジェクターを購入したので一緒にこちらも購入しました。大きさは手のひらより少し大きめ、Bluetoothの接続も簡単でした。音質はそこまで大きな音で聴
+かないからか、私的にはso good！！お手頃でこの程度の音質ならばありかな！あとは耐久性が良いことを祈ります。まだマイクは使用してないのでそれは不明！
+    子どもが寝た後家事をする時にF Mラジオを聴くため購入しました。場所によっては雑音で聴き取りにく、く何も表示がないためどのチャンネルを聞いているのかわか
+りません。Bluetoothで、YouTubeや、Amazonミュージックを聴く分には充分です。
+    低音も、サイズからしたらじゅうぶんですスマホとの接続もスムーズでしたラジオは、屋外で、電波の強い局は入りますね欲を言えば、私はラジオも良く聞くので、そこ
+が改良されたらとは思いますが、値段考えたらコスパは良いです
+今までドンキに売っていた同価格帯のスピーカーを使用していましたが、比べ物にならないくらい音質良いです。低音はそれなりですがクリアな音質です。素晴らしいです。
+    安かったので多少スマホの音が大きく聞こえるようになればいいかなと思う程度でしたが思ったより良かったです。Bluetooth接続もすぐ出来ましたし、有線の
+方も問題ないです。やや重いですが持ち運びも出来るので今度外で使ってみます。
+    FMラジオを聴くために購入しましたが、アンテナの性能が悪く、かなりノイズが入ってしまいます。Bluetoothは問題ありませんでしたので、Bluetoo
+thのスピーカーとしてはありだと思います。
+    Bluetoothの接続は良好です。ただ音質という言葉で評価云々という物ではありません。例えばテレビから飛ばした音声をキッチンで聞くとかそういう使い方は
+ありですね。
+    もう少し音質が良いのかと期待しましたが、期待外れです！安物のスピーカーのひび割れた音です。まあ価格なりですね……
+    価格を考慮すれば、外観、音質とも良好です音質はスマホ等の原音に影響しますが若干硬い音質ですしかしスマホで聞くよりは音量を含め快適に聞けました音質に特に拘
+らなければ千円台で購入できコストパフォーマンス最高です
+    ワイドFMは1局も受信できません。初期不良でしょうか？
+    FMラジオ📻が目的だったのに、まったくだめ😩
+    FMラジオが入りにくい。低音の量が少ない。
+    今まではスマホで音楽を聴いてましたが、スピーカーにつなげるといいです！お買い得に購入できたので満足しています。
+    Bluetooth接続が非常に簡単で音質も思っていたより大分良かった。
+    ポータブルラジオ程度の音しか出ません。
+    お手頃価格なのに機能が全部入っていてなかなかオススメです。音質このお値段にしては良いと思います、勿論ウン万円する物と比べると差はありますが。
+    音は中音域が高めでコモる感じは少なくクリアです。低音の期待はしたらいけません。ほぼiphoneスマホレベル。
+    bluetooth接続が不安定、よく切れます。SDカード、usbカードのプレイは良いです。
+    音質は良いとまでは言えませんが、値段相応かと思います。Bluetooth接続は取説なしで簡単に接続できました。接続エラーも起きてないです。電源をオンにし
+た時に流れるアナウンスはもう少し音量を下げて頂ける助かります。この値段としては良品と思います。
+    今回調理中に音楽を聞こうと思い購入致しました音質、低音の音質共に満足のいくものでした！！特に低音は値段以上だと感じました！！コスパ最高でした！！お酒を飲
+みながら気軽に音楽を聴きたいと思っている方にもオススメです！！
+    お風呂でbluetoothスピーカーを利用したくて購入しました。ＦＭラジオも聞けて、バッテリーとしても利用できる。防災グッズとしても最適です。期待以上の
+商品でした。満足しています。
+    2台でいい音になります。
+    気に入ったんですが、バッテリーがすぐ切れてしまいます。あとblootoothが不安定です。
+    これと同じようなスピーカーを使ってますが、それはBluetoothに繋がってると、ぴーと言う音がなってるのですが、この商品はそんなことがなくて良かったで
+す。青の縁取りが、実物だと結構綺麗です。
+    家で聞いたら、屋外イベントの時に使用してます。特段音にうるさかったりするわけでもないので（苦）何の不満もなく満足してます。Bluetooth以外にもSD
+カードでも聴けるので便利ですよ。
+    就寝前にbluetooth でヒーリングミュージックやJAZZを掛ける為に購入。小型で疲れない程度の低音でバランスが良い。本格的なオーディオシステムとは
+比べたらキリないですが価格から考えたら満足です!!
+    大変良い買い物でした。ブルーツースはすぐにつながりました。低音はもっとあっても良いように思いましたが値段を考えれば音質全体大満足です
+    とても手軽で使いやすくいい商品だと思います。音質も良く、携帯からそのまま音楽を聞いていましたが、音質が全然違うので、毎日使っています。
+2台購入したがペアリング出来ませんでした、メールで連絡し数時間後にはWTS機能用のパッチを送って貰い、無事に解決しました。素早い対応だったし、小型で音も良し。
+    運転の仕事中に利用しています。持ち運びが便利でバックに入れての持ち運びも楽々です。スピーカーが小さいので重低音には限界がありますが屋外のレジャーとかのシ
+ーンでの利用とかならば十分な音質です。満足しています。
+    The sound is clear.The power of battery is also good.I like this speaker
+enough for big room.
+    防水ならより良かった。
+    理由は分かりませんが、携帯の画面をつけたまま繋ぐとたまに音がブツブツ飛びます。機嫌がいいとそんなことは無いんですが…………音は値段相応かなって感じです。
+綺麗な音が聞けるので重宝してます
+    You get hat you paid.Nice for daily using but about MEGA Bass... forget from
+it.
+    Bluetooth接続も簡単にでき小さいボディーの割には十分な音質のポータブルスピーカーです。
+    WEB会議で使用するために購入しました。ノートPCのスピーカだと、聞こえないこともしばしばありましたが、少し広めの会議室でも、十分な音量で聞き取ることが
+できるようになりました。購入して正解でした。
+    千円代で音質も悪くなく、音量もあっていいものです。
+    Bluetooth接続もすんなりでした。低音は弱いですが、こんな小さいボディの割には頑張っている感じがします。値段を考えても満足できる買い物でした。
+    すぐに接続できる簡単
+    一台購入しその後に2台目を購入しました。コスパでお勧めです。ただし、音質を気にしている方は高級品の購入を考えた方がいい。
+    この価格でこの音量、音質最高です！bluetooth の接続も電源入れるだけで、簡単です。発送も早くて言う事無しです。大満足です。
+とりあえず安いワイヤレススピーカーを探していたところこちらの商品を発見しました。この値段でこの性能なら十分です。万が一故障したらまた購入したいと思います。
+    ラジオが聞きたくて、ラジオオンリーよりも多機能な物に感じ購入したのですが…常に聞いているラジオ局が繋がらないので、今のところはこの評価です。
+    安いので、文句はなしで！
+    今回２つ購入して無事に２つのスピーカーとBluetoothを繋ぐことができてとても音が綺麗でこの値段！とても満足してます！壊れたらまた同じの買うと思うぐ
+らい満足です！
+    二台接続すると音質も変わった気がした。価格も低価格なので、2台買いをお勧めします。音量を調節したら、軽い映画館気分が味わえました♪久々にいい買い物です！
+    値段の割に音もキレイに聞こえて、Bluetoothにもすぐつなげられたので満足しております
+    低音がよいとあったので期待していましたが、思ったより普通です。音質は悪くはありません。ペアリングはすぐにできました。操作もやりやすいです。
+    お値段的にあまり期待はせずに購入しましたが、コンパクトながら音質も申し分ありません。キッチンで使用していますが、防水なので水の近くでも気にせず使えて助か
+ってます。
+    音質もよくいつもお風呂で使用してます！音の大きさも良くとても使い勝手が良くBluetoothもすぐ接続出来ました
+いやー小さいスピーカーなのに素晴らしいわ！オススメです！オンにするとピピピとアラーム音が鳴ってるのが気に食わないです！ラジオ昨日も使えませんがまあいいです！
+    赤と青同時購入しました。ペアリングもスムーズに出来て、作業中の音楽に重宝しております。買って良かったと思っております。
+    JBL機が壊れたので、価格に惹かれて購入。音質は軽い感じだけど、2千円台としては合格。他社品レビューにある音飛びもないです。
+    FMも聞けて、迫力満点の音で、かなり良い！
+    テレビとブルートゥース接続していますが、音声が若干送れて出てきます。その他、音質的には価格の割にはよいかと思います。
+    コンパクトで音量に満足。ラジオの感度が良くないのは残念です。
+    小型な割に音も大きく、音質も良い。色合いも黒に水色がオシャレで気に入っています。コストパフォーマンスも抜群で、満足しています。
+    パンチグリルが幾何学的になっており格好良いです。非常に好感を持ちました。オーディオ性能としても悪くない！
+    音やデザインは文句なしです。ブルートゥースが一回切れて再接続しました。これから何日か使ってみて接続に問題なければOKです。
+    スマートなデザインで、Bluetoothの接続や音質も問題無く、良い製品だと感じました。
+    大きさ、形、デザイン、音質 どれも良かったですベッドサイドに置いて使用してます
+    安価で、目的のニーズに最適で、役立っています。
+    使い始めたばかりでよく分からないですが、いいと思います。
+    ラジオは国内では入らないようです。
+    最大音量は結構大きく価格通りの使用具合音質は…
+    Bluetoothすんなり接続できます。音質かなり良いです。
+    日本語の説明書がついてたのですぐ使い方わかったし、安いのに音もBluetoothもいいです。
+    コンパクトで音質も良く大満足です！また、機械音痴な自分でも簡単にBluetooth接続できました！
+    Bluetoothの接続がとても簡単で、扱いやすいです。音も悪くありません。とっても気に入っています。
+    とても小型な割には十分な音質で手軽に持ち運びできDIY好きな方には場所選ばず設置できるのでおすすめです。
+    2台購入して連動出来るとの事でしたが、説明動画で検索しても出来ません。どうやったら連動出来るか教えて下さい。
+    この値段でこの音質はかなりいいと思う！使ってみて不具合もないしおすすめ！！！
+    この値段で、この音質、機能は充分お得だと思います。見た目もスタイリッシュで良いです！
+    低音もっと欲しい　接続スムーズです
+    低価格で使いやすい品だと思います。接続も簡単、シンプルで良いです。
+    新しく買ったモニターにも問題なく接続出来たので、とても良い商品だと感じました
+    コストパフォーマンスがいい
+    バッテリーが充電できない。交換してもらいたけど　どこに問い合わせたらいいのでしょう？
+    予想以上の音質でした。屋外でのパーティーでも十分使えます。もちろんアマゾンミュージックで。
+    音が思ったより良かった!いい商品です！この値段なら大満足!
+    お値段以上です！総合的に良かった
+    音が濁っているし、プチプチ音が切れる。
+    音質もこの金額にしては十分、満足しています。
+    買って1週間も経ってないのですが、ノイズ音がします。交換可能でしょうか？
+    bluetooth接続すぐ繋がりました。
+    つかやすい
+    音が良かった。
+    お値段よりいい品質のスピーカーでした
+    いい製品です。買いです。
+    操作方法がわかりやすくて良かったです
+    安くてもこれではもう買いません。
+    添付品のイヤホンジャック？の接続プラグが変形してました。
+    初期設定が簡単で音量があり、満足です。
+    予想以上に音がよかったです！！
+    問題無く使えています！
+    価格の割にコスパ高いです！
+    bluetooth接続
+    価格以上に高音質
+    Very good
+    この値段でこの質なら満足です。
+    いい感じです。
+    良いイメージはなかったのですが、コンパクトでベット横に置けるサイズで探していたらちょうど値段も手頃で見た目も良いのがこの商品でした。基本的な操作は簡単で
+説明を見なくても使えた位です。肝心な音もそんな悪い感じは無くあとはスマホのイコライザーで好みの音程で音楽聞けば何も問題ありません。良い商品でした
+    音質は悪くなく、聞き応え充分である。ただステレオオーディオケーブルが、もっと長かったら良かったのと、取説が中途半端な感じがして判らなかった。
+    安い割には見た目も安っぽくなく、ペアリングなども問題なく行えました。いい買い物をしました。
+    電源オンオフのスイッチの場所が後ろなので置く場所によっては不便です。メインのボタン周りと同じ上側にあればかなり良かったのですが。バッテリーは持ちは良いの
+で今のところは良いですが、充電しながらの使用は不可となっているようなので気にしながら使うことになります。付属のケーブルはかなり短いので接続先が遠いと別途買い足す
+必要があります。
+    再生中にノイズが発生するようになり、更にSDカードを読み込まなくなった。充電しようとしても充電できず、ローバッテリーと警告が発生する始末。大切なイベント
+のBGMが台無しになりました。たいへんに低品質な品物です。
+    PCからの、音楽再生用として購入しました。そこそこの音質で鳴ってくれます。飽くまで「そこそこ」なので、お値段以上の性能を期待すると、裏切られるかも。Bl
+uetoothの接続は素早いし、ペアリングも簡単でした。FMチューナーはオマケ程度で。2台繋げて、サラウンド環境を構築すればまた別なのかもしれませんが、皆さまの
+レビュー通り、メーカーに連絡と言う手間がかかります。最大の問題は、接続開始時のデフォルトに戻ってしまう音量ですねー。それも、かなりの大きさです（Windows1
+0の標準ミキサーで、70）。これにはほとほと困るのと、毎回調整が必要なので、☆は3にしました。良くも悪くも、お値段通りです。
+    プラスチック然としており非常に安っぽい造りです。FM放送を聞くために購入しましたが、どの放送局を視聴してもノイズが入ります。他のラジオだと綺麗に入る場所
+でも必ずノイズが入る。チューナーかスピーカーに異常が有るようなので返品します。
+    音質を気にされる方は購入されない方が良いです。お世辞にも良いとは言えません。低音もほぼ聞こえず。まあ、とっても安いですし、Bluetoothもすぐに繋が
+りますし、音質を気にされない方なら満足できものだと思います。
+    参ったな～昔のラジオを聴いているみたいだけど、逆にどうしてこんな音になってしまうのですか？
+    見た目はシンプルでお洒落な感じになってます。接続も簡単にでき、初めての方でも使用しやすいと思います。音質も値段的にあまり期待はしてなかったのですが、思っ
+たより全然いいです！
+    重低音って皆さん仰っているが、まさかこのサイズでは大したことは無いだろうと思い購入。いやー皆さんの仰るとおり重低音が出すぎ！お風呂で使うとより一層低音が
+響く。音楽を聴くにはバランスが悪すぎ。スマホのイコライザーで調整してやっとバランスをとりました。バーベキューなど、屋外で使うには良いのかも。
+    作業中にラジオ聞く用に購入しました。Bluetooth接続も簡単に出来ました。音質や安定感も仕事中聞く程度なので問題なしです。ノイズも特になく聞けていま
+す。サイズも想像してたより小さくて場所を取らないので良かったです。
+    今まで使用していたスピーカーが壊れたので本製品を購入しました。ブルーツース接続も安定しており、音質も低音から高温までバランスが良いです。ボリューム調整も
+前のスピーカーよりスムーズに出来ます。以前のものは急激に音の大きさ大きくなったり、小さくなったりしました。価格も前のものより安く満足しています。
+    お値段以上でよかったです。もう一つ購入しようと思います。
+    ドライブの時に車に持ち込めば家族で音楽が聴けるし、何でもっと早く買わなかったんだろう？と思うくらい活躍しています。このお値段でこの機能とデザインは素晴ら
+しいと思います
+    使いやすい
+    早急の配達をして頂き、直ぐに充電を行ない操作をいたしました。音質もよく、bluetooth接続もすぐに繫がりました。そして操作性にしてもわかりやすかった
+です。私にとっては満足の行く商品で最高のものです。
+    パソコンにつないで、別の部屋で音楽が聴けます。音も良く、とても便利です♪
+    ワイヤレスでも、有線でも使えるスピーカーを探していて、こちらを購入しました。コンパクトながら、迫力ある音で聴くことができます！今まではiPodでイヤフォ
+ンで聴きながら寝ていたのですが、スピーカーで聴けるようになったので、凄く快適です。Bluetoothの最新式のスピーカーですが、iPodでもウォークマンでも、使
+いたいとき簡単に有線で繋いで聴けるのも手軽で嬉しいです。ラジオも聞けますし、ハンズフリーで通話もできるので凄く使い勝手が良いです。MicroSDカードでも再生で
+きるのでこれから活用できそうです。バッテリーの持ちも凄くいいです。良い製品を購入して満足です！
+    「ZoeeTree S1」青色モデルです。セール時に1499で入手しました。ZoeeTreeは2台目の購入です。低音は小型中華スピーカーによくある弱い低
+音ですが中音高音は特に音割れも無いので音楽を聞く分には特に問題ない音質です。チープで小さなスピーカーですが音源を爆音で鳴らす能力はあるので、プレーヤーとして使う
+時は事前にMP3を無劣化音量調節するソフトで音量低めにしてから使ってください。音質より「電源オン時の案内音声や音量最大時の警告音が爆音」なのが気になります。音量
+を最大まで上げた時に警告音が鳴るのですが警告音が大きくやかましいです。microSDはファイル名順ではなく「SDカードに曲を置いた順」で再生されるので注意してく
+ださい。
+    前に使っていたワイヤレススピーカーにはハンズフリー機能ななかったので、今回初めて使ってみましたが、とても良いです。料理をしながら、子供の面倒を見ながら、
+友達と電話できるのはストレス発散になります。携帯のハンズフリー機能より遥かに音質も良いです。音楽を聴く時もラジオを聴く時も、低音・高音共に音がとても綺麗です。
+    I've now started turning my phone off at night but still needed an alarm
+clock. This clock is really easy to set, whether I want it 12 hour or 24 hour, I
+can easily switch it. Setting my alarm was really easy too. When the clock is
+set to regular when it comes to being lit, it can get kind of bright, especially
+at night when I turn on my side that will face the alarm. Luckily with the
+dimmer on it, the light goes fairly dim to where it doesn't wake me up anymore.
+You can choose to have the alarm wake you up with a beep or from the radio. I've
+chosen the radio because it wakes me up but gives me gradual wake up. I do like
+the bluetooth feature on it because the speaker can get really loud. I will
+actually use this when I'm in my room changing sheets and doing laundry. This
+clock is really and doesn't take up much space on my night stand.
+    Uplift digital alarm is so helpful for me and my Mom. This has helped her be
+less forgetful with her medications and therefore helped reduce my stress level
+as her care giver. Hearing my voice is comfortable to her. Repeating the Signal
+over and over until she shuts it off by pushing down on it makes it easy to use
+and successful. Great device. My Mom doesn’t like tablets and smartphones but
+she is so comfortable with this item because it just looks like an old normal
+clock.
+    My  old  clock was terrible,that no longer receives good radio reception  a
+week  ago,I  can't  stand it  any more.So I try to  find  a new  clock radio  to
+replace the  old one, I bought this after compare kinds radio alarm clocks.To be
+honest ,I  was little unhappy when I  got it ,its front screen like a  mirror
+seems too bright to look numbers clearly.but after I  plug in the power to set
+clocks I  felt great,the display number is  so clearly especially  the time
+number.The fm radio  function maybe the  best I  met,It can automaticallly
+seraching and save stations ,it is  so convenient for me.I  am so satisfy with
+its  sound,I can  hear the radio clearly ,many radios clock  will some noise
+,but this one will not like that.Though I rarely use  bluetooth speaker,I  also
+try to test it,works well.
+    The clock with large button , really convenient to set.Clear  LED  screen
+is super bright ,easy to read .This little clock has everything you need. Time,
+temperature and day of week!Radio stations come in very clear, for something so
+small it is extremely loud. Its bluetooth works  really good,I put it  on my
+night stand,looks so  great.The speaker for thos alarm clock far exceeds my
+expectations. I would recommend to anyone wanting a new alarm clock!!!
+    It's clear, the quality feels good, the color is beautiful, it doesn't stand
+out, it looks comfortable and powerfulA nice little feature is a temperature
+indicator and dimmer - I really don't like bright clocks at night, so I'm happy
+to be able to change the brightness of the monitor.I set the alarm clock every
+day, when the time comes, it will make pleasant music, the sound quality is very
+good, urge me to get up, the screen also shows the temperature, so I get up
+every day to know the weather, then put on appropriate clothes, pack up and go
+out.This smart LCD alarm clock, I like it very much!
+    I wanted some alarm for my bedside table. This one looks cool so I bought
+it. It is very easy to setup. It has two alarm options, one can be used for
+regular wakeup time, and the second one for some specific times. It has a USB
+charger, which I use for my phone as my wall socket is behind my bed. Also, It
+has a thermometer so I can see the temperature without wasting 15 mins on my
+phone in the morning.It scans FM frequency so you can listen to the radio or
+play your own music from your phone by connecting it to Bluetooth. It has an SD
+card reader too.  The good thing is you don't need the internet to listen to
+music with this speaker. you can easily take it with you on your road trips or
+cabins. The sound is crystal clear and crisp. Overall I am satisfied with the
+product.
+    Very clear, the quality feels good, the color is also beautiful, will not
+dazzle, it looks very comfortable, powerful。I set the alarm clock every day,
+when it comes to time, it will sound sweet music, the sound quality is very
+good, urge me to get up, the screen also shows the temperature, so I get up
+every day to know the weather, and then put on the appropriate clothes, clean up
+and go out, this intelligent LCD Alarm Clock, I like it very much。placed in the
+nightstand is very small, delicate, does not occupy space。
+    Bought for my bed bound father-in-law and my goodness it was a nightmare
+trying to figure this thing out! Zero instructions! Cord way too short and not
+for anyone above 18, I’m not an idiot but this thing is a pain to operate and
+change channels!
+    Sound appearance is simple atmosphere, sound quality is very good, the
+clock, clock function is very practical Exquisite workmanship, simple
+appearance, tall, small but large enough Numbers, and clear, the most like is a
+few kinds of brightness adjustment, not dazzling at night.Adjustable operation
+is simple and easy to understand, can charge use, intelligent.I thought it was
+perfect and it took me a few days to evaluate it.The more you use it, the more
+you like it.
+    This is hands down one of the best alarm clocks that I have chosen to buy.
+The best feature in my opinion is that the alarm clock has the Bluetooth feature
+and that it comes with a battery already so I didn't have to buy one. The alarm
+clock is small and easily portable for me because I used the alarm clock with
+the battery. I really think that the alarm clock is worth the price because it
+was easy to set-up and use.
+    Multi-purpose have quality sounds and is very comfortable, clear no murmur,
+can both Bluetooth and connect to the computer, the sound is bigger than my
+notes. It's much better to listen to songs at work. It doesn't whisper too
+much.Can also set the alarm clock when the electronic clock, temperature
+display, the function is really a lot, there are holes in the back of the TF
+card, this less used.
+    Really good alarm clock, it has three alarm sound and the volume is really
+loud, but not too loud to wake everyone in your house up. Also have a lot of
+extra features like radio, bluetooth speaker, and two USB charger.
+    Very good little clock.  Very nice bright numbers.
+    Este es un producto fácil de usar, muy práctico, y muy útil.
+    Amazing clock with Bluetooth speakers.
+    Small radio, does its job.
+    Radio sounds great.Idon't like using my cellphone alarm unless I have to and
+my old alarm clock was going bad.The only thing I wished it would have is a
+daylight saving time feature on it but I can live without that.I'm happy for
+something easy to use.
+    Not worth the money spent. The letters on back, push buttons are faded. It’s
+very small. Radio knob is hard to turn. Instructions not well explained. Don’t
+buy it. Looks like a cheap Product worth $10 not $30
+    will not display the time and no manual way to set the time. Plugged in
+outdoors for an hour or more - still no time display.
+    Ordered for my teen daughter, she loved it. It has all the bells and
+whistles, but it was not easy to use and the alarm didn't work.  Had to send
+back as the main reason for buying it was for the alarm, everything else was
+extra.
+    Nice looking clock but you can not read the writing on it as far as volume,
+tuning, etc...
+    The Bluetooth function and sound was great however I was not able to listen
+to my favorite fm radio station due to static no matter where I positioned it. I
+mainly wanted it for the time, radio and Bluetooth function in my office.
+    Accurate time, easy to see the time, clear Numbers, color is also very like
+    Don't buy this clock if you think you're going to take it right out of the
+box and get it working correctly. The instructions are all over the place,
+obviously written by someone who has no understanding of the English language.
+As I'm attempting to set it up and have to keep referring back to the
+instructions I was constantly saying "WHAT?!?!" A small clock radio should NOT
+be a big deal to get going but this one sure is. Wish I had bought a name brand,
+American made clock!
+    Got this clock in August and it already isn't working right.  At least 3
+morings a week the alarm does not go off.  Return window just passed earlier
+this month so I'm stuck with it.  Very disappointed.
+    It has some features I really like - USB port, micro sd card slot, a
+completely dark clock face for sleeping, etc... but a few strange things cause
+me not to be completely happy.  The snooze quits working on its own after 20
+minutes.  When I put the music on to fall asleep to, the lighted face of the
+clock automatically turns on when the music stops, and wakes me up!  Some
+buttons do multiple features, so sometimes the clock gets confused what you
+want.  The volume is digital, so #1 is very quiet, and #2 is kind of loud - not
+gradual enough in volume.  So I deal with these things and kept it - for now.
+    This clock has many features. Unfortunately, the written instructions do not
+have any info about how to set the clock, though there are instructions about
+all other features.  I can't figure it out and there is no info about a company
+website or how to get assistance. The sound is good and it has several features
+I want, but without being able to set the time, it is useless to me. I am
+returning it.
+    Clear Digital LED blue display,adjustable dimmer using the large rotary
+knob/button,easy-to-program.For those that like all the bells and whistles it
+Support TF card and U Disk,provide with multiple alarm ringtones or for
+Bluetooth use for phone calls or listening to music while you clean.16 volume
+levels, up to 120 db,more louder than normal alarm clocks for heavy sleepers.
+which gradually increases in volume from gentle to the level you set.
+    I really like that there are different brightness settings and that there
+are 2 USB ports right in front. Setting the time and alarm are not the easiest
+thing to do on this clock and it gets frustrating. But I use my phone for the
+alarm.
+    I love this little alarm clock! The numbers have a purple hue to them that I
+love and there's a little pink detail around the knob on top. It was very easy
+to set and change settings.

@@ -99,7 +99,7 @@ def bar_chart_err(data_pct, err_pct):
 
     BENFORD = [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
     
-    ax.scatter(index, BENFORD, s = 150, c = 'red', zorder=2, label = 'Benford')
+    ax.scatter(index, BENFORD, s = 50, c = 'red', zorder=2, label = 'Benford')
 
     ax.spines['right'].set_visible(False)
     ax.spines['top'].set_visible(False)

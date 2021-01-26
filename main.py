@@ -73,6 +73,6 @@ def analyze(review_type, does_get_review=False, does_separate=False, does_count=
 
 
 if __name__ == "__main__":
-    #analyze("bad", False, False, True)
+    analyze("bad", False, False, True)
     analyze("good", False, False, True)
     
