@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.euc) (TeX Live 2020) (preloaded format=platex 2021.1.24)  27 JAN 2021 01:11
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.euc) (TeX Live 2020) (preloaded format=platex 2021.1.24)  28 JAN 2021 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -119,9 +119,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ./bad_result.png Graphic file (type bmp)
 <./bad_result.png>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 71.
+(Font)              scaled to size 8.64899pt on input line 70.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 71.
+(Font)              scaled to size 8.64899pt on input line 70.
 File: ./good_result.png Graphic file (type bmp)
 <./good_result.png>
 
@@ -150,4 +150,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  68i,7n,74p,238b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on wip_jonah.dvi (2 pages, 8032 bytes).
+Output written on wip_jonah.dvi (2 pages, 8208 bytes).
